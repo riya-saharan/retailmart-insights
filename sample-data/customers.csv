@@ -1,0 +1,31 @@
+customer_id,customer_name,email,city,region,segment,signup_date
+C0001,Arjun Sharma,arjun.sharma1@example.com,Bhopal,Central,Home Office,2024-03-06
+C0002,Meera Gupta,meera.gupta2@example.com,Pune,West,Consumer,2025-07-18
+C0003,Arjun Jain,arjun.jain3@example.com,Lucknow,North,Consumer,2025-04-22
+C0004,Saanvi Sharma,saanvi.sharma4@example.com,Chandigarh,North,Consumer,2024-11-16
+C0005,Kavya Gupta,kavya.gupta5@example.com,Delhi,North,Home Office,2024-11-12
+C0006,Aarav Jain,aarav.jain6@example.com,Chandigarh,North,Consumer,2025-09-18
+C0007,Zoya Kapoor,zoya.kapoor7@example.com,Lucknow,North,Consumer,2024-03-03
+C0008,Nikhil Sharma,nikhil.sharma8@example.com,Kolkata,East,Consumer,2025-05-24
+C0009,Saanvi Patel,saanvi.patel9@example.com,Lucknow,North,Corporate,2024-05-27
+C0010,Kavya Patel,kavya.patel10@example.com,Mumbai,West,Consumer,2024-03-09
+C0011,Rohan Verma,rohan.verma11@example.com,Delhi,North,Corporate,2025-01-19
+C0012,Nikhil Sharma,nikhil.sharma12@example.com,Hyderabad,South,Home Office,2025-12-13
+C0013,Zoya Verma,zoya.verma13@example.com,Kolkata,East,Corporate,2025-06-21
+C0014,Zoya Singh,zoya.singh14@example.com,Delhi,North,Home Office,2025-07-09
+C0015,Riya Saxena,riya.saxena15@example.com,Chandigarh,North,Consumer,2025-06-07
+C0016,Ananya Sharma,ananya.sharma16@example.com,Lucknow,North,Home Office,2025-07-27
+C0017,Priya Verma,priya.verma17@example.com,Bengaluru,South,Consumer,2025-01-09
+C0018,Rohan Singh,rohan.singh18@example.com,Delhi,North,Corporate,2024-04-03
+C0019,Riya Mehta,riya.mehta19@example.com,Bhopal,Central,Corporate,2025-09-05
+C0020,Kavya Singh,kavya.singh20@example.com,Hyderabad,South,Home Office,2024-11-24
+C0021,Ananya Saxena,ananya.saxena21@example.com,Bhopal,Central,Home Office,2024-12-31
+C0022,Zoya Gupta,zoya.gupta22@example.com,Mumbai,West,Consumer,2024-09-27
+C0023,Rohan Singh,rohan.singh23@example.com,Kolkata,East,Home Office,2024-05-13
+C0024,Zoya Gupta,zoya.gupta24@example.com,Lucknow,North,Home Office,2025-11-07
+C0025,Aditi Gupta,aditi.gupta25@example.com,Hyderabad,South,Consumer,2025-07-24
+C0026,Rohan Singh,rohan.singh26@example.com,Hyderabad,South,Consumer,2025-04-15
+C0027,Rahul Gupta,rahul.gupta27@example.com,Bengaluru,South,Home Office,2024-10-20
+C0028,Rohan Joshi,rohan.joshi28@example.com,Kolkata,East,Consumer,2025-08-23
+C0029,Diya Gupta,diya.gupta29@example.com,Pune,West,Home Office,2025-02-02
+C0030,Zoya Singh,zoya.singh30@example.com,Ahmedabad,West,Home Office,2024-11-19

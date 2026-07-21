@@ -1,0 +1,4547 @@
+[
+  {
+    "customer_id":"C0001",
+    "customer_name":"Arjun Sharma",
+    "email":"arjun.sharma1@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-03-06"
+  },
+  {
+    "customer_id":"C0002",
+    "customer_name":"Meera Gupta",
+    "email":"meera.gupta2@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-07-18"
+  },
+  {
+    "customer_id":"C0003",
+    "customer_name":"Arjun Jain",
+    "email":"arjun.jain3@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-22"
+  },
+  {
+    "customer_id":"C0004",
+    "customer_name":"Saanvi Sharma",
+    "email":"invalid-email",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-11-16"
+  },
+  {
+    "customer_id":"C0005",
+    "customer_name":"Kavya Gupta",
+    "email":"kavya.gupta5@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-11-12"
+  },
+  {
+    "customer_id":"C0006",
+    "customer_name":"Aarav Jain",
+    "email":"aarav.jain6@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-09-18"
+  },
+  {
+    "customer_id":"C0007",
+    "customer_name":"Zoya Kapoor",
+    "email":"zoya.kapoor7@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-03-03"
+  },
+  {
+    "customer_id":"C0008",
+    "customer_name":"Nikhil Sharma",
+    "email":"nikhil.sharma8@example.com",
+    "city":"Kolkata",
+    "region":"Unknown",
+    "segment":"Consumer",
+    "signup_date":"2025-05-24"
+  },
+  {
+    "customer_id":"C0009",
+    "customer_name":"Saanvi Patel",
+    "email":"saanvi.patel9@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-05-27"
+  },
+  {
+    "customer_id":"C0010",
+    "customer_name":"Kavya Patel",
+    "email":"kavya.patel10@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-03-09"
+  },
+  {
+    "customer_id":"C0011",
+    "customer_name":"Rohan Verma",
+    "email":"rohan.verma11@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-01-19"
+  },
+  {
+    "customer_id":"C0012",
+    "customer_name":"  riya sharma  ",
+    "email":"nikhil.sharma12@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-12-13"
+  },
+  {
+    "customer_id":"C0013",
+    "customer_name":"Zoya Verma",
+    "email":"zoya.verma13@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-06-21"
+  },
+  {
+    "customer_id":"C0014",
+    "customer_name":"Zoya Singh",
+    "email":"zoya.singh14@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-07-09"
+  },
+  {
+    "customer_id":"C0015",
+    "customer_name":"Riya Saxena",
+    "email":"riya.saxena15@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-06-07"
+  },
+  {
+    "customer_id":"C0016",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma16@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-07-27"
+  },
+  {
+    "customer_id":"C0017",
+    "customer_name":"Priya Verma",
+    "email":"priya.verma17@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-01-09"
+  },
+  {
+    "customer_id":"C0018",
+    "customer_name":"Rohan Singh",
+    "email":"rohan.singh18@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-04-03"
+  },
+  {
+    "customer_id":"C0019",
+    "customer_name":"Riya Mehta",
+    "email":"riya.mehta19@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-09-05"
+  },
+  {
+    "customer_id":"C0020",
+    "customer_name":"Kavya Singh",
+    "email":"kavya.singh20@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-11-24"
+  },
+  {
+    "customer_id":"C0021",
+    "customer_name":"Ananya Saxena",
+    "email":"ananya.saxena21@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-12-31"
+  },
+  {
+    "customer_id":"C0022",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta22@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-09-27"
+  },
+  {
+    "customer_id":"C0023",
+    "customer_name":"Rohan Singh",
+    "email":"rohan.singh23@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-05-13"
+  },
+  {
+    "customer_id":"C0024",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta24@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-11-07"
+  },
+  {
+    "customer_id":"C0025",
+    "customer_name":"Aditi Gupta",
+    "email":"aditi.gupta25@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-07-24"
+  },
+  {
+    "customer_id":"C0026",
+    "customer_name":"Rohan Singh",
+    "email":"rohan.singh26@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-04-15"
+  },
+  {
+    "customer_id":"C0027",
+    "customer_name":"Rahul Gupta",
+    "email":"rahul.gupta27@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-10-20"
+  },
+  {
+    "customer_id":"C0028",
+    "customer_name":"Rohan Joshi",
+    "email":"rohan.joshi28@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-08-23"
+  },
+  {
+    "customer_id":"C0029",
+    "customer_name":"Diya Gupta",
+    "email":"diya.gupta29@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-02-02"
+  },
+  {
+    "customer_id":"C0030",
+    "customer_name":"Zoya Singh",
+    "email":"zoya.singh30@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-11-19"
+  },
+  {
+    "customer_id":"C0031",
+    "customer_name":"Saanvi Saxena",
+    "email":"saanvi.saxena31@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-11-24"
+  },
+  {
+    "customer_id":"C0032",
+    "customer_name":"Meera Mehta",
+    "email":"meera.mehta32@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-06-14"
+  },
+  {
+    "customer_id":"C0033",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma33@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-03-08"
+  },
+  {
+    "customer_id":"C0034",
+    "customer_name":"Ishaan Kapoor",
+    "email":"ishaan.kapoor34@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-02-08"
+  },
+  {
+    "customer_id":"C0035",
+    "customer_name":"Rohan Kapoor",
+    "email":"rohan.kapoor35@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-10-10"
+  },
+  {
+    "customer_id":"C0036",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh36@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-02-16"
+  },
+  {
+    "customer_id":"C0037",
+    "customer_name":"Arjun Jain",
+    "email":"arjun.jain37@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-09-18"
+  },
+  {
+    "customer_id":"C0038",
+    "customer_name":"Rahul Verma",
+    "email":"rahul.verma38@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-08-27"
+  },
+  {
+    "customer_id":"C0039",
+    "customer_name":"Ishaan Joshi",
+    "email":"ishaan.joshi39@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-07-21"
+  },
+  {
+    "customer_id":"C0040",
+    "customer_name":"Nikhil Jain",
+    "email":"nikhil.jain40@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-06"
+  },
+  {
+    "customer_id":"C0041",
+    "customer_name":"Arjun Singh",
+    "email":"arjun.singh41@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-04-30"
+  },
+  {
+    "customer_id":"C0042",
+    "customer_name":"Kavya Mehta",
+    "email":"kavya.mehta42@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-07-07"
+  },
+  {
+    "customer_id":"C0043",
+    "customer_name":"Zoya Jain",
+    "email":"zoya.jain43@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-05-26"
+  },
+  {
+    "customer_id":"C0044",
+    "customer_name":"Rahul Joshi",
+    "email":"rahul.joshi44@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-09-15"
+  },
+  {
+    "customer_id":"C0045",
+    "customer_name":"Riya Singh",
+    "email":"riya.singh45@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-02-19"
+  },
+  {
+    "customer_id":"C0046",
+    "customer_name":"Meera Saxena",
+    "email":"meera.saxena46@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-12-09"
+  },
+  {
+    "customer_id":"C0047",
+    "customer_name":"Varun Verma",
+    "email":"varun.verma47@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-11-21"
+  },
+  {
+    "customer_id":"C0048",
+    "customer_name":"Diya Joshi",
+    "email":"diya.joshi48@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-10-13"
+  },
+  {
+    "customer_id":"C0049",
+    "customer_name":"Nikhil Jain",
+    "email":"nikhil.jain49@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-05-09"
+  },
+  {
+    "customer_id":"C0050",
+    "customer_name":"Kavya Jain",
+    "email":"kavya.jain50@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-07-22"
+  },
+  {
+    "customer_id":"C0051",
+    "customer_name":"Kavya Singh",
+    "email":"kavya.singh51@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-07-08"
+  },
+  {
+    "customer_id":"C0052",
+    "customer_name":"Riya Joshi",
+    "email":"riya.joshi52@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-05-22"
+  },
+  {
+    "customer_id":"C0053",
+    "customer_name":"Arjun Gupta",
+    "email":"arjun.gupta53@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-09-22"
+  },
+  {
+    "customer_id":"C0054",
+    "customer_name":"Rahul Sharma",
+    "email":"rahul.sharma54@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-12-06"
+  },
+  {
+    "customer_id":"C0055",
+    "customer_name":"Meera Saxena",
+    "email":"meera.saxena55@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-12-29"
+  },
+  {
+    "customer_id":"C0056",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma56@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-02-01"
+  },
+  {
+    "customer_id":"C0057",
+    "customer_name":"Aditi Patel",
+    "email":"aditi.patel57@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-02-02"
+  },
+  {
+    "customer_id":"C0058",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh58@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-04-22"
+  },
+  {
+    "customer_id":"C0059",
+    "customer_name":"Kavya Jain",
+    "email":"kavya.jain59@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-06-26"
+  },
+  {
+    "customer_id":"C0060",
+    "customer_name":"Varun Gupta",
+    "email":"varun.gupta60@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-05-13"
+  },
+  {
+    "customer_id":"C0061",
+    "customer_name":"Kavya Verma",
+    "email":"kavya.verma61@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-11-04"
+  },
+  {
+    "customer_id":"C0062",
+    "customer_name":"Saanvi Patel",
+    "email":"saanvi.patel62@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-06-27"
+  },
+  {
+    "customer_id":"C0063",
+    "customer_name":"Tanvi Sharma",
+    "email":"tanvi.sharma63@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-09-24"
+  },
+  {
+    "customer_id":"C0064",
+    "customer_name":"Arjun Sharma",
+    "email":"arjun.sharma64@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-12-07"
+  },
+  {
+    "customer_id":"C0065",
+    "customer_name":"Rahul Verma",
+    "email":"rahul.verma65@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-10-26"
+  },
+  {
+    "customer_id":"C0066",
+    "customer_name":"Kavya Jain",
+    "email":"kavya.jain66@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-08-25"
+  },
+  {
+    "customer_id":"C0067",
+    "customer_name":"Saanvi Mehta",
+    "email":"saanvi.mehta67@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-10-23"
+  },
+  {
+    "customer_id":"C0068",
+    "customer_name":"Meera Verma",
+    "email":"meera.verma68@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-09-27"
+  },
+  {
+    "customer_id":"C0069",
+    "customer_name":"Arjun Sharma",
+    "email":"arjun.sharma69@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-02-25"
+  },
+  {
+    "customer_id":"C0070",
+    "customer_name":"Aarav Verma",
+    "email":"aarav.verma70@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-12-08"
+  },
+  {
+    "customer_id":"C0071",
+    "customer_name":"Saanvi Joshi",
+    "email":"saanvi.joshi71@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-08-03"
+  },
+  {
+    "customer_id":"C0072",
+    "customer_name":"Rohan Sharma",
+    "email":"rohan.sharma72@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-05-18"
+  },
+  {
+    "customer_id":"C0073",
+    "customer_name":"Aarav Kapoor",
+    "email":"aarav.kapoor73@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-12-03"
+  },
+  {
+    "customer_id":"C0074",
+    "customer_name":"Priya Kapoor",
+    "email":"priya.kapoor74@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-04-04"
+  },
+  {
+    "customer_id":"C0075",
+    "customer_name":"Zoya Joshi",
+    "email":"zoya.joshi75@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-05-16"
+  },
+  {
+    "customer_id":"C0076",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta76@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-12-13"
+  },
+  {
+    "customer_id":"C0077",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma77@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-08-29"
+  },
+  {
+    "customer_id":"C0078",
+    "customer_name":"Aditi Sharma",
+    "email":"aditi.sharma78@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-06-14"
+  },
+  {
+    "customer_id":"C0079",
+    "customer_name":"Yash Jain",
+    "email":"yash.jain79@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-02-16"
+  },
+  {
+    "customer_id":"C0080",
+    "customer_name":"Yash Verma",
+    "email":"yash.verma80@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-05-03"
+  },
+  {
+    "customer_id":"C0081",
+    "customer_name":"Ananya Gupta",
+    "email":"ananya.gupta81@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-11-17"
+  },
+  {
+    "customer_id":"C0082",
+    "customer_name":"Meera Saxena",
+    "email":"meera.saxena82@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-11-15"
+  },
+  {
+    "customer_id":"C0083",
+    "customer_name":"Ananya Kapoor",
+    "email":"ananya.kapoor83@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-04-27"
+  },
+  {
+    "customer_id":"C0084",
+    "customer_name":"Yash Patel",
+    "email":"yash.patel84@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-08-30"
+  },
+  {
+    "customer_id":"C0085",
+    "customer_name":"Rahul Gupta",
+    "email":"rahul.gupta85@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-04-04"
+  },
+  {
+    "customer_id":"C0086",
+    "customer_name":"Diya Singh",
+    "email":"diya.singh86@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-05-26"
+  },
+  {
+    "customer_id":"C0087",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma87@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-03-11"
+  },
+  {
+    "customer_id":"C0088",
+    "customer_name":"Arjun Verma",
+    "email":"arjun.verma88@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-08-16"
+  },
+  {
+    "customer_id":"C0089",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh89@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-07-14"
+  },
+  {
+    "customer_id":"C0090",
+    "customer_name":"Ananya Gupta",
+    "email":"ananya.gupta90@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-08-30"
+  },
+  {
+    "customer_id":"C0091",
+    "customer_name":"Ishaan Joshi",
+    "email":"ishaan.joshi91@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-11-13"
+  },
+  {
+    "customer_id":"C0092",
+    "customer_name":"Priya Saxena",
+    "email":"priya.saxena92@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-08-10"
+  },
+  {
+    "customer_id":"C0093",
+    "customer_name":"Aarav Jain",
+    "email":"aarav.jain93@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-09-06"
+  },
+  {
+    "customer_id":"C0094",
+    "customer_name":"Arjun Mehta",
+    "email":"arjun.mehta94@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-10-09"
+  },
+  {
+    "customer_id":"C0095",
+    "customer_name":"Arjun Jain",
+    "email":"arjun.jain95@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-10-17"
+  },
+  {
+    "customer_id":"C0096",
+    "customer_name":"Priya Saxena",
+    "email":"priya.saxena96@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-07-29"
+  },
+  {
+    "customer_id":"C0097",
+    "customer_name":"Rahul Gupta",
+    "email":"rahul.gupta97@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-06-23"
+  },
+  {
+    "customer_id":"C0098",
+    "customer_name":"Nikhil Jain",
+    "email":"nikhil.jain98@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-05-13"
+  },
+  {
+    "customer_id":"C0099",
+    "customer_name":"Aditi Verma",
+    "email":"aditi.verma99@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-04-09"
+  },
+  {
+    "customer_id":"C0100",
+    "customer_name":"Nikhil Sharma",
+    "email":"nikhil.sharma100@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-04-12"
+  },
+  {
+    "customer_id":"C0101",
+    "customer_name":"Diya Singh",
+    "email":"diya.singh101@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-08-30"
+  },
+  {
+    "customer_id":"C0102",
+    "customer_name":"Tanvi Jain",
+    "email":"tanvi.jain102@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-05-25"
+  },
+  {
+    "customer_id":"C0103",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma103@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-08-10"
+  },
+  {
+    "customer_id":"C0104",
+    "customer_name":"Diya Jain",
+    "email":"diya.jain104@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-01-06"
+  },
+  {
+    "customer_id":"C0105",
+    "customer_name":"Zoya Mehta",
+    "email":"zoya.mehta105@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-08-04"
+  },
+  {
+    "customer_id":"C0106",
+    "customer_name":"Aditi Singh",
+    "email":"aditi.singh106@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-07-28"
+  },
+  {
+    "customer_id":"C0107",
+    "customer_name":"Riya Gupta",
+    "email":"riya.gupta107@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-07-23"
+  },
+  {
+    "customer_id":"C0108",
+    "customer_name":"Arjun Patel",
+    "email":"arjun.patel108@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-04-30"
+  },
+  {
+    "customer_id":"C0109",
+    "customer_name":"Diya Gupta",
+    "email":"diya.gupta109@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-12-10"
+  },
+  {
+    "customer_id":"C0110",
+    "customer_name":"Saanvi Sharma",
+    "email":"saanvi.sharma110@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-05-29"
+  },
+  {
+    "customer_id":"C0111",
+    "customer_name":"Rahul Kapoor",
+    "email":"rahul.kapoor111@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-07-21"
+  },
+  {
+    "customer_id":"C0112",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh112@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-07-23"
+  },
+  {
+    "customer_id":"C0113",
+    "customer_name":"Arjun Kapoor",
+    "email":"arjun.kapoor113@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-02-09"
+  },
+  {
+    "customer_id":"C0114",
+    "customer_name":"Meera Gupta",
+    "email":"meera.gupta114@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-12-01"
+  },
+  {
+    "customer_id":"C0115",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta115@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-01-04"
+  },
+  {
+    "customer_id":"C0116",
+    "customer_name":"Kavya Kapoor",
+    "email":"kavya.kapoor116@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-02-19"
+  },
+  {
+    "customer_id":"C0117",
+    "customer_name":"Ananya Singh",
+    "email":"ananya.singh117@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-01-28"
+  },
+  {
+    "customer_id":"C0118",
+    "customer_name":"Yash Kapoor",
+    "email":"yash.kapoor118@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-04-12"
+  },
+  {
+    "customer_id":"C0119",
+    "customer_name":"Rahul Sharma",
+    "email":"rahul.sharma119@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-06-28"
+  },
+  {
+    "customer_id":"C0120",
+    "customer_name":"Ishaan Saxena",
+    "email":"ishaan.saxena120@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-03-24"
+  },
+  {
+    "customer_id":"C0121",
+    "customer_name":"Arjun Saxena",
+    "email":"arjun.saxena121@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-11-16"
+  },
+  {
+    "customer_id":"C0122",
+    "customer_name":"Rahul Kapoor",
+    "email":"rahul.kapoor122@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-05-02"
+  },
+  {
+    "customer_id":"C0123",
+    "customer_name":"Arjun Kapoor",
+    "email":"arjun.kapoor123@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-04-22"
+  },
+  {
+    "customer_id":"C0124",
+    "customer_name":"Nikhil Sharma",
+    "email":"nikhil.sharma124@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-12-09"
+  },
+  {
+    "customer_id":"C0125",
+    "customer_name":"Aarav Jain",
+    "email":"aarav.jain125@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-09-16"
+  },
+  {
+    "customer_id":"C0126",
+    "customer_name":"Kavya Patel",
+    "email":"kavya.patel126@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-02-16"
+  },
+  {
+    "customer_id":"C0127",
+    "customer_name":"Rahul Saxena",
+    "email":"rahul.saxena127@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-02-27"
+  },
+  {
+    "customer_id":"C0128",
+    "customer_name":"Arjun Singh",
+    "email":"arjun.singh128@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-07-12"
+  },
+  {
+    "customer_id":"C0129",
+    "customer_name":"Saanvi Patel",
+    "email":"saanvi.patel129@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-02-23"
+  },
+  {
+    "customer_id":"C0130",
+    "customer_name":"Priya Jain",
+    "email":"priya.jain130@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-08"
+  },
+  {
+    "customer_id":"C0131",
+    "customer_name":"Saanvi Kapoor",
+    "email":"saanvi.kapoor131@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-02-16"
+  },
+  {
+    "customer_id":"C0132",
+    "customer_name":"Ishaan Saxena",
+    "email":"ishaan.saxena132@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-02-08"
+  },
+  {
+    "customer_id":"C0133",
+    "customer_name":"Rohan Jain",
+    "email":"rohan.jain133@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-03-07"
+  },
+  {
+    "customer_id":"C0134",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta134@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-02-12"
+  },
+  {
+    "customer_id":"C0135",
+    "customer_name":"Rahul Joshi",
+    "email":"rahul.joshi135@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-08-03"
+  },
+  {
+    "customer_id":"C0136",
+    "customer_name":"Kavya Jain",
+    "email":"kavya.jain136@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-08-09"
+  },
+  {
+    "customer_id":"C0137",
+    "customer_name":"Ishaan Verma",
+    "email":"ishaan.verma137@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-03-16"
+  },
+  {
+    "customer_id":"C0138",
+    "customer_name":"Rahul Verma",
+    "email":"rahul.verma138@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-01-23"
+  },
+  {
+    "customer_id":"C0139",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta139@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-09-10"
+  },
+  {
+    "customer_id":"C0140",
+    "customer_name":"Aarav Sharma",
+    "email":"aarav.sharma140@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-11-14"
+  },
+  {
+    "customer_id":"C0141",
+    "customer_name":"Ananya Joshi",
+    "email":"ananya.joshi141@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-12-18"
+  },
+  {
+    "customer_id":"C0142",
+    "customer_name":"Kavya Kapoor",
+    "email":"kavya.kapoor142@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-06-05"
+  },
+  {
+    "customer_id":"C0143",
+    "customer_name":"Meera Mehta",
+    "email":"meera.mehta143@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-07-20"
+  },
+  {
+    "customer_id":"C0144",
+    "customer_name":"Aarav Verma",
+    "email":"aarav.verma144@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-10-25"
+  },
+  {
+    "customer_id":"C0145",
+    "customer_name":"Ishaan Jain",
+    "email":"ishaan.jain145@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-12-25"
+  },
+  {
+    "customer_id":"C0146",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta146@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-09-14"
+  },
+  {
+    "customer_id":"C0147",
+    "customer_name":"Diya Joshi",
+    "email":"diya.joshi147@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-01-26"
+  },
+  {
+    "customer_id":"C0148",
+    "customer_name":"Zoya Saxena",
+    "email":"zoya.saxena148@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-06-19"
+  },
+  {
+    "customer_id":"C0149",
+    "customer_name":"Yash Kapoor",
+    "email":"yash.kapoor149@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2025-08-22"
+  },
+  {
+    "customer_id":"C0150",
+    "customer_name":"Ishaan Joshi",
+    "email":"ishaan.joshi150@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-02-12"
+  },
+  {
+    "customer_id":"C0151",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh151@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-09-16"
+  },
+  {
+    "customer_id":"C0152",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh152@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-07-24"
+  },
+  {
+    "customer_id":"C0153",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta153@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-10-31"
+  },
+  {
+    "customer_id":"C0154",
+    "customer_name":"Rahul Jain",
+    "email":"rahul.jain154@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-08-02"
+  },
+  {
+    "customer_id":"C0155",
+    "customer_name":"Diya Gupta",
+    "email":"diya.gupta155@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-11-13"
+  },
+  {
+    "customer_id":"C0156",
+    "customer_name":"Diya Gupta",
+    "email":"diya.gupta156@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-28"
+  },
+  {
+    "customer_id":"C0157",
+    "customer_name":"Saanvi Patel",
+    "email":"saanvi.patel157@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-04-02"
+  },
+  {
+    "customer_id":"C0158",
+    "customer_name":"Saanvi Sharma",
+    "email":"saanvi.sharma158@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-02-10"
+  },
+  {
+    "customer_id":"C0159",
+    "customer_name":"Rohan Saxena",
+    "email":"rohan.saxena159@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-01-03"
+  },
+  {
+    "customer_id":"C0160",
+    "customer_name":"Rohan Joshi",
+    "email":"rohan.joshi160@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-07-26"
+  },
+  {
+    "customer_id":"C0161",
+    "customer_name":"Priya Kapoor",
+    "email":"priya.kapoor161@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-12-28"
+  },
+  {
+    "customer_id":"C0162",
+    "customer_name":"Zoya Saxena",
+    "email":"zoya.saxena162@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-04-29"
+  },
+  {
+    "customer_id":"C0163",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh163@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-10-25"
+  },
+  {
+    "customer_id":"C0164",
+    "customer_name":"Aarav Kapoor",
+    "email":"aarav.kapoor164@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-10-23"
+  },
+  {
+    "customer_id":"C0165",
+    "customer_name":"Rohan Mehta",
+    "email":"rohan.mehta165@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-11-01"
+  },
+  {
+    "customer_id":"C0166",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma166@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-08-17"
+  },
+  {
+    "customer_id":"C0167",
+    "customer_name":"Aarav Verma",
+    "email":"aarav.verma167@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-08-22"
+  },
+  {
+    "customer_id":"C0168",
+    "customer_name":"Diya Joshi",
+    "email":"diya.joshi168@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-05-01"
+  },
+  {
+    "customer_id":"C0169",
+    "customer_name":"Nikhil Kapoor",
+    "email":"nikhil.kapoor169@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-09-01"
+  },
+  {
+    "customer_id":"C0170",
+    "customer_name":"Tanvi Patel",
+    "email":"tanvi.patel170@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-01-17"
+  },
+  {
+    "customer_id":"C0171",
+    "customer_name":"Nikhil Kapoor",
+    "email":"nikhil.kapoor171@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-03-18"
+  },
+  {
+    "customer_id":"C0172",
+    "customer_name":"Varun Sharma",
+    "email":"varun.sharma172@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-03-06"
+  },
+  {
+    "customer_id":"C0173",
+    "customer_name":"Aditi Patel",
+    "email":"aditi.patel173@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-07-17"
+  },
+  {
+    "customer_id":"C0174",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma174@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-06-11"
+  },
+  {
+    "customer_id":"C0175",
+    "customer_name":"Kavya Sharma",
+    "email":"kavya.sharma175@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-05-23"
+  },
+  {
+    "customer_id":"C0176",
+    "customer_name":"Meera Mehta",
+    "email":"meera.mehta176@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-12-03"
+  },
+  {
+    "customer_id":"C0177",
+    "customer_name":"Arjun Saxena",
+    "email":"arjun.saxena177@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-06-07"
+  },
+  {
+    "customer_id":"C0178",
+    "customer_name":"Nikhil Patel",
+    "email":"nikhil.patel178@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-04-27"
+  },
+  {
+    "customer_id":"C0179",
+    "customer_name":"Arjun Mehta",
+    "email":"arjun.mehta179@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-10-19"
+  },
+  {
+    "customer_id":"C0180",
+    "customer_name":"Aarav Singh",
+    "email":"aarav.singh180@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-12-31"
+  },
+  {
+    "customer_id":"C0181",
+    "customer_name":"Rohan Kapoor",
+    "email":"rohan.kapoor181@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-11-15"
+  },
+  {
+    "customer_id":"C0182",
+    "customer_name":"Ananya Saxena",
+    "email":"ananya.saxena182@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-04-21"
+  },
+  {
+    "customer_id":"C0183",
+    "customer_name":"Meera Verma",
+    "email":"meera.verma183@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-12-29"
+  },
+  {
+    "customer_id":"C0184",
+    "customer_name":"Arjun Saxena",
+    "email":"arjun.saxena184@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-05-23"
+  },
+  {
+    "customer_id":"C0185",
+    "customer_name":"Zoya Kapoor",
+    "email":"zoya.kapoor185@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-12-27"
+  },
+  {
+    "customer_id":"C0186",
+    "customer_name":"Ananya Jain",
+    "email":"ananya.jain186@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-11-21"
+  },
+  {
+    "customer_id":"C0187",
+    "customer_name":"Aarav Kapoor",
+    "email":"aarav.kapoor187@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-05-01"
+  },
+  {
+    "customer_id":"C0188",
+    "customer_name":"Saanvi Patel",
+    "email":"saanvi.patel188@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-10-05"
+  },
+  {
+    "customer_id":"C0189",
+    "customer_name":"Diya Kapoor",
+    "email":"diya.kapoor189@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-06-23"
+  },
+  {
+    "customer_id":"C0190",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh190@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-08-08"
+  },
+  {
+    "customer_id":"C0191",
+    "customer_name":"Varun Joshi",
+    "email":"varun.joshi191@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-05-14"
+  },
+  {
+    "customer_id":"C0192",
+    "customer_name":"Nikhil Patel",
+    "email":"nikhil.patel192@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-05"
+  },
+  {
+    "customer_id":"C0193",
+    "customer_name":"Nikhil Joshi",
+    "email":"nikhil.joshi193@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-03-19"
+  },
+  {
+    "customer_id":"C0194",
+    "customer_name":"Rohan Patel",
+    "email":"rohan.patel194@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-09-21"
+  },
+  {
+    "customer_id":"C0195",
+    "customer_name":"Rahul Mehta",
+    "email":"rahul.mehta195@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-12-01"
+  },
+  {
+    "customer_id":"C0196",
+    "customer_name":"Riya Singh",
+    "email":"riya.singh196@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-03-04"
+  },
+  {
+    "customer_id":"C0197",
+    "customer_name":"Nikhil Jain",
+    "email":"nikhil.jain197@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-09-07"
+  },
+  {
+    "customer_id":"C0198",
+    "customer_name":"Kavya Verma",
+    "email":"kavya.verma198@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-03-27"
+  },
+  {
+    "customer_id":"C0199",
+    "customer_name":"Saanvi Joshi",
+    "email":"saanvi.joshi199@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-09-04"
+  },
+  {
+    "customer_id":"C0200",
+    "customer_name":"Varun Joshi",
+    "email":"varun.joshi200@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-12-03"
+  },
+  {
+    "customer_id":"C0201",
+    "customer_name":"Ananya Singh",
+    "email":"ananya.singh201@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-09-24"
+  },
+  {
+    "customer_id":"C0202",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh202@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-10-25"
+  },
+  {
+    "customer_id":"C0203",
+    "customer_name":"Riya Joshi",
+    "email":"riya.joshi203@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-12-27"
+  },
+  {
+    "customer_id":"C0204",
+    "customer_name":"Riya Kapoor",
+    "email":"riya.kapoor204@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-05-25"
+  },
+  {
+    "customer_id":"C0205",
+    "customer_name":"Rahul Patel",
+    "email":"rahul.patel205@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-11-29"
+  },
+  {
+    "customer_id":"C0206",
+    "customer_name":"Nikhil Singh",
+    "email":"nikhil.singh206@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-07-13"
+  },
+  {
+    "customer_id":"C0207",
+    "customer_name":"Arjun Gupta",
+    "email":"arjun.gupta207@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-07-11"
+  },
+  {
+    "customer_id":"C0208",
+    "customer_name":"Zoya Mehta",
+    "email":"zoya.mehta208@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-12-08"
+  },
+  {
+    "customer_id":"C0209",
+    "customer_name":"Varun Singh",
+    "email":"varun.singh209@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-07-11"
+  },
+  {
+    "customer_id":"C0210",
+    "customer_name":"Yash Saxena",
+    "email":"yash.saxena210@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-07-22"
+  },
+  {
+    "customer_id":"C0211",
+    "customer_name":"Kavya Singh",
+    "email":"kavya.singh211@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-07-09"
+  },
+  {
+    "customer_id":"C0212",
+    "customer_name":"Ishaan Singh",
+    "email":"ishaan.singh212@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-06-07"
+  },
+  {
+    "customer_id":"C0213",
+    "customer_name":"Zoya Mehta",
+    "email":"zoya.mehta213@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-07-29"
+  },
+  {
+    "customer_id":"C0214",
+    "customer_name":"Aditi Jain",
+    "email":"aditi.jain214@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-11-24"
+  },
+  {
+    "customer_id":"C0215",
+    "customer_name":"Diya Joshi",
+    "email":"diya.joshi215@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-06-21"
+  },
+  {
+    "customer_id":"C0216",
+    "customer_name":"Priya Joshi",
+    "email":"priya.joshi216@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-07-17"
+  },
+  {
+    "customer_id":"C0217",
+    "customer_name":"Rahul Mehta",
+    "email":"rahul.mehta217@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-02-27"
+  },
+  {
+    "customer_id":"C0218",
+    "customer_name":"Varun Verma",
+    "email":"varun.verma218@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-03-11"
+  },
+  {
+    "customer_id":"C0219",
+    "customer_name":"Varun Verma",
+    "email":"varun.verma219@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-11-22"
+  },
+  {
+    "customer_id":"C0220",
+    "customer_name":"Aditi Mehta",
+    "email":"aditi.mehta220@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-10-20"
+  },
+  {
+    "customer_id":"C0221",
+    "customer_name":"Priya Verma",
+    "email":"priya.verma221@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-04-03"
+  },
+  {
+    "customer_id":"C0222",
+    "customer_name":"Zoya Kapoor",
+    "email":"zoya.kapoor222@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-11-28"
+  },
+  {
+    "customer_id":"C0223",
+    "customer_name":"Meera Jain",
+    "email":"meera.jain223@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-05-28"
+  },
+  {
+    "customer_id":"C0224",
+    "customer_name":"Tanvi Singh",
+    "email":"tanvi.singh224@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-05-27"
+  },
+  {
+    "customer_id":"C0225",
+    "customer_name":"Priya Saxena",
+    "email":"priya.saxena225@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-06-10"
+  },
+  {
+    "customer_id":"C0226",
+    "customer_name":"Arjun Gupta",
+    "email":"arjun.gupta226@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-08-11"
+  },
+  {
+    "customer_id":"C0227",
+    "customer_name":"Nikhil Verma",
+    "email":"nikhil.verma227@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-08-13"
+  },
+  {
+    "customer_id":"C0228",
+    "customer_name":"Ishaan Jain",
+    "email":"ishaan.jain228@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-02-26"
+  },
+  {
+    "customer_id":"C0229",
+    "customer_name":"Aarav Kapoor",
+    "email":"aarav.kapoor229@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-02-03"
+  },
+  {
+    "customer_id":"C0230",
+    "customer_name":"Varun Singh",
+    "email":"varun.singh230@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-05-09"
+  },
+  {
+    "customer_id":"C0231",
+    "customer_name":"Priya Singh",
+    "email":"priya.singh231@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-12-04"
+  },
+  {
+    "customer_id":"C0232",
+    "customer_name":"Ananya Gupta",
+    "email":"ananya.gupta232@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-09-17"
+  },
+  {
+    "customer_id":"C0233",
+    "customer_name":"Kavya Kapoor",
+    "email":"kavya.kapoor233@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-01-15"
+  },
+  {
+    "customer_id":"C0234",
+    "customer_name":"Meera Mehta",
+    "email":"meera.mehta234@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-07-07"
+  },
+  {
+    "customer_id":"C0235",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma235@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-12-25"
+  },
+  {
+    "customer_id":"C0236",
+    "customer_name":"Priya Joshi",
+    "email":"priya.joshi236@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-06-09"
+  },
+  {
+    "customer_id":"C0237",
+    "customer_name":"Priya Kapoor",
+    "email":"priya.kapoor237@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-04-29"
+  },
+  {
+    "customer_id":"C0238",
+    "customer_name":"Zoya Joshi",
+    "email":"zoya.joshi238@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-11-11"
+  },
+  {
+    "customer_id":"C0239",
+    "customer_name":"Aditi Kapoor",
+    "email":"aditi.kapoor239@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-08-13"
+  },
+  {
+    "customer_id":"C0240",
+    "customer_name":"Nikhil Sharma",
+    "email":"nikhil.sharma240@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-04-02"
+  },
+  {
+    "customer_id":"C0241",
+    "customer_name":"Aarav Singh",
+    "email":"aarav.singh241@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-04-12"
+  },
+  {
+    "customer_id":"C0242",
+    "customer_name":"Ishaan Joshi",
+    "email":"ishaan.joshi242@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-03-02"
+  },
+  {
+    "customer_id":"C0243",
+    "customer_name":"Tanvi Singh",
+    "email":"tanvi.singh243@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-03-10"
+  },
+  {
+    "customer_id":"C0244",
+    "customer_name":"Saanvi Joshi",
+    "email":"saanvi.joshi244@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-19"
+  },
+  {
+    "customer_id":"C0245",
+    "customer_name":"Riya Kapoor",
+    "email":"riya.kapoor245@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-04-03"
+  },
+  {
+    "customer_id":"C0246",
+    "customer_name":"Arjun Mehta",
+    "email":"arjun.mehta246@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-03-02"
+  },
+  {
+    "customer_id":"C0247",
+    "customer_name":"Varun Singh",
+    "email":"varun.singh247@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-07-06"
+  },
+  {
+    "customer_id":"C0248",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma248@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-10-30"
+  },
+  {
+    "customer_id":"C0249",
+    "customer_name":"Rahul Singh",
+    "email":"rahul.singh249@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-07-28"
+  },
+  {
+    "customer_id":"C0250",
+    "customer_name":"Rohan Jain",
+    "email":"rohan.jain250@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-01-31"
+  },
+  {
+    "customer_id":"C0251",
+    "customer_name":"Zoya Joshi",
+    "email":"zoya.joshi251@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-05-11"
+  },
+  {
+    "customer_id":"C0252",
+    "customer_name":"Kavya Jain",
+    "email":"kavya.jain252@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-12-26"
+  },
+  {
+    "customer_id":"C0253",
+    "customer_name":"Varun Joshi",
+    "email":"varun.joshi253@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-05-17"
+  },
+  {
+    "customer_id":"C0254",
+    "customer_name":"Nikhil Jain",
+    "email":"nikhil.jain254@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-08-28"
+  },
+  {
+    "customer_id":"C0255",
+    "customer_name":"Tanvi Joshi",
+    "email":"tanvi.joshi255@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-04-27"
+  },
+  {
+    "customer_id":"C0256",
+    "customer_name":"Meera Mehta",
+    "email":"meera.mehta256@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-04-15"
+  },
+  {
+    "customer_id":"C0257",
+    "customer_name":"Aarav Jain",
+    "email":"aarav.jain257@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-05-09"
+  },
+  {
+    "customer_id":"C0258",
+    "customer_name":"Meera Verma",
+    "email":"meera.verma258@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-03-16"
+  },
+  {
+    "customer_id":"C0259",
+    "customer_name":"Diya Joshi",
+    "email":"diya.joshi259@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-05-07"
+  },
+  {
+    "customer_id":"C0260",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh260@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-03-04"
+  },
+  {
+    "customer_id":"C0261",
+    "customer_name":"Varun Gupta",
+    "email":"varun.gupta261@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-08-02"
+  },
+  {
+    "customer_id":"C0262",
+    "customer_name":"Diya Kapoor",
+    "email":"diya.kapoor262@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-05-04"
+  },
+  {
+    "customer_id":"C0263",
+    "customer_name":"Yash Mehta",
+    "email":"yash.mehta263@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-08-06"
+  },
+  {
+    "customer_id":"C0264",
+    "customer_name":"Saanvi Patel",
+    "email":"saanvi.patel264@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-11-06"
+  },
+  {
+    "customer_id":"C0265",
+    "customer_name":"Aarav Singh",
+    "email":"aarav.singh265@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-12-23"
+  },
+  {
+    "customer_id":"C0266",
+    "customer_name":"Varun Mehta",
+    "email":"varun.mehta266@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-02-28"
+  },
+  {
+    "customer_id":"C0267",
+    "customer_name":"Varun Patel",
+    "email":"varun.patel267@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-11-22"
+  },
+  {
+    "customer_id":"C0268",
+    "customer_name":"Zoya Kapoor",
+    "email":"zoya.kapoor268@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-09-10"
+  },
+  {
+    "customer_id":"C0269",
+    "customer_name":"Kavya Gupta",
+    "email":"kavya.gupta269@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-03-23"
+  },
+  {
+    "customer_id":"C0270",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor270@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-03-07"
+  },
+  {
+    "customer_id":"C0271",
+    "customer_name":"Varun Kapoor",
+    "email":"varun.kapoor271@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-08-03"
+  },
+  {
+    "customer_id":"C0272",
+    "customer_name":"Diya Joshi",
+    "email":"diya.joshi272@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-01-17"
+  },
+  {
+    "customer_id":"C0273",
+    "customer_name":"Yash Saxena",
+    "email":"yash.saxena273@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-04-20"
+  },
+  {
+    "customer_id":"C0274",
+    "customer_name":"Tanvi Verma",
+    "email":"tanvi.verma274@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-11-30"
+  },
+  {
+    "customer_id":"C0275",
+    "customer_name":"Aarav Mehta",
+    "email":"aarav.mehta275@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-11-01"
+  },
+  {
+    "customer_id":"C0276",
+    "customer_name":"Diya Verma",
+    "email":"diya.verma276@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-12-18"
+  },
+  {
+    "customer_id":"C0277",
+    "customer_name":"Rahul Saxena",
+    "email":"rahul.saxena277@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-12-06"
+  },
+  {
+    "customer_id":"C0278",
+    "customer_name":"Ananya Patel",
+    "email":"ananya.patel278@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-07-25"
+  },
+  {
+    "customer_id":"C0279",
+    "customer_name":"Rohan Patel",
+    "email":"rohan.patel279@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-02-17"
+  },
+  {
+    "customer_id":"C0280",
+    "customer_name":"Varun Jain",
+    "email":"varun.jain280@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-03-01"
+  },
+  {
+    "customer_id":"C0281",
+    "customer_name":"Ananya Gupta",
+    "email":"ananya.gupta281@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-07-20"
+  },
+  {
+    "customer_id":"C0282",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta282@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-12-21"
+  },
+  {
+    "customer_id":"C0283",
+    "customer_name":"Saanvi Verma",
+    "email":"saanvi.verma283@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-05-04"
+  },
+  {
+    "customer_id":"C0284",
+    "customer_name":"Arjun Joshi",
+    "email":"arjun.joshi284@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-12-24"
+  },
+  {
+    "customer_id":"C0285",
+    "customer_name":"Priya Sharma",
+    "email":"priya.sharma285@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-11-18"
+  },
+  {
+    "customer_id":"C0286",
+    "customer_name":"Aditi Singh",
+    "email":"aditi.singh286@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-11-15"
+  },
+  {
+    "customer_id":"C0287",
+    "customer_name":"Saanvi Mehta",
+    "email":"saanvi.mehta287@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-04-27"
+  },
+  {
+    "customer_id":"C0288",
+    "customer_name":"Saanvi Saxena",
+    "email":"saanvi.saxena288@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-02-21"
+  },
+  {
+    "customer_id":"C0289",
+    "customer_name":"Ishaan Mehta",
+    "email":"ishaan.mehta289@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-01-30"
+  },
+  {
+    "customer_id":"C0290",
+    "customer_name":"Rohan Saxena",
+    "email":"rohan.saxena290@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-12-11"
+  },
+  {
+    "customer_id":"C0291",
+    "customer_name":"Varun Saxena",
+    "email":"varun.saxena291@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-08-12"
+  },
+  {
+    "customer_id":"C0292",
+    "customer_name":"Tanvi Singh",
+    "email":"tanvi.singh292@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-07-13"
+  },
+  {
+    "customer_id":"C0293",
+    "customer_name":"Aarav Joshi",
+    "email":"aarav.joshi293@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-11-27"
+  },
+  {
+    "customer_id":"C0294",
+    "customer_name":"Zoya Mehta",
+    "email":"zoya.mehta294@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-08-30"
+  },
+  {
+    "customer_id":"C0295",
+    "customer_name":"Riya Saxena",
+    "email":"riya.saxena295@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-02-01"
+  },
+  {
+    "customer_id":"C0296",
+    "customer_name":"Saanvi Singh",
+    "email":"saanvi.singh296@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-01-15"
+  },
+  {
+    "customer_id":"C0297",
+    "customer_name":"Kavya Kapoor",
+    "email":"kavya.kapoor297@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-09-12"
+  },
+  {
+    "customer_id":"C0298",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor298@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-11-16"
+  },
+  {
+    "customer_id":"C0299",
+    "customer_name":"Priya Singh",
+    "email":"priya.singh299@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-07-26"
+  },
+  {
+    "customer_id":"C0300",
+    "customer_name":"Rohan Singh",
+    "email":"rohan.singh300@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-01-16"
+  },
+  {
+    "customer_id":"C0301",
+    "customer_name":"Aditi Saxena",
+    "email":"aditi.saxena301@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-09-22"
+  },
+  {
+    "customer_id":"C0302",
+    "customer_name":"Priya Gupta",
+    "email":"priya.gupta302@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2025-08-26"
+  },
+  {
+    "customer_id":"C0303",
+    "customer_name":"Meera Gupta",
+    "email":"meera.gupta303@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-01-08"
+  },
+  {
+    "customer_id":"C0304",
+    "customer_name":"Diya Verma",
+    "email":"diya.verma304@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-10-16"
+  },
+  {
+    "customer_id":"C0305",
+    "customer_name":"Aditi Singh",
+    "email":"aditi.singh305@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-01-31"
+  },
+  {
+    "customer_id":"C0306",
+    "customer_name":"Riya Mehta",
+    "email":"riya.mehta306@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-04-12"
+  },
+  {
+    "customer_id":"C0307",
+    "customer_name":"Rahul Kapoor",
+    "email":"rahul.kapoor307@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-08-08"
+  },
+  {
+    "customer_id":"C0308",
+    "customer_name":"Diya Jain",
+    "email":"diya.jain308@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-02-08"
+  },
+  {
+    "customer_id":"C0309",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh309@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-08-18"
+  },
+  {
+    "customer_id":"C0310",
+    "customer_name":"Varun Singh",
+    "email":"varun.singh310@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-03-20"
+  },
+  {
+    "customer_id":"C0311",
+    "customer_name":"Arjun Joshi",
+    "email":"arjun.joshi311@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-05-01"
+  },
+  {
+    "customer_id":"C0312",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor312@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-05-05"
+  },
+  {
+    "customer_id":"C0313",
+    "customer_name":"Ananya Kapoor",
+    "email":"ananya.kapoor313@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-03-27"
+  },
+  {
+    "customer_id":"C0314",
+    "customer_name":"Zoya Verma",
+    "email":"zoya.verma314@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-07-24"
+  },
+  {
+    "customer_id":"C0315",
+    "customer_name":"Nikhil Saxena",
+    "email":"nikhil.saxena315@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-06-27"
+  },
+  {
+    "customer_id":"C0316",
+    "customer_name":"Riya Verma",
+    "email":"riya.verma316@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-04-26"
+  },
+  {
+    "customer_id":"C0317",
+    "customer_name":"Varun Sharma",
+    "email":"varun.sharma317@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-06-17"
+  },
+  {
+    "customer_id":"C0318",
+    "customer_name":"Rahul Saxena",
+    "email":"rahul.saxena318@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-06-14"
+  },
+  {
+    "customer_id":"C0319",
+    "customer_name":"Ananya Joshi",
+    "email":"ananya.joshi319@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-11-16"
+  },
+  {
+    "customer_id":"C0320",
+    "customer_name":"Saanvi Verma",
+    "email":"saanvi.verma320@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-07-15"
+  },
+  {
+    "customer_id":"C0321",
+    "customer_name":"Aditi Singh",
+    "email":"aditi.singh321@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-08-22"
+  },
+  {
+    "customer_id":"C0322",
+    "customer_name":"Arjun Gupta",
+    "email":"arjun.gupta322@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-03-19"
+  },
+  {
+    "customer_id":"C0323",
+    "customer_name":"Rohan Joshi",
+    "email":"rohan.joshi323@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-03-24"
+  },
+  {
+    "customer_id":"C0324",
+    "customer_name":"Zoya Kapoor",
+    "email":"zoya.kapoor324@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-10-30"
+  },
+  {
+    "customer_id":"C0325",
+    "customer_name":"Diya Kapoor",
+    "email":"diya.kapoor325@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-12-12"
+  },
+  {
+    "customer_id":"C0326",
+    "customer_name":"Varun Saxena",
+    "email":"varun.saxena326@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-06-17"
+  },
+  {
+    "customer_id":"C0327",
+    "customer_name":"Aditi Patel",
+    "email":"aditi.patel327@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-06-21"
+  },
+  {
+    "customer_id":"C0328",
+    "customer_name":"Tanvi Gupta",
+    "email":"tanvi.gupta328@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-01-28"
+  },
+  {
+    "customer_id":"C0329",
+    "customer_name":"Riya Jain",
+    "email":"riya.jain329@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-04-13"
+  },
+  {
+    "customer_id":"C0330",
+    "customer_name":"Aditi Kapoor",
+    "email":"aditi.kapoor330@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-02-09"
+  },
+  {
+    "customer_id":"C0331",
+    "customer_name":"Arjun Joshi",
+    "email":"arjun.joshi331@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-02-03"
+  },
+  {
+    "customer_id":"C0332",
+    "customer_name":"Kavya Saxena",
+    "email":"kavya.saxena332@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-09-27"
+  },
+  {
+    "customer_id":"C0333",
+    "customer_name":"Rahul Gupta",
+    "email":"rahul.gupta333@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-08-14"
+  },
+  {
+    "customer_id":"C0334",
+    "customer_name":"Kavya Verma",
+    "email":"kavya.verma334@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-08-28"
+  },
+  {
+    "customer_id":"C0335",
+    "customer_name":"Kavya Gupta",
+    "email":"kavya.gupta335@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-12-01"
+  },
+  {
+    "customer_id":"C0336",
+    "customer_name":"Aarav Singh",
+    "email":"aarav.singh336@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-08-13"
+  },
+  {
+    "customer_id":"C0337",
+    "customer_name":"Zoya Singh",
+    "email":"zoya.singh337@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-12-04"
+  },
+  {
+    "customer_id":"C0338",
+    "customer_name":"Aarav Mehta",
+    "email":"aarav.mehta338@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-08-19"
+  },
+  {
+    "customer_id":"C0339",
+    "customer_name":"Meera Saxena",
+    "email":"meera.saxena339@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-05-27"
+  },
+  {
+    "customer_id":"C0340",
+    "customer_name":"Ishaan Singh",
+    "email":"ishaan.singh340@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-11-26"
+  },
+  {
+    "customer_id":"C0341",
+    "customer_name":"Saanvi Jain",
+    "email":"saanvi.jain341@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-04-08"
+  },
+  {
+    "customer_id":"C0342",
+    "customer_name":"Ananya Joshi",
+    "email":"ananya.joshi342@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-07-31"
+  },
+  {
+    "customer_id":"C0343",
+    "customer_name":"Yash Saxena",
+    "email":"yash.saxena343@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-03-29"
+  },
+  {
+    "customer_id":"C0344",
+    "customer_name":"Yash Gupta",
+    "email":"yash.gupta344@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2025-01-10"
+  },
+  {
+    "customer_id":"C0345",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh345@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-10-23"
+  },
+  {
+    "customer_id":"C0346",
+    "customer_name":"Aarav Sharma",
+    "email":"aarav.sharma346@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-07-05"
+  },
+  {
+    "customer_id":"C0347",
+    "customer_name":"Saanvi Verma",
+    "email":"saanvi.verma347@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-12-24"
+  },
+  {
+    "customer_id":"C0348",
+    "customer_name":"Tanvi Verma",
+    "email":"tanvi.verma348@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-11-14"
+  },
+  {
+    "customer_id":"C0349",
+    "customer_name":"Diya Verma",
+    "email":"diya.verma349@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-05-11"
+  },
+  {
+    "customer_id":"C0350",
+    "customer_name":"Zoya Patel",
+    "email":"zoya.patel350@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-04-30"
+  },
+  {
+    "customer_id":"C0351",
+    "customer_name":"Yash Singh",
+    "email":"yash.singh351@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-01-24"
+  },
+  {
+    "customer_id":"C0352",
+    "customer_name":"Saanvi Verma",
+    "email":"saanvi.verma352@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-02-02"
+  },
+  {
+    "customer_id":"C0353",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta353@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-08-06"
+  },
+  {
+    "customer_id":"C0354",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor354@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-11-13"
+  },
+  {
+    "customer_id":"C0355",
+    "customer_name":"Rohan Kapoor",
+    "email":"rohan.kapoor355@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2025-12-08"
+  },
+  {
+    "customer_id":"C0356",
+    "customer_name":"Rahul Kapoor",
+    "email":"rahul.kapoor356@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-12-25"
+  },
+  {
+    "customer_id":"C0357",
+    "customer_name":"Nikhil Patel",
+    "email":"nikhil.patel357@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-04-20"
+  },
+  {
+    "customer_id":"C0358",
+    "customer_name":"Varun Verma",
+    "email":"varun.verma358@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-10-12"
+  },
+  {
+    "customer_id":"C0359",
+    "customer_name":"Ananya Kapoor",
+    "email":"ananya.kapoor359@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-03-07"
+  },
+  {
+    "customer_id":"C0360",
+    "customer_name":"Riya Mehta",
+    "email":"riya.mehta360@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-06-30"
+  },
+  {
+    "customer_id":"C0361",
+    "customer_name":"Zoya Jain",
+    "email":"zoya.jain361@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-09-09"
+  },
+  {
+    "customer_id":"C0362",
+    "customer_name":"Arjun Kapoor",
+    "email":"arjun.kapoor362@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-10-12"
+  },
+  {
+    "customer_id":"C0363",
+    "customer_name":"Saanvi Sharma",
+    "email":"saanvi.sharma363@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-06-12"
+  },
+  {
+    "customer_id":"C0364",
+    "customer_name":"Priya Patel",
+    "email":"priya.patel364@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-10-14"
+  },
+  {
+    "customer_id":"C0365",
+    "customer_name":"Yash Gupta",
+    "email":"yash.gupta365@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-03-25"
+  },
+  {
+    "customer_id":"C0366",
+    "customer_name":"Varun Gupta",
+    "email":"varun.gupta366@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-01-13"
+  },
+  {
+    "customer_id":"C0367",
+    "customer_name":"Zoya Patel",
+    "email":"zoya.patel367@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-12-08"
+  },
+  {
+    "customer_id":"C0368",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor368@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-08-18"
+  },
+  {
+    "customer_id":"C0369",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma369@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-01-17"
+  },
+  {
+    "customer_id":"C0370",
+    "customer_name":"Nikhil Sharma",
+    "email":"nikhil.sharma370@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-07-17"
+  },
+  {
+    "customer_id":"C0371",
+    "customer_name":"Priya Patel",
+    "email":"priya.patel371@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-09-01"
+  },
+  {
+    "customer_id":"C0372",
+    "customer_name":"Ishaan Mehta",
+    "email":"ishaan.mehta372@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-04-28"
+  },
+  {
+    "customer_id":"C0373",
+    "customer_name":"Rohan Verma",
+    "email":"rohan.verma373@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-10-26"
+  },
+  {
+    "customer_id":"C0374",
+    "customer_name":"Aarav Verma",
+    "email":"aarav.verma374@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-09-29"
+  },
+  {
+    "customer_id":"C0375",
+    "customer_name":"Kavya Kapoor",
+    "email":"kavya.kapoor375@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-10-08"
+  },
+  {
+    "customer_id":"C0376",
+    "customer_name":"Rahul Mehta",
+    "email":"rahul.mehta376@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-03-09"
+  },
+  {
+    "customer_id":"C0377",
+    "customer_name":"Rahul Saxena",
+    "email":"rahul.saxena377@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-06-21"
+  },
+  {
+    "customer_id":"C0378",
+    "customer_name":"Aditi Mehta",
+    "email":"aditi.mehta378@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-06-29"
+  },
+  {
+    "customer_id":"C0379",
+    "customer_name":"Aditi Verma",
+    "email":"aditi.verma379@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-10-04"
+  },
+  {
+    "customer_id":"C0380",
+    "customer_name":"Saanvi Joshi",
+    "email":"saanvi.joshi380@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-07-10"
+  },
+  {
+    "customer_id":"C0381",
+    "customer_name":"Saanvi Singh",
+    "email":"saanvi.singh381@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-01-04"
+  },
+  {
+    "customer_id":"C0382",
+    "customer_name":"Arjun Patel",
+    "email":"arjun.patel382@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-11-14"
+  },
+  {
+    "customer_id":"C0383",
+    "customer_name":"Priya Saxena",
+    "email":"priya.saxena383@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-11-22"
+  },
+  {
+    "customer_id":"C0384",
+    "customer_name":"Priya Sharma",
+    "email":"priya.sharma384@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-06-24"
+  },
+  {
+    "customer_id":"C0385",
+    "customer_name":"Aditi Sharma",
+    "email":"aditi.sharma385@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-01-24"
+  },
+  {
+    "customer_id":"C0386",
+    "customer_name":"Kavya Mehta",
+    "email":"kavya.mehta386@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-03-30"
+  },
+  {
+    "customer_id":"C0387",
+    "customer_name":"Rahul Verma",
+    "email":"rahul.verma387@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-02-19"
+  },
+  {
+    "customer_id":"C0388",
+    "customer_name":"Saanvi Mehta",
+    "email":"saanvi.mehta388@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-08-29"
+  },
+  {
+    "customer_id":"C0389",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta389@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-10-13"
+  },
+  {
+    "customer_id":"C0390",
+    "customer_name":"Riya Verma",
+    "email":"riya.verma390@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-04-21"
+  },
+  {
+    "customer_id":"C0391",
+    "customer_name":"Aditi Kapoor",
+    "email":"aditi.kapoor391@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-06-29"
+  },
+  {
+    "customer_id":"C0392",
+    "customer_name":"Ananya Patel",
+    "email":"ananya.patel392@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-05-10"
+  },
+  {
+    "customer_id":"C0393",
+    "customer_name":"Rohan Kapoor",
+    "email":"rohan.kapoor393@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-09-25"
+  },
+  {
+    "customer_id":"C0394",
+    "customer_name":"Rohan Sharma",
+    "email":"rohan.sharma394@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-03-13"
+  },
+  {
+    "customer_id":"C0395",
+    "customer_name":"Tanvi Patel",
+    "email":"tanvi.patel395@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-06-09"
+  },
+  {
+    "customer_id":"C0396",
+    "customer_name":"Arjun Gupta",
+    "email":"arjun.gupta396@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-09-30"
+  },
+  {
+    "customer_id":"C0397",
+    "customer_name":"Rohan Jain",
+    "email":"rohan.jain397@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-02-02"
+  },
+  {
+    "customer_id":"C0398",
+    "customer_name":"Priya Patel",
+    "email":"priya.patel398@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-05-23"
+  },
+  {
+    "customer_id":"C0399",
+    "customer_name":"Ishaan Verma",
+    "email":"ishaan.verma399@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-07-23"
+  },
+  {
+    "customer_id":"C0400",
+    "customer_name":"Arjun Jain",
+    "email":"arjun.jain400@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-08-14"
+  },
+  {
+    "customer_id":"C0401",
+    "customer_name":"Riya Patel",
+    "email":"riya.patel401@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-12-29"
+  },
+  {
+    "customer_id":"C0402",
+    "customer_name":"Diya Gupta",
+    "email":"diya.gupta402@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-07-21"
+  },
+  {
+    "customer_id":"C0403",
+    "customer_name":"Nikhil Gupta",
+    "email":"nikhil.gupta403@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-08-21"
+  },
+  {
+    "customer_id":"C0404",
+    "customer_name":"Diya Verma",
+    "email":"diya.verma404@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-12-10"
+  },
+  {
+    "customer_id":"C0405",
+    "customer_name":"Varun Joshi",
+    "email":"varun.joshi405@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-12-30"
+  },
+  {
+    "customer_id":"C0406",
+    "customer_name":"Tanvi Saxena",
+    "email":"tanvi.saxena406@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-12-31"
+  },
+  {
+    "customer_id":"C0407",
+    "customer_name":"Rahul Patel",
+    "email":"rahul.patel407@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-11-12"
+  },
+  {
+    "customer_id":"C0408",
+    "customer_name":"Ananya Joshi",
+    "email":"ananya.joshi408@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2024-04-15"
+  },
+  {
+    "customer_id":"C0409",
+    "customer_name":"Priya Singh",
+    "email":"priya.singh409@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-11-13"
+  },
+  {
+    "customer_id":"C0410",
+    "customer_name":"Riya Jain",
+    "email":"riya.jain410@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-01-11"
+  },
+  {
+    "customer_id":"C0411",
+    "customer_name":"Tanvi Joshi",
+    "email":"tanvi.joshi411@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-05-07"
+  },
+  {
+    "customer_id":"C0412",
+    "customer_name":"Riya Singh",
+    "email":"riya.singh412@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-06-16"
+  },
+  {
+    "customer_id":"C0413",
+    "customer_name":"Ananya Saxena",
+    "email":"ananya.saxena413@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-07-22"
+  },
+  {
+    "customer_id":"C0414",
+    "customer_name":"Rohan Joshi",
+    "email":"rohan.joshi414@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-04-06"
+  },
+  {
+    "customer_id":"C0415",
+    "customer_name":"Aditi Joshi",
+    "email":"aditi.joshi415@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-01-14"
+  },
+  {
+    "customer_id":"C0416",
+    "customer_name":"Kavya Patel",
+    "email":"kavya.patel416@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-05-09"
+  },
+  {
+    "customer_id":"C0417",
+    "customer_name":"Yash Mehta",
+    "email":"yash.mehta417@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-12-08"
+  },
+  {
+    "customer_id":"C0418",
+    "customer_name":"Arjun Patel",
+    "email":"arjun.patel418@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-03-29"
+  },
+  {
+    "customer_id":"C0419",
+    "customer_name":"Yash Mehta",
+    "email":"yash.mehta419@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-08-04"
+  },
+  {
+    "customer_id":"C0420",
+    "customer_name":"Tanvi Joshi",
+    "email":"tanvi.joshi420@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-01-04"
+  },
+  {
+    "customer_id":"C0421",
+    "customer_name":"Ishaan Patel",
+    "email":"ishaan.patel421@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-11-08"
+  },
+  {
+    "customer_id":"C0422",
+    "customer_name":"Rohan Kapoor",
+    "email":"rohan.kapoor422@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-05-21"
+  },
+  {
+    "customer_id":"C0423",
+    "customer_name":"Aditi Patel",
+    "email":"aditi.patel423@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-07-13"
+  },
+  {
+    "customer_id":"C0424",
+    "customer_name":"Arjun Jain",
+    "email":"arjun.jain424@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-02-28"
+  },
+  {
+    "customer_id":"C0425",
+    "customer_name":"Priya Singh",
+    "email":"priya.singh425@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-10-31"
+  },
+  {
+    "customer_id":"C0426",
+    "customer_name":"Diya Patel",
+    "email":"diya.patel426@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2024-05-25"
+  },
+  {
+    "customer_id":"C0427",
+    "customer_name":"Diya Patel",
+    "email":"diya.patel427@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-09-22"
+  },
+  {
+    "customer_id":"C0428",
+    "customer_name":"Rohan Mehta",
+    "email":"rohan.mehta428@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-08-10"
+  },
+  {
+    "customer_id":"C0429",
+    "customer_name":"Ananya Singh",
+    "email":"ananya.singh429@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-01-19"
+  },
+  {
+    "customer_id":"C0430",
+    "customer_name":"Rahul Mehta",
+    "email":"rahul.mehta430@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-06-06"
+  },
+  {
+    "customer_id":"C0431",
+    "customer_name":"Yash Verma",
+    "email":"yash.verma431@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-03-02"
+  },
+  {
+    "customer_id":"C0432",
+    "customer_name":"Saanvi Jain",
+    "email":"saanvi.jain432@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-06-23"
+  },
+  {
+    "customer_id":"C0433",
+    "customer_name":"Riya Singh",
+    "email":"riya.singh433@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-08-25"
+  },
+  {
+    "customer_id":"C0434",
+    "customer_name":"Rahul Joshi",
+    "email":"rahul.joshi434@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-04-05"
+  },
+  {
+    "customer_id":"C0435",
+    "customer_name":"Diya Mehta",
+    "email":"diya.mehta435@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-11-12"
+  },
+  {
+    "customer_id":"C0436",
+    "customer_name":"Arjun Jain",
+    "email":"arjun.jain436@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-03-31"
+  },
+  {
+    "customer_id":"C0437",
+    "customer_name":"Yash Sharma",
+    "email":"yash.sharma437@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-02-18"
+  },
+  {
+    "customer_id":"C0438",
+    "customer_name":"Diya Saxena",
+    "email":"diya.saxena438@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-11-08"
+  },
+  {
+    "customer_id":"C0439",
+    "customer_name":"Ishaan Mehta",
+    "email":"ishaan.mehta439@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-02-29"
+  },
+  {
+    "customer_id":"C0440",
+    "customer_name":"Ishaan Joshi",
+    "email":"ishaan.joshi440@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-10-17"
+  },
+  {
+    "customer_id":"C0441",
+    "customer_name":"Riya Gupta",
+    "email":"riya.gupta441@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-12-11"
+  },
+  {
+    "customer_id":"C0442",
+    "customer_name":"Priya Joshi",
+    "email":"priya.joshi442@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-08-07"
+  },
+  {
+    "customer_id":"C0443",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh443@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2024-04-06"
+  },
+  {
+    "customer_id":"C0444",
+    "customer_name":"Riya Saxena",
+    "email":"riya.saxena444@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-12-22"
+  },
+  {
+    "customer_id":"C0445",
+    "customer_name":"Priya Kapoor",
+    "email":"priya.kapoor445@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2025-01-06"
+  },
+  {
+    "customer_id":"C0446",
+    "customer_name":"Saanvi Mehta",
+    "email":"saanvi.mehta446@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-04-28"
+  },
+  {
+    "customer_id":"C0447",
+    "customer_name":"Diya Singh",
+    "email":"diya.singh447@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-08-17"
+  },
+  {
+    "customer_id":"C0448",
+    "customer_name":"Varun Patel",
+    "email":"varun.patel448@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2025-11-28"
+  },
+  {
+    "customer_id":"C0449",
+    "customer_name":"Yash Verma",
+    "email":"yash.verma449@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-01-15"
+  },
+  {
+    "customer_id":"C0450",
+    "customer_name":"Ishaan Singh",
+    "email":"ishaan.singh450@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-07-28"
+  },
+  {
+    "customer_id":"C0451",
+    "customer_name":"Diya Kapoor",
+    "email":"diya.kapoor451@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-12-02"
+  },
+  {
+    "customer_id":"C0452",
+    "customer_name":"Tanvi Patel",
+    "email":"tanvi.patel452@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-11-06"
+  },
+  {
+    "customer_id":"C0453",
+    "customer_name":"Aditi Kapoor",
+    "email":"aditi.kapoor453@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-12-30"
+  },
+  {
+    "customer_id":"C0454",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor454@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-01-19"
+  },
+  {
+    "customer_id":"C0455",
+    "customer_name":"Meera Sharma",
+    "email":"meera.sharma455@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-03-11"
+  },
+  {
+    "customer_id":"C0456",
+    "customer_name":"Rahul Mehta",
+    "email":"rahul.mehta456@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-02-09"
+  },
+  {
+    "customer_id":"C0457",
+    "customer_name":"Priya Joshi",
+    "email":"priya.joshi457@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2024-04-18"
+  },
+  {
+    "customer_id":"C0458",
+    "customer_name":"Varun Joshi",
+    "email":"varun.joshi458@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-04-07"
+  },
+  {
+    "customer_id":"C0459",
+    "customer_name":"Ananya Sharma",
+    "email":"ananya.sharma459@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-09-05"
+  },
+  {
+    "customer_id":"C0460",
+    "customer_name":"Diya Jain",
+    "email":"diya.jain460@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-03-18"
+  },
+  {
+    "customer_id":"C0461",
+    "customer_name":"Yash Kapoor",
+    "email":"yash.kapoor461@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-06-12"
+  },
+  {
+    "customer_id":"C0462",
+    "customer_name":"Meera Singh",
+    "email":"meera.singh462@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-04-12"
+  },
+  {
+    "customer_id":"C0463",
+    "customer_name":"Meera Kapoor",
+    "email":"meera.kapoor463@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-06-30"
+  },
+  {
+    "customer_id":"C0464",
+    "customer_name":"Tanvi Verma",
+    "email":"tanvi.verma464@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-11-01"
+  },
+  {
+    "customer_id":"C0465",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma465@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-01-05"
+  },
+  {
+    "customer_id":"C0466",
+    "customer_name":"Meera Mehta",
+    "email":"meera.mehta466@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-12-06"
+  },
+  {
+    "customer_id":"C0467",
+    "customer_name":"Aarav Saxena",
+    "email":"aarav.saxena467@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2024-05-01"
+  },
+  {
+    "customer_id":"C0468",
+    "customer_name":"Saanvi Mehta",
+    "email":"saanvi.mehta468@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-03-11"
+  },
+  {
+    "customer_id":"C0469",
+    "customer_name":"Ananya Jain",
+    "email":"ananya.jain469@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2024-05-12"
+  },
+  {
+    "customer_id":"C0470",
+    "customer_name":"Yash Jain",
+    "email":"yash.jain470@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-11-12"
+  },
+  {
+    "customer_id":"C0471",
+    "customer_name":"Zoya Sharma",
+    "email":"zoya.sharma471@example.com",
+    "city":"Ahmedabad",
+    "region":"West",
+    "segment":"Corporate",
+    "signup_date":"2025-06-22"
+  },
+  {
+    "customer_id":"C0472",
+    "customer_name":"Aditi Kapoor",
+    "email":"aditi.kapoor472@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Corporate",
+    "signup_date":"2025-08-10"
+  },
+  {
+    "customer_id":"C0473",
+    "customer_name":"Aarav Patel",
+    "email":"aarav.patel473@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-11-11"
+  },
+  {
+    "customer_id":"C0474",
+    "customer_name":"Meera Verma",
+    "email":"meera.verma474@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-12-07"
+  },
+  {
+    "customer_id":"C0475",
+    "customer_name":"Rahul Mehta",
+    "email":"rahul.mehta475@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2025-04-08"
+  },
+  {
+    "customer_id":"C0476",
+    "customer_name":"Zoya Patel",
+    "email":"zoya.patel476@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2025-07-26"
+  },
+  {
+    "customer_id":"C0477",
+    "customer_name":"Tanvi Joshi",
+    "email":"tanvi.joshi477@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2025-09-10"
+  },
+  {
+    "customer_id":"C0478",
+    "customer_name":"Diya Verma",
+    "email":"diya.verma478@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-01-14"
+  },
+  {
+    "customer_id":"C0479",
+    "customer_name":"Aditi Singh",
+    "email":"aditi.singh479@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-04-29"
+  },
+  {
+    "customer_id":"C0480",
+    "customer_name":"Kavya Sharma",
+    "email":"kavya.sharma480@example.com",
+    "city":"Jaipur",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2024-03-20"
+  },
+  {
+    "customer_id":"C0481",
+    "customer_name":"Yash Kapoor",
+    "email":"yash.kapoor481@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-07-29"
+  },
+  {
+    "customer_id":"C0482",
+    "customer_name":"Nikhil Sharma",
+    "email":"nikhil.sharma482@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2025-08-28"
+  },
+  {
+    "customer_id":"C0483",
+    "customer_name":"Priya Patel",
+    "email":"priya.patel483@example.com",
+    "city":"Bengaluru",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-07-01"
+  },
+  {
+    "customer_id":"C0484",
+    "customer_name":"Rahul Singh",
+    "email":"rahul.singh484@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Consumer",
+    "signup_date":"2025-08-04"
+  },
+  {
+    "customer_id":"C0485",
+    "customer_name":"Saanvi Kapoor",
+    "email":"saanvi.kapoor485@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Home Office",
+    "signup_date":"2024-12-03"
+  },
+  {
+    "customer_id":"C0486",
+    "customer_name":"Rohan Patel",
+    "email":"rohan.patel486@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2024-06-18"
+  },
+  {
+    "customer_id":"C0487",
+    "customer_name":"Varun Patel",
+    "email":"varun.patel487@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-08-31"
+  },
+  {
+    "customer_id":"C0488",
+    "customer_name":"Ananya Kapoor",
+    "email":"ananya.kapoor488@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2025-01-22"
+  },
+  {
+    "customer_id":"C0489",
+    "customer_name":"Ishaan Jain",
+    "email":"ishaan.jain489@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-07-12"
+  },
+  {
+    "customer_id":"C0490",
+    "customer_name":"Arjun Verma",
+    "email":"arjun.verma490@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Corporate",
+    "signup_date":"2025-03-18"
+  },
+  {
+    "customer_id":"C0491",
+    "customer_name":"Priya Singh",
+    "email":"priya.singh491@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Corporate",
+    "signup_date":"2025-11-12"
+  },
+  {
+    "customer_id":"C0492",
+    "customer_name":"Saanvi Mehta",
+    "email":"saanvi.mehta492@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-09-25"
+  },
+  {
+    "customer_id":"C0493",
+    "customer_name":"Riya Joshi",
+    "email":"riya.joshi493@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Consumer",
+    "signup_date":"2025-07-03"
+  },
+  {
+    "customer_id":"C0494",
+    "customer_name":"Riya Saxena",
+    "email":"riya.saxena494@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-03-16"
+  },
+  {
+    "customer_id":"C0495",
+    "customer_name":"Aditi Verma",
+    "email":"aditi.verma495@example.com",
+    "city":"Pune",
+    "region":"West",
+    "segment":"Home Office",
+    "signup_date":"2024-07-30"
+  },
+  {
+    "customer_id":"C0496",
+    "customer_name":"Rohan Patel",
+    "email":"rohan.patel496@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-10-28"
+  },
+  {
+    "customer_id":"C0497",
+    "customer_name":"Ishaan Sharma",
+    "email":"ishaan.sharma497@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-03-27"
+  },
+  {
+    "customer_id":"C0498",
+    "customer_name":"Tanvi Sharma",
+    "email":"tanvi.sharma498@example.com",
+    "city":"Chandigarh",
+    "region":"North",
+    "segment":"Consumer",
+    "signup_date":"2024-09-30"
+  },
+  {
+    "customer_id":"C0499",
+    "customer_name":"Meera Patel",
+    "email":"meera.patel499@example.com",
+    "city":"Delhi",
+    "region":"North",
+    "segment":"Corporate",
+    "signup_date":"2025-11-07"
+  },
+  {
+    "customer_id":"C0500",
+    "customer_name":"Aditi Saxena",
+    "email":"aditi.saxena500@example.com",
+    "city":"Chennai",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2024-11-06"
+  },
+  {
+    "customer_id":"C0021",
+    "customer_name":"Ananya Saxena",
+    "email":"ananya.saxena21@example.com",
+    "city":"Bhopal",
+    "region":"Central",
+    "segment":"Home Office",
+    "signup_date":"2024-12-31"
+  },
+  {
+    "customer_id":"C0022",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta22@example.com",
+    "city":"Mumbai",
+    "region":"West",
+    "segment":"Consumer",
+    "signup_date":"2024-09-27"
+  },
+  {
+    "customer_id":"C0023",
+    "customer_name":"Rohan Singh",
+    "email":"rohan.singh23@example.com",
+    "city":"Kolkata",
+    "region":"East",
+    "segment":"Home Office",
+    "signup_date":"2024-05-13"
+  },
+  {
+    "customer_id":"C0024",
+    "customer_name":"Zoya Gupta",
+    "email":"zoya.gupta24@example.com",
+    "city":"Lucknow",
+    "region":"North",
+    "segment":"Home Office",
+    "signup_date":"2025-11-07"
+  },
+  {
+    "customer_id":"C0025",
+    "customer_name":"Aditi Gupta",
+    "email":"aditi.gupta25@example.com",
+    "city":"Hyderabad",
+    "region":"South",
+    "segment":"Consumer",
+    "signup_date":"2025-07-24"
+  }
+]

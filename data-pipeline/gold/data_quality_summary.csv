@@ -1,0 +1,2 @@
+input_records,duplicate_records_removed,missing_values,invalid_records,rejected_records,valid_records,data_quality_percentage
+15000,210,0,170,170,14620,97.47

@@ -1,0 +1,12 @@
+2026-07-20 09:54:20,813 | INFO | RetailMart ETL Pipeline Started
+2026-07-20 09:54:20,813 | INFO | Reading raw files
+2026-07-20 09:54:21,091 | INFO | Bronze ingestion completed
+2026-07-20 09:54:21,282 | INFO | Silver cleaning completed
+2026-07-20 09:54:21,385 | INFO | Gold aggregations completed
+2026-07-20 09:54:21,388 | INFO | Input order record count: 15000
+2026-07-20 09:54:21,388 | INFO | Duplicate order records removed: 210
+2026-07-20 09:54:21,388 | INFO | Invalid records rejected: 178
+2026-07-20 09:54:21,388 | INFO | Valid order output count: 14620
+2026-07-20 09:54:21,388 | INFO | Gold datasets generated: 8
+2026-07-20 09:54:21,388 | INFO | Pipeline execution duration: 0.58 seconds
+2026-07-20 09:54:21,388 | INFO | RetailMart pipeline completed successfully

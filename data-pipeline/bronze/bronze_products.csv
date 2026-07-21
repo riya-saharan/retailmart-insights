@@ -1,0 +1,101 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,source_file,source_system,ingestion_timestamp,ingestion_id
+P001,Smartphone Model 1,Electronics,Smartphone,55441.98,43478.85,products.csv,RetailMart,2026-07-21T13:08:30,2b2e3c9c-0d93-4d57-b05e-523d981e0c93
+P002,Desk Model 2,Furniture,Desk,38624.92,23828.36,products.csv,RetailMart,2026-07-21T13:08:30,f16f11f0-0cff-471f-9d26-282dc65545c9
+P003,Jacket Model 3,Clothing,Jacket,20177.37,15161.76,products.csv,RetailMart,2026-07-21T13:08:30,9248f3bc-3dbd-4b95-b84f-97c4e703e1a9
+P004,Snacks Model 4,Grocery,Snacks,69423.02,40156.02,products.csv,RetailMart,2026-07-21T13:08:30,6d7d5d52-621d-4d56-b133-0b06bc1541cb
+P005,Notebook Model 5, electronics ,Notebook,5732.18,4072.7,products.csv,RetailMart,2026-07-21T13:08:30,6f917163-0ada-414e-a62b-4ff922a9242d
+P006,Laptop Model 6,Electronics,Laptop,12493.03,9652.86,products.csv,RetailMart,2026-07-21T13:08:30,c67dbc7c-3c9c-4a73-a24e-e3875526ef42
+P007,Bookshelf Model 7,Furniture,Bookshelf,26433.62,15565.32,products.csv,RetailMart,2026-07-21T13:08:30,f13f6d77-e716-4362-9236-78d32eda6839
+P008,Shoes Model 8,Clothing,Shoes,78288.81,46557.85,products.csv,RetailMart,2026-07-21T13:08:30,49fdefac-5126-457c-ac73-a3e480057807
+P009,,Grocery,Rice,24258.43,14348.27,products.csv,RetailMart,2026-07-21T13:08:30,bf0acb05-166b-4f77-b697-0d168c0d4378
+P010,Printer Paper Model 10,Office Supplies,Printer Paper,9887.42,5494.54,products.csv,RetailMart,2026-07-21T13:08:30,118d80ec-a332-4850-9733-d0a99ec7d30f
+P011,Headphones Model 11,Electronics,Headphones,4784.18,2856.89,products.csv,RetailMart,2026-07-21T13:08:30,e4c92e8a-3c0f-4fe6-9c36-e2c5cdd0f2d1
+P012,Sofa Model 12,Furniture,Sofa,4613.19,3273.56,products.csv,RetailMart,2026-07-21T13:08:30,7ca108b2-5038-45c3-a07a-a854ef8e4167
+P013,T-Shirt Model 13,Clothing,T-Shirt,57886.28,37989.62,products.csv,RetailMart,2026-07-21T13:08:30,6043714f-e3ae-45d5-960b-d75742566a9e
+P014,Cooking Oil Model 14,Grocery,Cooking Oil,27083.8,18585.5,products.csv,RetailMart,2026-07-21T13:08:30,3a19cf50-a277-4c98-b37b-faca6e7abad2
+P015,Pen Set Model 15,Office Supplies,Pen Set,74385.42,58006.16,products.csv,RetailMart,2026-07-21T13:08:30,3bfebe02-5673-4d4c-9613-72e7839cddcd
+P016,Smartwatch Model 16,Electronics,Smartwatch,-499.0,2259.39,products.csv,RetailMart,2026-07-21T13:08:30,2f757350-9a58-4696-b3cc-643f4d921c13
+P017,Chair Model 17,Furniture,Chair,20184.37,12460.51,products.csv,RetailMart,2026-07-21T13:08:30,0f303bd4-270f-4d0c-a495-71a6ac71ec40
+P018,Jeans Model 18,Clothing,Jeans,48589.08,32184.96,products.csv,RetailMart,2026-07-21T13:08:30,bb9c80b1-e4d4-47f0-beaf-262179e93871
+P019,Tea Model 19,Grocery,Tea,4262.66,2774.46,products.csv,RetailMart,2026-07-21T13:08:30,eed77524-29b4-41d5-842e-bfc2eeed8fc0
+P020,Stapler Model 20,Office Supplies,Stapler,44557.1,25729.56,products.csv,RetailMart,2026-07-21T13:08:30,d63c3c30-9127-47ff-b2c6-29dd635e32f2
+P021,Smartphone Model 21,Electronics,Smartphone,70857.3,39965.62,products.csv,RetailMart,2026-07-21T13:08:30,5113d159-ab5a-4750-b4f0-932a6b77cb4e
+P022,Desk Model 22,Furniture,Desk,78617.57,45343.51,products.csv,RetailMart,2026-07-21T13:08:30,8701f5ef-7216-4680-aaf9-cc169dbc75f5
+P023,Jacket Model 23,Clothing,Jacket,71716.38,56922.46,products.csv,RetailMart,2026-07-21T13:08:30,4626d8fb-64e7-4c4d-8d72-2b6e22cb1814
+P024,Snacks Model 24,Grocery,Snacks,83265.14,63826.64,products.csv,RetailMart,2026-07-21T13:08:30,2f60d3fb-e8e5-467b-8d61-098afa5be10d
+P025,Notebook Model 25,Office Supplies,Notebook,66273.23,47946.73,products.csv,RetailMart,2026-07-21T13:08:30,a20cd23b-ccd1-4ff7-b92b-7eb58909799b
+P026,Laptop Model 26,Electronics,Laptop,66232.37,38833.97,products.csv,RetailMart,2026-07-21T13:08:30,46c7b4f8-c311-428f-831e-68825d09aab2
+P027,Bookshelf Model 27,Furniture,Bookshelf,45602.9,31413.11,products.csv,RetailMart,2026-07-21T13:08:30,14e72deb-04f1-4f8f-8a98-aafac6015238
+P028,Shoes Model 28,Clothing,Shoes,72905.03,49207.67,products.csv,RetailMart,2026-07-21T13:08:30,e678d287-9108-4cae-aa18-90d244fce7d2
+P029,Rice Model 29,Grocery,Rice,32781.8,23690.82,products.csv,RetailMart,2026-07-21T13:08:30,69d99956-95a7-4e4a-b8ce-e10263ce6e58
+P030,Printer Paper Model 30,Office Supplies,Printer Paper,22708.06,13346.38,products.csv,RetailMart,2026-07-21T13:08:30,61bcb302-b469-436a-ac43-12be7c388f2e
+P031,Headphones Model 31,Electronics,Headphones,40661.34,26940.58,products.csv,RetailMart,2026-07-21T13:08:30,b06f7a47-f3b1-4b6e-9051-00a7d1cd1aec
+P032,Sofa Model 32,Furniture,Sofa,19829.84,12874.09,products.csv,RetailMart,2026-07-21T13:08:30,059c6b40-42ce-490d-bb81-fa98e1294d7a
+P033,T-Shirt Model 33,Clothing,T-Shirt,31194.05,19915.02,products.csv,RetailMart,2026-07-21T13:08:30,11297e83-ee98-491b-82d3-dcf3eb296513
+P034,Cooking Oil Model 34,Grocery,Cooking Oil,32304.09,23748.37,products.csv,RetailMart,2026-07-21T13:08:30,2c81e8e4-7b31-43c3-9d11-d761404fbb2f
+P035,Pen Set Model 35,Office Supplies,Pen Set,25290.75,20389.19,products.csv,RetailMart,2026-07-21T13:08:30,7f346a2d-92ac-4842-8f02-b42cc4645a53
+P036,Smartwatch Model 36,Electronics,Smartwatch,77896.27,52957.45,products.csv,RetailMart,2026-07-21T13:08:30,2b767f1c-043c-4a13-b726-0d135030e16d
+P037,Chair Model 37,Furniture,Chair,27964.43,19423.18,products.csv,RetailMart,2026-07-21T13:08:30,c87e2b08-92a0-4fd5-a980-7c7cdcd6ae86
+P038,Jeans Model 38,Clothing,Jeans,72139.76,52387.79,products.csv,RetailMart,2026-07-21T13:08:30,9c491cd7-63f7-45be-9c1b-9a1734779720
+P039,Tea Model 39,Grocery,Tea,68388.95,47450.65,products.csv,RetailMart,2026-07-21T13:08:30,aeb3faa6-78b0-4055-8d07-2a7785963908
+P040,Stapler Model 40,Office Supplies,Stapler,53827.37,33792.93,products.csv,RetailMart,2026-07-21T13:08:30,afafcff2-826d-4c30-9bf0-dd0f79042bec
+P041,Smartphone Model 41,Electronics,Smartphone,62487.13,37782.8,products.csv,RetailMart,2026-07-21T13:08:30,5162d244-e1a4-4fee-b5f2-43c0c96e67d4
+P042,Desk Model 42,Furniture,Desk,59082.26,46225.61,products.csv,RetailMart,2026-07-21T13:08:30,9e1c9b5f-0dc9-49ad-881f-41ddd95ca5cf
+P043,Jacket Model 43,Clothing,Jacket,11298.17,8088.16,products.csv,RetailMart,2026-07-21T13:08:30,79ad43d5-6ff2-486c-a482-2a71963654dd
+P044,Snacks Model 44,Grocery,Snacks,8155.53,6083.56,products.csv,RetailMart,2026-07-21T13:08:30,c946c016-e076-4fc6-92ea-020eaf19bd85
+P045,Notebook Model 45,Office Supplies,Notebook,7255.16,5823.74,products.csv,RetailMart,2026-07-21T13:08:30,e0e193fb-a990-4c39-961f-a802b1b6159f
+P046,Laptop Model 46,Electronics,Laptop,11748.68,9503.48,products.csv,RetailMart,2026-07-21T13:08:30,9c391000-32e2-473c-a3b5-1c2fa4a4a7af
+P047,Bookshelf Model 47,Furniture,Bookshelf,68091.08,48364.7,products.csv,RetailMart,2026-07-21T13:08:30,5236cc5e-5089-47c2-a4ca-c460c04d29c8
+P048,Shoes Model 48,Clothing,Shoes,66540.44,50882.21,products.csv,RetailMart,2026-07-21T13:08:30,e4341797-2200-4e0a-9cef-2878b867e198
+P049,Rice Model 49,Grocery,Rice,80416.62,49730.72,products.csv,RetailMart,2026-07-21T13:08:30,224ed908-37d3-4942-b6b6-bfdb690fd5ca
+P050,Printer Paper Model 50,Office Supplies,Printer Paper,50189.25,28892.11,products.csv,RetailMart,2026-07-21T13:08:30,096db35e-fca6-4953-af69-cedaaaa87bf7
+P051,Headphones Model 51,Electronics,Headphones,52404.79,31246.29,products.csv,RetailMart,2026-07-21T13:08:30,6a827c8e-b901-4731-ba01-c29c4f3e49d5
+P052,Sofa Model 52,Furniture,Sofa,48055.61,33857.88,products.csv,RetailMart,2026-07-21T13:08:30,c9290953-273c-42b6-a7aa-7e05276d3e82
+P053,T-Shirt Model 53,Clothing,T-Shirt,39651.46,27403.54,products.csv,RetailMart,2026-07-21T13:08:30,8c5b6d0c-8fe3-43d8-93e5-0cbc598d8c15
+P054,Cooking Oil Model 54,Grocery,Cooking Oil,64952.37,49740.27,products.csv,RetailMart,2026-07-21T13:08:30,675de878-b432-4531-9997-d3b49e2f828c
+P055,Pen Set Model 55,Office Supplies,Pen Set,41873.65,29809.44,products.csv,RetailMart,2026-07-21T13:08:30,c03092d5-8538-4b70-8973-d998dcec2428
+P056,Smartwatch Model 56,Electronics,Smartwatch,79160.58,46097.43,products.csv,RetailMart,2026-07-21T13:08:30,19d690c5-f3e9-4ff6-b67f-75cefc2a93a2
+P057,Chair Model 57,Furniture,Chair,10024.43,5750.83,products.csv,RetailMart,2026-07-21T13:08:30,c1087625-b6ea-4e44-90d1-dec59914d17f
+P058,Jeans Model 58,Clothing,Jeans,55945.75,37093.39,products.csv,RetailMart,2026-07-21T13:08:30,c3b1587f-d2a0-4d4d-a84b-283fed0dca48
+P059,Tea Model 59,Grocery,Tea,65835.37,48140.96,products.csv,RetailMart,2026-07-21T13:08:30,64d2a1c7-ae1f-494a-888f-10319c87d0d7
+P060,Stapler Model 60,Office Supplies,Stapler,28412.52,22518.6,products.csv,RetailMart,2026-07-21T13:08:30,16755b31-e153-4358-a66b-8019c9b285e6
+P061,Smartphone Model 61,Electronics,Smartphone,64834.23,40394.61,products.csv,RetailMart,2026-07-21T13:08:30,4816e0f0-ee2e-4628-96fa-8d63d80d7938
+P062,Desk Model 62,Furniture,Desk,31007.19,19686.43,products.csv,RetailMart,2026-07-21T13:08:30,c1110b37-e201-4788-a9b4-16d457d95c3a
+P063,Jacket Model 63,Clothing,Jacket,13464.38,7942.66,products.csv,RetailMart,2026-07-21T13:08:30,5e38be21-4216-47f2-979b-4236717864ba
+P064,Snacks Model 64,Grocery,Snacks,79575.94,53175.36,products.csv,RetailMart,2026-07-21T13:08:30,ab709a5a-a143-4461-bf1f-56840a1c873b
+P065,Notebook Model 65,Office Supplies,Notebook,32631.52,24376.24,products.csv,RetailMart,2026-07-21T13:08:30,09000e2c-5f71-44d5-a57f-129f74d0fc0a
+P066,Laptop Model 66,Electronics,Laptop,47040.17,37761.86,products.csv,RetailMart,2026-07-21T13:08:30,6e4069fc-aab0-4fb0-bc7a-25a3241f5154
+P067,Bookshelf Model 67,Furniture,Bookshelf,66343.2,45075.55,products.csv,RetailMart,2026-07-21T13:08:30,830d6a13-6c5f-4670-83c2-c3a6a845dff7
+P068,Shoes Model 68,Clothing,Shoes,32040.45,26157.52,products.csv,RetailMart,2026-07-21T13:08:30,43d185b0-057a-4b74-a9f7-1c8817227f4f
+P069,Rice Model 69,Grocery,Rice,61032.2,49242.16,products.csv,RetailMart,2026-07-21T13:08:30,85b04161-ed90-4046-bf42-63902bc1ed98
+P070,Printer Paper Model 70,Office Supplies,Printer Paper,10141.2,7906.53,products.csv,RetailMart,2026-07-21T13:08:30,bc2fb596-9ac4-43a0-b8c9-81e4b1639327
+P071,Headphones Model 71,Electronics,Headphones,54180.31,31582.72,products.csv,RetailMart,2026-07-21T13:08:30,c256efd5-a74c-479e-b093-c8916f180ddd
+P072,Sofa Model 72,Furniture,Sofa,50034.87,36787.94,products.csv,RetailMart,2026-07-21T13:08:30,819f7e67-7f09-4f21-9e8d-65d4364cda72
+P073,T-Shirt Model 73,Clothing,T-Shirt,1124.74,756.57,products.csv,RetailMart,2026-07-21T13:08:30,4d550fcb-e3e8-4039-9522-211ddca1d36a
+P074,Cooking Oil Model 74,Grocery,Cooking Oil,70172.93,44191.19,products.csv,RetailMart,2026-07-21T13:08:30,ed50b49c-9126-400c-8fc1-0d67b6f2e6af
+P075,Pen Set Model 75,Office Supplies,Pen Set,39019.9,26120.89,products.csv,RetailMart,2026-07-21T13:08:30,5a9f7091-e4b5-4613-a6e9-367a664d2e0e
+P076,Smartwatch Model 76,Electronics,Smartwatch,25719.67,20523.76,products.csv,RetailMart,2026-07-21T13:08:30,efe3eb2a-906e-4081-8336-f6fcb7b5e8e7
+P077,Chair Model 77,Furniture,Chair,66427.49,38518.57,products.csv,RetailMart,2026-07-21T13:08:30,7b4fdf37-89d8-48c1-b089-1daeddf40b4c
+P078,Jeans Model 78,Clothing,Jeans,84748.18,66729.36,products.csv,RetailMart,2026-07-21T13:08:30,dc136b59-5f02-42c5-a923-f6d8158f3289
+P079,Tea Model 79,Grocery,Tea,24189.5,18770.13,products.csv,RetailMart,2026-07-21T13:08:30,a4e749d3-0896-44a7-bc0e-272248e8d1b2
+P080,Stapler Model 80,Office Supplies,Stapler,9117.15,7473.86,products.csv,RetailMart,2026-07-21T13:08:30,1001f138-5d38-436d-9123-9a60be78c547
+P081,Smartphone Model 81,Electronics,Smartphone,56609.95,41072.43,products.csv,RetailMart,2026-07-21T13:08:30,a6bfd367-bf20-48f1-89c8-6c0630ae5d75
+P082,Desk Model 82,Furniture,Desk,7760.23,6147.65,products.csv,RetailMart,2026-07-21T13:08:30,7fdec16e-9000-47ce-83f3-bea3997268c7
+P083,Jacket Model 83,Clothing,Jacket,2542.64,1563.78,products.csv,RetailMart,2026-07-21T13:08:30,b6a2891a-286a-43fc-84a6-94539481c2fd
+P084,Snacks Model 84,Grocery,Snacks,12225.42,9287.99,products.csv,RetailMart,2026-07-21T13:08:30,6a4550c6-f57d-4db2-9f5a-eb5763abb9e3
+P085,Notebook Model 85,Office Supplies,Notebook,16911.5,13459.39,products.csv,RetailMart,2026-07-21T13:08:30,2d196a0f-e770-463c-aa05-64e40956c57f
+P086,Laptop Model 86,Electronics,Laptop,55810.37,31240.63,products.csv,RetailMart,2026-07-21T13:08:30,25fde484-4b87-4582-be21-864b1586fb2f
+P087,Bookshelf Model 87,Furniture,Bookshelf,541.1,305.15,products.csv,RetailMart,2026-07-21T13:08:30,341c883b-e922-4c00-9b26-b364ac8d60a5
+P088,Shoes Model 88,Clothing,Shoes,51535.17,39496.56,products.csv,RetailMart,2026-07-21T13:08:30,422337f2-04c7-4d95-8500-40c7dbd07b49
+P089,Rice Model 89,Grocery,Rice,20337.91,15850.15,products.csv,RetailMart,2026-07-21T13:08:30,8058d163-58c1-42b4-97f2-fb2814c3c4b3
+P090,Printer Paper Model 90,Office Supplies,Printer Paper,4940.14,3785.43,products.csv,RetailMart,2026-07-21T13:08:30,2a56d52f-ab54-4c77-b029-8a5970a346e2
+P091,Headphones Model 91,Electronics,Headphones,78868.39,59819.25,products.csv,RetailMart,2026-07-21T13:08:30,8baabb34-ba91-40c1-8248-502511b63c68
+P092,Sofa Model 92,Furniture,Sofa,59364.42,46081.91,products.csv,RetailMart,2026-07-21T13:08:30,9994d443-179e-4f3d-adf9-74ac69ce1d04
+P093,T-Shirt Model 93,Clothing,T-Shirt,3489.65,2109.43,products.csv,RetailMart,2026-07-21T13:08:30,f2fd7c96-dade-41b4-9c77-c028aff66352
+P094,Cooking Oil Model 94,Grocery,Cooking Oil,10688.52,7334.71,products.csv,RetailMart,2026-07-21T13:08:30,be48717f-17fe-4db3-989e-919f21b0684d
+P095,Pen Set Model 95,Office Supplies,Pen Set,63361.38,45626.73,products.csv,RetailMart,2026-07-21T13:08:30,b3cb85c2-ea30-4886-ab9d-d78104114498
+P096,Smartwatch Model 96,Electronics,Smartwatch,72358.05,42829.27,products.csv,RetailMart,2026-07-21T13:08:30,76c9e4ca-228a-4d61-a661-ae201f2c60e3
+P097,Chair Model 97,Furniture,Chair,62464.02,37610.91,products.csv,RetailMart,2026-07-21T13:08:30,a1815b0f-3405-41b3-bbf9-df208886e1e8
+P098,Jeans Model 98,Clothing,Jeans,23072.83,17112.52,products.csv,RetailMart,2026-07-21T13:08:30,c00b0319-2092-4a8f-85e0-cf5819444d7e
+P099,Tea Model 99,Grocery,Tea,83318.99,59582.81,products.csv,RetailMart,2026-07-21T13:08:30,0c9ae6c0-a66d-43cd-a097-848918b6a83e
+P100,Stapler Model 100,Office Supplies,Stapler,4708.17,3372.95,products.csv,RetailMart,2026-07-21T13:08:30,cce4bc90-7bf8-4387-814a-0ffce70b6507

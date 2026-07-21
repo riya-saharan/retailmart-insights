@@ -1,0 +1,97 @@
+product_id,current_stock,reorder_level,unit_cost,warehouse,processing_timestamp,product_name,inventory_status,recommended_action
+P001,2,23,43478.85,Bengaluru Wh,2026-07-21T13:08:31,Smartphone Model 1,Low Stock,Reorder soon
+P002,109,90,23828.36,Mumbai Wh,2026-07-21T13:08:31,Desk Model 2,In Stock,No action
+P004,205,33,40156.02,Bengaluru Wh,2026-07-21T13:08:31,Snacks Model 4,Overstocked,Pause purchasing
+P005,185,27,4072.7,Jaipur Wh,2026-07-21T13:08:31,Notebook Model 5,Overstocked,Pause purchasing
+P006,385,34,9652.86,Delhi Wh,2026-07-21T13:08:31,Laptop Model 6,Overstocked,Pause purchasing
+P007,188,98,15565.32,Mumbai Wh,2026-07-21T13:08:31,Bookshelf Model 7,In Stock,No action
+P008,295,56,46557.85,Bengaluru Wh,2026-07-21T13:08:31,Shoes Model 8,Overstocked,Pause purchasing
+P011,436,65,2856.89,Delhi Wh,2026-07-21T13:08:31,Headphones Model 11,Overstocked,Pause purchasing
+P012,223,31,3273.56,Jaipur Wh,2026-07-21T13:08:31,Sofa Model 12,Overstocked,Pause purchasing
+P013,124,95,37989.62,Jaipur Wh,2026-07-21T13:08:31,T-Shirt Model 13,In Stock,No action
+P014,270,44,18585.5,Delhi Wh,2026-07-21T13:08:31,Cooking Oil Model 14,Overstocked,Pause purchasing
+P015,209,66,58006.16,Bengaluru Wh,2026-07-21T13:08:31,Pen Set Model 15,In Stock,No action
+P017,128,71,12460.51,Jaipur Wh,2026-07-21T13:08:31,Chair Model 17,In Stock,No action
+P018,221,95,32184.96,Mumbai Wh,2026-07-21T13:08:31,Jeans Model 18,In Stock,No action
+P019,78,31,2774.46,Mumbai Wh,2026-07-21T13:08:31,Tea Model 19,In Stock,No action
+P020,230,60,25729.56,Bengaluru Wh,2026-07-21T13:08:31,Stapler Model 20,In Stock,No action
+P021,345,52,39965.62,Delhi Wh,2026-07-21T13:08:31,Smartphone Model 21,Overstocked,Pause purchasing
+P022,456,57,45343.51,Mumbai Wh,2026-07-21T13:08:31,Desk Model 22,Overstocked,Pause purchasing
+P023,64,29,56922.46,Bengaluru Wh,2026-07-21T13:08:31,Jacket Model 23,In Stock,No action
+P024,486,30,63826.64,Delhi Wh,2026-07-21T13:08:31,Snacks Model 24,Overstocked,Pause purchasing
+P025,473,42,47946.73,Jaipur Wh,2026-07-21T13:08:31,Notebook Model 25,Overstocked,Pause purchasing
+P026,46,44,38833.97,Delhi Wh,2026-07-21T13:08:31,Laptop Model 26,In Stock,No action
+P027,307,54,31413.11,Jaipur Wh,2026-07-21T13:08:31,Bookshelf Model 27,Overstocked,Pause purchasing
+P028,392,68,49207.67,Bengaluru Wh,2026-07-21T13:08:31,Shoes Model 28,Overstocked,Pause purchasing
+P029,200,70,23690.82,Delhi Wh,2026-07-21T13:08:31,Rice Model 29,In Stock,No action
+P030,485,52,13346.38,Bengaluru Wh,2026-07-21T13:08:31,Printer Paper Model 30,Overstocked,Pause purchasing
+P031,76,52,26940.58,Jaipur Wh,2026-07-21T13:08:31,Headphones Model 31,In Stock,No action
+P032,420,37,12874.09,Mumbai Wh,2026-07-21T13:08:31,Sofa Model 32,Overstocked,Pause purchasing
+P033,474,67,19915.02,Mumbai Wh,2026-07-21T13:08:31,T-Shirt Model 33,Overstocked,Pause purchasing
+P034,300,45,23748.37,Jaipur Wh,2026-07-21T13:08:31,Cooking Oil Model 34,Overstocked,Pause purchasing
+P035,460,22,20389.19,Mumbai Wh,2026-07-21T13:08:31,Pen Set Model 35,Overstocked,Pause purchasing
+P036,149,53,52957.45,Mumbai Wh,2026-07-21T13:08:31,Smartwatch Model 36,In Stock,No action
+P037,238,57,19423.18,Delhi Wh,2026-07-21T13:08:31,Chair Model 37,Overstocked,Pause purchasing
+P038,73,38,52387.79,Delhi Wh,2026-07-21T13:08:31,Jeans Model 38,In Stock,No action
+P039,47,65,47450.65,Mumbai Wh,2026-07-21T13:08:31,Tea Model 39,Low Stock,Reorder soon
+P040,175,65,33792.93,Delhi Wh,2026-07-21T13:08:31,Stapler Model 40,In Stock,No action
+P041,294,76,37782.8,Jaipur Wh,2026-07-21T13:08:31,Smartphone Model 41,In Stock,No action
+P042,273,71,46225.61,Delhi Wh,2026-07-21T13:08:31,Desk Model 42,In Stock,No action
+P043,293,72,8088.16,Delhi Wh,2026-07-21T13:08:31,Jacket Model 43,Overstocked,Pause purchasing
+P044,308,45,6083.56,Delhi Wh,2026-07-21T13:08:31,Snacks Model 44,Overstocked,Pause purchasing
+P045,123,82,5823.74,Bengaluru Wh,2026-07-21T13:08:31,Notebook Model 45,In Stock,No action
+P046,171,63,9503.48,Jaipur Wh,2026-07-21T13:08:31,Laptop Model 46,In Stock,No action
+P047,98,54,48364.7,Mumbai Wh,2026-07-21T13:08:31,Bookshelf Model 47,In Stock,No action
+P048,264,70,50882.21,Mumbai Wh,2026-07-21T13:08:31,Shoes Model 48,In Stock,No action
+P049,263,48,49730.72,Bengaluru Wh,2026-07-21T13:08:31,Rice Model 49,Overstocked,Pause purchasing
+P050,480,61,28892.11,Delhi Wh,2026-07-21T13:08:31,Printer Paper Model 50,Overstocked,Pause purchasing
+P051,404,78,31246.29,Jaipur Wh,2026-07-21T13:08:31,Headphones Model 51,Overstocked,Pause purchasing
+P052,279,90,33857.88,Jaipur Wh,2026-07-21T13:08:31,Sofa Model 52,In Stock,No action
+P053,64,93,27403.54,Mumbai Wh,2026-07-21T13:08:31,T-Shirt Model 53,Low Stock,Reorder soon
+P054,425,60,49740.27,Bengaluru Wh,2026-07-21T13:08:31,Cooking Oil Model 54,Overstocked,Pause purchasing
+P055,366,61,29809.44,Bengaluru Wh,2026-07-21T13:08:31,Pen Set Model 55,Overstocked,Pause purchasing
+P056,134,83,46097.43,Bengaluru Wh,2026-07-21T13:08:31,Smartwatch Model 56,In Stock,No action
+P057,122,45,5750.83,Bengaluru Wh,2026-07-21T13:08:31,Chair Model 57,In Stock,No action
+P058,259,86,37093.39,Jaipur Wh,2026-07-21T13:08:31,Jeans Model 58,In Stock,No action
+P059,191,59,48140.96,Delhi Wh,2026-07-21T13:08:31,Tea Model 59,In Stock,No action
+P060,20,29,22518.6,Mumbai Wh,2026-07-21T13:08:31,Stapler Model 60,Low Stock,Reorder soon
+P061,27,25,40394.61,Jaipur Wh,2026-07-21T13:08:31,Smartphone Model 61,In Stock,No action
+P062,434,87,19686.43,Bengaluru Wh,2026-07-21T13:08:31,Desk Model 62,Overstocked,Pause purchasing
+P063,410,24,7942.66,Bengaluru Wh,2026-07-21T13:08:31,Jacket Model 63,Overstocked,Pause purchasing
+P064,38,42,53175.36,Mumbai Wh,2026-07-21T13:08:31,Snacks Model 64,Low Stock,Reorder soon
+P065,282,46,24376.24,Delhi Wh,2026-07-21T13:08:31,Notebook Model 65,Overstocked,Pause purchasing
+P066,243,33,37761.86,Delhi Wh,2026-07-21T13:08:31,Laptop Model 66,Overstocked,Pause purchasing
+P067,365,45,45075.55,Delhi Wh,2026-07-21T13:08:31,Bookshelf Model 67,Overstocked,Pause purchasing
+P068,33,79,26157.52,Bengaluru Wh,2026-07-21T13:08:31,Shoes Model 68,Low Stock,Reorder soon
+P069,451,21,49242.16,Jaipur Wh,2026-07-21T13:08:31,Rice Model 69,Overstocked,Pause purchasing
+P070,218,86,7906.53,Jaipur Wh,2026-07-21T13:08:31,Printer Paper Model 70,In Stock,No action
+P071,353,88,31582.72,Delhi Wh,2026-07-21T13:08:31,Headphones Model 71,Overstocked,Pause purchasing
+P072,207,49,36787.94,Mumbai Wh,2026-07-21T13:08:31,Sofa Model 72,Overstocked,Pause purchasing
+P073,354,32,756.57,Delhi Wh,2026-07-21T13:08:31,T-Shirt Model 73,Overstocked,Pause purchasing
+P074,119,68,44191.19,Delhi Wh,2026-07-21T13:08:31,Cooking Oil Model 74,In Stock,No action
+P075,334,29,26120.89,Mumbai Wh,2026-07-21T13:08:31,Pen Set Model 75,Overstocked,Pause purchasing
+P076,254,49,20523.76,Delhi Wh,2026-07-21T13:08:31,Smartwatch Model 76,Overstocked,Pause purchasing
+P077,250,96,38518.57,Mumbai Wh,2026-07-21T13:08:31,Chair Model 77,In Stock,No action
+P078,38,99,66729.36,Mumbai Wh,2026-07-21T13:08:31,Jeans Model 78,Low Stock,Reorder soon
+P079,224,81,18770.13,Jaipur Wh,2026-07-21T13:08:31,Tea Model 79,In Stock,No action
+P080,212,44,7473.86,Mumbai Wh,2026-07-21T13:08:31,Stapler Model 80,Overstocked,Pause purchasing
+P081,385,75,41072.43,Delhi Wh,2026-07-21T13:08:31,Smartphone Model 81,Overstocked,Pause purchasing
+P082,72,76,6147.65,Mumbai Wh,2026-07-21T13:08:31,Desk Model 82,Low Stock,Reorder soon
+P083,376,51,1563.78,Delhi Wh,2026-07-21T13:08:31,Jacket Model 83,Overstocked,Pause purchasing
+P084,462,71,9287.99,Mumbai Wh,2026-07-21T13:08:31,Snacks Model 84,Overstocked,Pause purchasing
+P085,166,20,13459.39,Jaipur Wh,2026-07-21T13:08:31,Notebook Model 85,Overstocked,Pause purchasing
+P086,337,36,31240.63,Delhi Wh,2026-07-21T13:08:31,Laptop Model 86,Overstocked,Pause purchasing
+P087,378,62,305.15,Delhi Wh,2026-07-21T13:08:31,Bookshelf Model 87,Overstocked,Pause purchasing
+P088,233,33,39496.56,Delhi Wh,2026-07-21T13:08:31,Shoes Model 88,Overstocked,Pause purchasing
+P089,355,33,15850.15,Mumbai Wh,2026-07-21T13:08:31,Rice Model 89,Overstocked,Pause purchasing
+P090,208,86,3785.43,Jaipur Wh,2026-07-21T13:08:31,Printer Paper Model 90,In Stock,No action
+P091,460,99,59819.25,Jaipur Wh,2026-07-21T13:08:31,Headphones Model 91,Overstocked,Pause purchasing
+P092,479,64,46081.91,Jaipur Wh,2026-07-21T13:08:31,Sofa Model 92,Overstocked,Pause purchasing
+P093,100,87,2109.43,Jaipur Wh,2026-07-21T13:08:31,T-Shirt Model 93,In Stock,No action
+P094,400,99,7334.71,Mumbai Wh,2026-07-21T13:08:31,Cooking Oil Model 94,Overstocked,Pause purchasing
+P095,325,31,45626.73,Delhi Wh,2026-07-21T13:08:31,Pen Set Model 95,Overstocked,Pause purchasing
+P096,251,55,42829.27,Bengaluru Wh,2026-07-21T13:08:31,Smartwatch Model 96,Overstocked,Pause purchasing
+P097,421,51,37610.91,Jaipur Wh,2026-07-21T13:08:31,Chair Model 97,Overstocked,Pause purchasing
+P098,164,26,17112.52,Bengaluru Wh,2026-07-21T13:08:31,Jeans Model 98,Overstocked,Pause purchasing
+P099,417,80,59582.81,Mumbai Wh,2026-07-21T13:08:31,Tea Model 99,Overstocked,Pause purchasing
+P100,20,54,3372.95,Mumbai Wh,2026-07-21T13:08:31,Stapler Model 100,Low Stock,Reorder soon

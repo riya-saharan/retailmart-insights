@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost
+P001,Smartphone Model 1,Electronics,Smartphone,55441.98,43478.85
+P002,Desk Model 2,Furniture,Desk,38624.92,23828.36
+P003,Jacket Model 3,Clothing,Jacket,20177.37,15161.76
+P004,Snacks Model 4,Grocery,Snacks,69423.02,40156.02
+P005,Notebook Model 5,Office Supplies,Notebook,5732.18,4072.7
+P006,Laptop Model 6,Electronics,Laptop,12493.03,9652.86
+P007,Bookshelf Model 7,Furniture,Bookshelf,26433.62,15565.32
+P008,Shoes Model 8,Clothing,Shoes,78288.81,46557.85
+P009,Rice Model 9,Grocery,Rice,24258.43,14348.27
+P010,Printer Paper Model 10,Office Supplies,Printer Paper,9887.42,5494.54
+P011,Headphones Model 11,Electronics,Headphones,4784.18,2856.89
+P012,Sofa Model 12,Furniture,Sofa,4613.19,3273.56
+P013,T-Shirt Model 13,Clothing,T-Shirt,57886.28,37989.62
+P014,Cooking Oil Model 14,Grocery,Cooking Oil,27083.8,18585.5
+P015,Pen Set Model 15,Office Supplies,Pen Set,74385.42,58006.16
+P016,Smartwatch Model 16,Electronics,Smartwatch,3771.9,2259.39
+P017,Chair Model 17,Furniture,Chair,20184.37,12460.51
+P018,Jeans Model 18,Clothing,Jeans,48589.08,32184.96
+P019,Tea Model 19,Grocery,Tea,4262.66,2774.46
+P020,Stapler Model 20,Office Supplies,Stapler,44557.1,25729.56
+P021,Smartphone Model 21,Electronics,Smartphone,70857.3,39965.62
+P022,Desk Model 22,Furniture,Desk,78617.57,45343.51
+P023,Jacket Model 23,Clothing,Jacket,71716.38,56922.46
+P024,Snacks Model 24,Grocery,Snacks,83265.14,63826.64
+P025,Notebook Model 25,Office Supplies,Notebook,66273.23,47946.73
+P026,Laptop Model 26,Electronics,Laptop,66232.37,38833.97
+P027,Bookshelf Model 27,Furniture,Bookshelf,45602.9,31413.11
+P028,Shoes Model 28,Clothing,Shoes,72905.03,49207.67
+P029,Rice Model 29,Grocery,Rice,32781.8,23690.82
+P030,Printer Paper Model 30,Office Supplies,Printer Paper,22708.06,13346.38

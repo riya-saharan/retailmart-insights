@@ -1,0 +1,99 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,processing_timestamp
+P001,Smartphone Model 1,Electronics,Smartphone,55441.98,43478.85,2026-07-21T13:08:31
+P002,Desk Model 2,Furniture,Desk,38624.92,23828.36,2026-07-21T13:08:31
+P003,Jacket Model 3,Clothing,Jacket,20177.37,15161.76,2026-07-21T13:08:31
+P004,Snacks Model 4,Grocery,Snacks,69423.02,40156.02,2026-07-21T13:08:31
+P005,Notebook Model 5,Electronics,Notebook,5732.18,4072.7,2026-07-21T13:08:31
+P006,Laptop Model 6,Electronics,Laptop,12493.03,9652.86,2026-07-21T13:08:31
+P007,Bookshelf Model 7,Furniture,Bookshelf,26433.62,15565.32,2026-07-21T13:08:31
+P008,Shoes Model 8,Clothing,Shoes,78288.81,46557.85,2026-07-21T13:08:31
+P010,Printer Paper Model 10,Office Supplies,Printer Paper,9887.42,5494.54,2026-07-21T13:08:31
+P011,Headphones Model 11,Electronics,Headphones,4784.18,2856.89,2026-07-21T13:08:31
+P012,Sofa Model 12,Furniture,Sofa,4613.19,3273.56,2026-07-21T13:08:31
+P013,T-Shirt Model 13,Clothing,T-Shirt,57886.28,37989.62,2026-07-21T13:08:31
+P014,Cooking Oil Model 14,Grocery,Cooking Oil,27083.8,18585.5,2026-07-21T13:08:31
+P015,Pen Set Model 15,Office Supplies,Pen Set,74385.42,58006.16,2026-07-21T13:08:31
+P017,Chair Model 17,Furniture,Chair,20184.37,12460.51,2026-07-21T13:08:31
+P018,Jeans Model 18,Clothing,Jeans,48589.08,32184.96,2026-07-21T13:08:31
+P019,Tea Model 19,Grocery,Tea,4262.66,2774.46,2026-07-21T13:08:31
+P020,Stapler Model 20,Office Supplies,Stapler,44557.1,25729.56,2026-07-21T13:08:31
+P021,Smartphone Model 21,Electronics,Smartphone,70857.3,39965.62,2026-07-21T13:08:31
+P022,Desk Model 22,Furniture,Desk,78617.57,45343.51,2026-07-21T13:08:31
+P023,Jacket Model 23,Clothing,Jacket,71716.38,56922.46,2026-07-21T13:08:31
+P024,Snacks Model 24,Grocery,Snacks,83265.14,63826.64,2026-07-21T13:08:31
+P025,Notebook Model 25,Office Supplies,Notebook,66273.23,47946.73,2026-07-21T13:08:31
+P026,Laptop Model 26,Electronics,Laptop,66232.37,38833.97,2026-07-21T13:08:31
+P027,Bookshelf Model 27,Furniture,Bookshelf,45602.9,31413.11,2026-07-21T13:08:31
+P028,Shoes Model 28,Clothing,Shoes,72905.03,49207.67,2026-07-21T13:08:31
+P029,Rice Model 29,Grocery,Rice,32781.8,23690.82,2026-07-21T13:08:31
+P030,Printer Paper Model 30,Office Supplies,Printer Paper,22708.06,13346.38,2026-07-21T13:08:31
+P031,Headphones Model 31,Electronics,Headphones,40661.34,26940.58,2026-07-21T13:08:31
+P032,Sofa Model 32,Furniture,Sofa,19829.84,12874.09,2026-07-21T13:08:31
+P033,T-Shirt Model 33,Clothing,T-Shirt,31194.05,19915.02,2026-07-21T13:08:31
+P034,Cooking Oil Model 34,Grocery,Cooking Oil,32304.09,23748.37,2026-07-21T13:08:31
+P035,Pen Set Model 35,Office Supplies,Pen Set,25290.75,20389.19,2026-07-21T13:08:31
+P036,Smartwatch Model 36,Electronics,Smartwatch,77896.27,52957.45,2026-07-21T13:08:31
+P037,Chair Model 37,Furniture,Chair,27964.43,19423.18,2026-07-21T13:08:31
+P038,Jeans Model 38,Clothing,Jeans,72139.76,52387.79,2026-07-21T13:08:31
+P039,Tea Model 39,Grocery,Tea,68388.95,47450.65,2026-07-21T13:08:31
+P040,Stapler Model 40,Office Supplies,Stapler,53827.37,33792.93,2026-07-21T13:08:31
+P041,Smartphone Model 41,Electronics,Smartphone,62487.13,37782.8,2026-07-21T13:08:31
+P042,Desk Model 42,Furniture,Desk,59082.26,46225.61,2026-07-21T13:08:31
+P043,Jacket Model 43,Clothing,Jacket,11298.17,8088.16,2026-07-21T13:08:31
+P044,Snacks Model 44,Grocery,Snacks,8155.53,6083.56,2026-07-21T13:08:31
+P045,Notebook Model 45,Office Supplies,Notebook,7255.16,5823.74,2026-07-21T13:08:31
+P046,Laptop Model 46,Electronics,Laptop,11748.68,9503.48,2026-07-21T13:08:31
+P047,Bookshelf Model 47,Furniture,Bookshelf,68091.08,48364.7,2026-07-21T13:08:31
+P048,Shoes Model 48,Clothing,Shoes,66540.44,50882.21,2026-07-21T13:08:31
+P049,Rice Model 49,Grocery,Rice,80416.62,49730.72,2026-07-21T13:08:31
+P050,Printer Paper Model 50,Office Supplies,Printer Paper,50189.25,28892.11,2026-07-21T13:08:31
+P051,Headphones Model 51,Electronics,Headphones,52404.79,31246.29,2026-07-21T13:08:31
+P052,Sofa Model 52,Furniture,Sofa,48055.61,33857.88,2026-07-21T13:08:31
+P053,T-Shirt Model 53,Clothing,T-Shirt,39651.46,27403.54,2026-07-21T13:08:31
+P054,Cooking Oil Model 54,Grocery,Cooking Oil,64952.37,49740.27,2026-07-21T13:08:31
+P055,Pen Set Model 55,Office Supplies,Pen Set,41873.65,29809.44,2026-07-21T13:08:31
+P056,Smartwatch Model 56,Electronics,Smartwatch,79160.58,46097.43,2026-07-21T13:08:31
+P057,Chair Model 57,Furniture,Chair,10024.43,5750.83,2026-07-21T13:08:31
+P058,Jeans Model 58,Clothing,Jeans,55945.75,37093.39,2026-07-21T13:08:31
+P059,Tea Model 59,Grocery,Tea,65835.37,48140.96,2026-07-21T13:08:31
+P060,Stapler Model 60,Office Supplies,Stapler,28412.52,22518.6,2026-07-21T13:08:31
+P061,Smartphone Model 61,Electronics,Smartphone,64834.23,40394.61,2026-07-21T13:08:31
+P062,Desk Model 62,Furniture,Desk,31007.19,19686.43,2026-07-21T13:08:31
+P063,Jacket Model 63,Clothing,Jacket,13464.38,7942.66,2026-07-21T13:08:31
+P064,Snacks Model 64,Grocery,Snacks,79575.94,53175.36,2026-07-21T13:08:31
+P065,Notebook Model 65,Office Supplies,Notebook,32631.52,24376.24,2026-07-21T13:08:31
+P066,Laptop Model 66,Electronics,Laptop,47040.17,37761.86,2026-07-21T13:08:31
+P067,Bookshelf Model 67,Furniture,Bookshelf,66343.2,45075.55,2026-07-21T13:08:31
+P068,Shoes Model 68,Clothing,Shoes,32040.45,26157.52,2026-07-21T13:08:31
+P069,Rice Model 69,Grocery,Rice,61032.2,49242.16,2026-07-21T13:08:31
+P070,Printer Paper Model 70,Office Supplies,Printer Paper,10141.2,7906.53,2026-07-21T13:08:31
+P071,Headphones Model 71,Electronics,Headphones,54180.31,31582.72,2026-07-21T13:08:31
+P072,Sofa Model 72,Furniture,Sofa,50034.87,36787.94,2026-07-21T13:08:31
+P073,T-Shirt Model 73,Clothing,T-Shirt,1124.74,756.57,2026-07-21T13:08:31
+P074,Cooking Oil Model 74,Grocery,Cooking Oil,70172.93,44191.19,2026-07-21T13:08:31
+P075,Pen Set Model 75,Office Supplies,Pen Set,39019.9,26120.89,2026-07-21T13:08:31
+P076,Smartwatch Model 76,Electronics,Smartwatch,25719.67,20523.76,2026-07-21T13:08:31
+P077,Chair Model 77,Furniture,Chair,66427.49,38518.57,2026-07-21T13:08:31
+P078,Jeans Model 78,Clothing,Jeans,84748.18,66729.36,2026-07-21T13:08:31
+P079,Tea Model 79,Grocery,Tea,24189.5,18770.13,2026-07-21T13:08:31
+P080,Stapler Model 80,Office Supplies,Stapler,9117.15,7473.86,2026-07-21T13:08:31
+P081,Smartphone Model 81,Electronics,Smartphone,56609.95,41072.43,2026-07-21T13:08:31
+P082,Desk Model 82,Furniture,Desk,7760.23,6147.65,2026-07-21T13:08:31
+P083,Jacket Model 83,Clothing,Jacket,2542.64,1563.78,2026-07-21T13:08:31
+P084,Snacks Model 84,Grocery,Snacks,12225.42,9287.99,2026-07-21T13:08:31
+P085,Notebook Model 85,Office Supplies,Notebook,16911.5,13459.39,2026-07-21T13:08:31
+P086,Laptop Model 86,Electronics,Laptop,55810.37,31240.63,2026-07-21T13:08:31
+P087,Bookshelf Model 87,Furniture,Bookshelf,541.1,305.15,2026-07-21T13:08:31
+P088,Shoes Model 88,Clothing,Shoes,51535.17,39496.56,2026-07-21T13:08:31
+P089,Rice Model 89,Grocery,Rice,20337.91,15850.15,2026-07-21T13:08:31
+P090,Printer Paper Model 90,Office Supplies,Printer Paper,4940.14,3785.43,2026-07-21T13:08:31
+P091,Headphones Model 91,Electronics,Headphones,78868.39,59819.25,2026-07-21T13:08:31
+P092,Sofa Model 92,Furniture,Sofa,59364.42,46081.91,2026-07-21T13:08:31
+P093,T-Shirt Model 93,Clothing,T-Shirt,3489.65,2109.43,2026-07-21T13:08:31
+P094,Cooking Oil Model 94,Grocery,Cooking Oil,10688.52,7334.71,2026-07-21T13:08:31
+P095,Pen Set Model 95,Office Supplies,Pen Set,63361.38,45626.73,2026-07-21T13:08:31
+P096,Smartwatch Model 96,Electronics,Smartwatch,72358.05,42829.27,2026-07-21T13:08:31
+P097,Chair Model 97,Furniture,Chair,62464.02,37610.91,2026-07-21T13:08:31
+P098,Jeans Model 98,Clothing,Jeans,23072.83,17112.52,2026-07-21T13:08:31
+P099,Tea Model 99,Grocery,Tea,83318.99,59582.81,2026-07-21T13:08:31
+P100,Stapler Model 100,Office Supplies,Stapler,4708.17,3372.95,2026-07-21T13:08:31

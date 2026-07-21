@@ -1,0 +1,179 @@
+source_file,record_id,rejection_reason,invalid_value,rejected_at
+customers.json,C0004,Invalid email address,invalid-email,2026-07-21T13:08:31
+customers.json,C0008,Unknown region,Unknown,2026-07-21T13:08:31
+products.csv,P009,Product name cannot be null,,2026-07-21T13:08:31
+products.csv,P016,Invalid product price,-499.0,2026-07-21T13:08:31
+inventory.csv,P009,Product ID does not exist,P009,2026-07-21T13:08:31
+inventory.csv,P016,Product ID does not exist,P016,2026-07-21T13:08:31
+inventory.csv,P003,Invalid stock quantity,-5,2026-07-21T13:08:31
+inventory.csv,P010,Invalid inventory unit cost,-100.0,2026-07-21T13:08:31
+orders.csv,X000001,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000005,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000006,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000010,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000011,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000015,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000016,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000020,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000021,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000025,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000026,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000030,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000031,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000035,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000036,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000040,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000041,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000045,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000046,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000050,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000051,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000055,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000056,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000060,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000061,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000065,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000066,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000070,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000071,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000075,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000076,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000080,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000081,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000085,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000086,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000090,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000091,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000095,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000096,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000100,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000101,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000105,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000106,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000110,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000111,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000115,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000116,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000120,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000121,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000125,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000126,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000130,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000131,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000135,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000136,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000140,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000141,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000145,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000146,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000150,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000151,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000155,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000156,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000160,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000161,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000165,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000166,Quantity must be greater than zero,0,2026-07-21T13:08:31
+orders.csv,X000170,Quantity must be greater than zero,-2,2026-07-21T13:08:31
+orders.csv,X000002,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000007,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000012,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000017,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000022,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000027,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000032,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000037,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000042,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000047,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000052,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000057,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000062,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000067,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000072,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000077,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000082,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000087,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000092,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000097,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000102,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000107,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000112,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000117,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000122,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000127,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000132,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000137,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000142,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000147,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000152,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000157,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000162,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000167,Product price cannot be negative,-100.0,2026-07-21T13:08:31
+orders.csv,X000003,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000008,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000013,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000018,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000023,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000028,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000033,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000038,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000043,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000048,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000053,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000058,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000063,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000068,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000073,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000078,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000083,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000088,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000093,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000098,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000103,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000108,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000113,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000118,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000123,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000128,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000133,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000138,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000143,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000148,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000153,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000158,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000163,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000168,Order date must be valid,NaT,2026-07-21T13:08:31
+orders.csv,X000004,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000009,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000014,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000019,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000024,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000029,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000034,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000039,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000044,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000049,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000054,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000059,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000064,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000069,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000074,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000079,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000084,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000089,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000094,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000099,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000104,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000109,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000114,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000119,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000124,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000129,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000134,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000139,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000144,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000149,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000154,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000159,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000164,Region is not accepted,Unknown,2026-07-21T13:08:31
+orders.csv,X000169,Region is not accepted,Unknown,2026-07-21T13:08:31

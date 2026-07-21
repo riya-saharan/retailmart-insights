@@ -1,0 +1,506 @@
+customer_id,customer_name,email,city,region,segment,signup_date,source_file,source_system,ingestion_timestamp,ingestion_id
+C0001,Arjun Sharma,arjun.sharma1@example.com,Bhopal,Central,Home Office,2024-03-06,customers.json,RetailMart,2026-07-21T13:08:30,5931d13d-421c-4a62-95fd-83c323267e0c
+C0002,Meera Gupta,meera.gupta2@example.com,Pune,West,Consumer,2025-07-18,customers.json,RetailMart,2026-07-21T13:08:30,545f86d0-11af-4dd5-b3b5-c39abef44340
+C0003,Arjun Jain,arjun.jain3@example.com,Lucknow,North,Consumer,2025-04-22,customers.json,RetailMart,2026-07-21T13:08:30,914a88a1-d4d8-4862-afb2-f3589933d26f
+C0004,Saanvi Sharma,invalid-email,Chandigarh,North,Consumer,2024-11-16,customers.json,RetailMart,2026-07-21T13:08:30,05b97dfa-e618-46b6-9baa-29fdf1f41c33
+C0005,Kavya Gupta,kavya.gupta5@example.com,Delhi,North,Home Office,2024-11-12,customers.json,RetailMart,2026-07-21T13:08:30,4a6fe799-94c9-4fff-9d8a-f0202a215a39
+C0006,Aarav Jain,aarav.jain6@example.com,Chandigarh,North,Consumer,2025-09-18,customers.json,RetailMart,2026-07-21T13:08:30,6e94048e-ac67-442a-bb95-9ad2e09dd743
+C0007,Zoya Kapoor,zoya.kapoor7@example.com,Lucknow,North,Consumer,2024-03-03,customers.json,RetailMart,2026-07-21T13:08:30,df8d2d88-ecd5-44e5-b0f9-f80f680dd412
+C0008,Nikhil Sharma,nikhil.sharma8@example.com,Kolkata,Unknown,Consumer,2025-05-24,customers.json,RetailMart,2026-07-21T13:08:30,953a3eac-462d-4f6e-b59f-7cc715c753d0
+C0009,Saanvi Patel,saanvi.patel9@example.com,Lucknow,North,Corporate,2024-05-27,customers.json,RetailMart,2026-07-21T13:08:30,d7d6729b-e9ce-4436-bdf6-205b90072cd1
+C0010,Kavya Patel,kavya.patel10@example.com,Mumbai,West,Consumer,2024-03-09,customers.json,RetailMart,2026-07-21T13:08:30,063f75fc-fec3-4ef5-a42e-5fb130535071
+C0011,Rohan Verma,rohan.verma11@example.com,Delhi,North,Corporate,2025-01-19,customers.json,RetailMart,2026-07-21T13:08:30,31ea5809-027d-4673-b4ac-b1e7e333b788
+C0012,  riya sharma  ,nikhil.sharma12@example.com,Hyderabad,South,Home Office,2025-12-13,customers.json,RetailMart,2026-07-21T13:08:30,0265deca-9cca-4ab4-96c0-1fa523dc284d
+C0013,Zoya Verma,zoya.verma13@example.com,Kolkata,East,Corporate,2025-06-21,customers.json,RetailMart,2026-07-21T13:08:30,e6743bbb-2a30-419a-9d10-b30e41b8b949
+C0014,Zoya Singh,zoya.singh14@example.com,Delhi,North,Home Office,2025-07-09,customers.json,RetailMart,2026-07-21T13:08:30,36f0cdc8-97f6-4c0b-961d-30d4127ebfc1
+C0015,Riya Saxena,riya.saxena15@example.com,Chandigarh,North,Consumer,2025-06-07,customers.json,RetailMart,2026-07-21T13:08:30,38c93a8f-219e-4cf3-a207-c9aad4d57241
+C0016,Ananya Sharma,ananya.sharma16@example.com,Lucknow,North,Home Office,2025-07-27,customers.json,RetailMart,2026-07-21T13:08:30,79db7b0f-c0b2-44bc-8cc9-4de901af1b42
+C0017,Priya Verma,priya.verma17@example.com,Bengaluru,South,Consumer,2025-01-09,customers.json,RetailMart,2026-07-21T13:08:30,1fdff122-76a6-43d6-9707-3771ae5ea41b
+C0018,Rohan Singh,rohan.singh18@example.com,Delhi,North,Corporate,2024-04-03,customers.json,RetailMart,2026-07-21T13:08:30,103d1fe1-3ea3-4ba4-a63b-b3385668d5be
+C0019,Riya Mehta,riya.mehta19@example.com,Bhopal,Central,Corporate,2025-09-05,customers.json,RetailMart,2026-07-21T13:08:30,6374caff-f097-46db-8e87-589ae2a9e5aa
+C0020,Kavya Singh,kavya.singh20@example.com,Hyderabad,South,Home Office,2024-11-24,customers.json,RetailMart,2026-07-21T13:08:30,d07ce0df-e17a-40d1-93c4-2113fa7928bb
+C0021,Ananya Saxena,ananya.saxena21@example.com,Bhopal,Central,Home Office,2024-12-31,customers.json,RetailMart,2026-07-21T13:08:30,08a8b72b-6a4f-4ec4-ac54-6625fb8b2701
+C0022,Zoya Gupta,zoya.gupta22@example.com,Mumbai,West,Consumer,2024-09-27,customers.json,RetailMart,2026-07-21T13:08:30,115c88b4-bd7c-4ba2-9723-cef363109064
+C0023,Rohan Singh,rohan.singh23@example.com,Kolkata,East,Home Office,2024-05-13,customers.json,RetailMart,2026-07-21T13:08:30,d15d5790-6c48-4ee4-8806-4464971643c1
+C0024,Zoya Gupta,zoya.gupta24@example.com,Lucknow,North,Home Office,2025-11-07,customers.json,RetailMart,2026-07-21T13:08:30,a9d8caef-d446-4c4b-a3d5-0cfefa2bb20f
+C0025,Aditi Gupta,aditi.gupta25@example.com,Hyderabad,South,Consumer,2025-07-24,customers.json,RetailMart,2026-07-21T13:08:30,6906a80d-d638-4d7f-a711-3b622b581ea8
+C0026,Rohan Singh,rohan.singh26@example.com,Hyderabad,South,Consumer,2025-04-15,customers.json,RetailMart,2026-07-21T13:08:30,41a0fe81-10a8-4775-9603-20a7224cbb57
+C0027,Rahul Gupta,rahul.gupta27@example.com,Bengaluru,South,Home Office,2024-10-20,customers.json,RetailMart,2026-07-21T13:08:30,f2ebc49a-6608-4728-8626-9de9ddb1c922
+C0028,Rohan Joshi,rohan.joshi28@example.com,Kolkata,East,Consumer,2025-08-23,customers.json,RetailMart,2026-07-21T13:08:30,7c93fa08-1d49-4c36-b2be-4321ebb99b34
+C0029,Diya Gupta,diya.gupta29@example.com,Pune,West,Home Office,2025-02-02,customers.json,RetailMart,2026-07-21T13:08:30,892f0c9e-01ca-41d6-87d5-4e87b3ef11f9
+C0030,Zoya Singh,zoya.singh30@example.com,Ahmedabad,West,Home Office,2024-11-19,customers.json,RetailMart,2026-07-21T13:08:30,66f1879a-55d1-4fe8-ac2c-5d980345c665
+C0031,Saanvi Saxena,saanvi.saxena31@example.com,Chandigarh,North,Corporate,2024-11-24,customers.json,RetailMart,2026-07-21T13:08:30,b183d726-52b7-4d80-ac0d-6335812216d0
+C0032,Meera Mehta,meera.mehta32@example.com,Hyderabad,South,Home Office,2024-06-14,customers.json,RetailMart,2026-07-21T13:08:30,a9724050-d4ac-4919-bd16-77e4434ece66
+C0033,Ananya Sharma,ananya.sharma33@example.com,Kolkata,East,Consumer,2024-03-08,customers.json,RetailMart,2026-07-21T13:08:30,9a932c65-5f03-4095-8866-8abc4c50b971
+C0034,Ishaan Kapoor,ishaan.kapoor34@example.com,Mumbai,West,Home Office,2025-02-08,customers.json,RetailMart,2026-07-21T13:08:30,341b9963-2559-413a-8ad6-000eaeba87aa
+C0035,Rohan Kapoor,rohan.kapoor35@example.com,Delhi,North,Home Office,2025-10-10,customers.json,RetailMart,2026-07-21T13:08:30,0a514291-7e8b-40df-8d60-5ee4842a2353
+C0036,Yash Singh,yash.singh36@example.com,Kolkata,East,Home Office,2024-02-16,customers.json,RetailMart,2026-07-21T13:08:30,53b3260b-73a8-4c8b-b8b0-d101a458879b
+C0037,Arjun Jain,arjun.jain37@example.com,Jaipur,North,Corporate,2025-09-18,customers.json,RetailMart,2026-07-21T13:08:30,7bde7a63-b029-4087-a2be-ff07c2cdb3a9
+C0038,Rahul Verma,rahul.verma38@example.com,Bhopal,Central,Corporate,2025-08-27,customers.json,RetailMart,2026-07-21T13:08:30,a1b47f96-433b-4a4b-8692-0a6e2dda9afc
+C0039,Ishaan Joshi,ishaan.joshi39@example.com,Chennai,South,Consumer,2024-07-21,customers.json,RetailMart,2026-07-21T13:08:30,3982e9e9-136a-44dc-aead-5c931ade58e1
+C0040,Nikhil Jain,nikhil.jain40@example.com,Lucknow,North,Consumer,2025-04-06,customers.json,RetailMart,2026-07-21T13:08:30,e1faf7cc-0909-4c58-862c-4efb2017b5de
+C0041,Arjun Singh,arjun.singh41@example.com,Ahmedabad,West,Home Office,2024-04-30,customers.json,RetailMart,2026-07-21T13:08:30,b12cd268-413b-4821-a8ff-b9625e178e89
+C0042,Kavya Mehta,kavya.mehta42@example.com,Ahmedabad,West,Corporate,2025-07-07,customers.json,RetailMart,2026-07-21T13:08:30,95e54237-b85e-4673-bea9-cb14b44a3f35
+C0043,Zoya Jain,zoya.jain43@example.com,Mumbai,West,Consumer,2025-05-26,customers.json,RetailMart,2026-07-21T13:08:30,8f947967-6dd9-42c4-be4d-7d1c00ce4262
+C0044,Rahul Joshi,rahul.joshi44@example.com,Chandigarh,North,Consumer,2024-09-15,customers.json,RetailMart,2026-07-21T13:08:30,2ece027d-b25a-47f1-9e20-1e0c3e2b0173
+C0045,Riya Singh,riya.singh45@example.com,Delhi,North,Consumer,2024-02-19,customers.json,RetailMart,2026-07-21T13:08:30,2507619b-af43-4d98-9763-1526efe5dbb4
+C0046,Meera Saxena,meera.saxena46@example.com,Jaipur,North,Consumer,2025-12-09,customers.json,RetailMart,2026-07-21T13:08:30,e2c355e4-127c-4aa9-906a-74f516de76a8
+C0047,Varun Verma,varun.verma47@example.com,Delhi,North,Home Office,2024-11-21,customers.json,RetailMart,2026-07-21T13:08:30,932ad933-93e3-4d6b-8c54-d79882b20d94
+C0048,Diya Joshi,diya.joshi48@example.com,Mumbai,West,Home Office,2025-10-13,customers.json,RetailMart,2026-07-21T13:08:30,0e745f22-6a34-4655-bdd1-52305c5ff520
+C0049,Nikhil Jain,nikhil.jain49@example.com,Mumbai,West,Home Office,2025-05-09,customers.json,RetailMart,2026-07-21T13:08:30,cd7222e4-866c-4565-8fcf-6ee7f75dad1a
+C0050,Kavya Jain,kavya.jain50@example.com,Chennai,South,Home Office,2025-07-22,customers.json,RetailMart,2026-07-21T13:08:30,12775687-1f45-423e-bd0b-4c2f0664da01
+C0051,Kavya Singh,kavya.singh51@example.com,Lucknow,North,Corporate,2025-07-08,customers.json,RetailMart,2026-07-21T13:08:30,4b8d7482-bd68-4ac3-a47c-4f91f5567f6d
+C0052,Riya Joshi,riya.joshi52@example.com,Bhopal,Central,Home Office,2024-05-22,customers.json,RetailMart,2026-07-21T13:08:30,66d27a4d-2c5b-4c70-bbe4-58ec2e159502
+C0053,Arjun Gupta,arjun.gupta53@example.com,Kolkata,East,Consumer,2024-09-22,customers.json,RetailMart,2026-07-21T13:08:30,034a0501-fa8d-4a10-b6d6-b87c7955b227
+C0054,Rahul Sharma,rahul.sharma54@example.com,Delhi,North,Home Office,2024-12-06,customers.json,RetailMart,2026-07-21T13:08:30,5bb1c692-cb84-4ecf-99c2-5bd50a79e89e
+C0055,Meera Saxena,meera.saxena55@example.com,Ahmedabad,West,Consumer,2024-12-29,customers.json,RetailMart,2026-07-21T13:08:30,ca486168-c359-489f-b564-6e663a685fb3
+C0056,Ananya Sharma,ananya.sharma56@example.com,Jaipur,North,Consumer,2024-02-01,customers.json,RetailMart,2026-07-21T13:08:30,f869e9c0-2290-4474-b8af-b9e0d30a7e90
+C0057,Aditi Patel,aditi.patel57@example.com,Delhi,North,Consumer,2025-02-02,customers.json,RetailMart,2026-07-21T13:08:30,3cfec6db-63ee-49df-987a-693b86c35d52
+C0058,Meera Singh,meera.singh58@example.com,Ahmedabad,West,Home Office,2024-04-22,customers.json,RetailMart,2026-07-21T13:08:30,b233d8e7-7ae9-4583-81a7-4ef2caf4b349
+C0059,Kavya Jain,kavya.jain59@example.com,Kolkata,East,Consumer,2025-06-26,customers.json,RetailMart,2026-07-21T13:08:30,9092690e-2836-46d2-95c4-fe57839cff76
+C0060,Varun Gupta,varun.gupta60@example.com,Lucknow,North,Corporate,2025-05-13,customers.json,RetailMart,2026-07-21T13:08:30,00efd689-b784-41b3-9672-8f8bd2fa2ea0
+C0061,Kavya Verma,kavya.verma61@example.com,Chennai,South,Consumer,2025-11-04,customers.json,RetailMart,2026-07-21T13:08:30,ffeb4108-8e2d-4e05-b29e-221233f43f81
+C0062,Saanvi Patel,saanvi.patel62@example.com,Bhopal,Central,Corporate,2025-06-27,customers.json,RetailMart,2026-07-21T13:08:30,8b658d09-37a5-4ff9-a920-db003b2c77cb
+C0063,Tanvi Sharma,tanvi.sharma63@example.com,Chennai,South,Home Office,2024-09-24,customers.json,RetailMart,2026-07-21T13:08:30,b1b5a543-5e83-4bc8-ba43-785e29cbc40a
+C0064,Arjun Sharma,arjun.sharma64@example.com,Bhopal,Central,Corporate,2025-12-07,customers.json,RetailMart,2026-07-21T13:08:30,cd1b8b3f-7f84-4513-b0eb-f3551dcaf997
+C0065,Rahul Verma,rahul.verma65@example.com,Lucknow,North,Consumer,2024-10-26,customers.json,RetailMart,2026-07-21T13:08:30,d5f622eb-4ee2-4e52-9623-3fa8d945969c
+C0066,Kavya Jain,kavya.jain66@example.com,Bengaluru,South,Corporate,2024-08-25,customers.json,RetailMart,2026-07-21T13:08:30,1d0c0de3-7f06-423c-b331-433b8c234015
+C0067,Saanvi Mehta,saanvi.mehta67@example.com,Mumbai,West,Corporate,2025-10-23,customers.json,RetailMart,2026-07-21T13:08:30,5d9580e5-28ee-4f74-8369-e3fb9a42c7a3
+C0068,Meera Verma,meera.verma68@example.com,Kolkata,East,Corporate,2024-09-27,customers.json,RetailMart,2026-07-21T13:08:30,d5f645c9-9d32-466d-a150-e8d2e187df4e
+C0069,Arjun Sharma,arjun.sharma69@example.com,Ahmedabad,West,Home Office,2024-02-25,customers.json,RetailMart,2026-07-21T13:08:30,e9d836ef-ae98-4c22-b362-f78856971c18
+C0070,Aarav Verma,aarav.verma70@example.com,Ahmedabad,West,Consumer,2024-12-08,customers.json,RetailMart,2026-07-21T13:08:30,46f47485-b9df-4650-a8db-6a8ef39235b8
+C0071,Saanvi Joshi,saanvi.joshi71@example.com,Mumbai,West,Corporate,2025-08-03,customers.json,RetailMart,2026-07-21T13:08:30,480449a0-5913-45c7-a5eb-8e37f8301aae
+C0072,Rohan Sharma,rohan.sharma72@example.com,Bengaluru,South,Consumer,2024-05-18,customers.json,RetailMart,2026-07-21T13:08:30,3dbdb574-002a-4776-bc37-50df679fa1d5
+C0073,Aarav Kapoor,aarav.kapoor73@example.com,Chennai,South,Corporate,2024-12-03,customers.json,RetailMart,2026-07-21T13:08:30,9d30fc4f-3b8d-437e-8d83-3e0b9baa4906
+C0074,Priya Kapoor,priya.kapoor74@example.com,Kolkata,East,Home Office,2024-04-04,customers.json,RetailMart,2026-07-21T13:08:30,bb58b166-5a30-4671-ba46-8ab084be1649
+C0075,Zoya Joshi,zoya.joshi75@example.com,Lucknow,North,Consumer,2025-05-16,customers.json,RetailMart,2026-07-21T13:08:30,5ffee97e-cb3d-41dd-9d58-00b8f04f0fd6
+C0076,Priya Gupta,priya.gupta76@example.com,Bengaluru,South,Consumer,2024-12-13,customers.json,RetailMart,2026-07-21T13:08:30,acca3f3b-c40c-40db-bbb5-9e2d5fc29f32
+C0077,Zoya Sharma,zoya.sharma77@example.com,Chandigarh,North,Home Office,2024-08-29,customers.json,RetailMart,2026-07-21T13:08:30,c7212719-12a3-489e-84b7-75142ae9c3d0
+C0078,Aditi Sharma,aditi.sharma78@example.com,Hyderabad,South,Home Office,2024-06-14,customers.json,RetailMart,2026-07-21T13:08:30,df55611c-6812-4c93-b674-8dc84cfba090
+C0079,Yash Jain,yash.jain79@example.com,Kolkata,East,Consumer,2025-02-16,customers.json,RetailMart,2026-07-21T13:08:30,2026b933-e71f-43c5-9989-542ed4dc5cb3
+C0080,Yash Verma,yash.verma80@example.com,Jaipur,North,Consumer,2025-05-03,customers.json,RetailMart,2026-07-21T13:08:30,4cd9425c-355c-4fd6-82ba-89878befd8f4
+C0081,Ananya Gupta,ananya.gupta81@example.com,Delhi,North,Corporate,2025-11-17,customers.json,RetailMart,2026-07-21T13:08:30,149449ec-323c-4711-aeca-e577291079cc
+C0082,Meera Saxena,meera.saxena82@example.com,Delhi,North,Home Office,2024-11-15,customers.json,RetailMart,2026-07-21T13:08:30,ff9b42b1-d709-41df-a7db-b966823b4723
+C0083,Ananya Kapoor,ananya.kapoor83@example.com,Jaipur,North,Home Office,2024-04-27,customers.json,RetailMart,2026-07-21T13:08:30,be8ca9f3-ce2a-457b-83b6-b5727f6ad1e3
+C0084,Yash Patel,yash.patel84@example.com,Chandigarh,North,Corporate,2025-08-30,customers.json,RetailMart,2026-07-21T13:08:30,d33f33c2-627a-4ad2-9def-2f875c29856b
+C0085,Rahul Gupta,rahul.gupta85@example.com,Bengaluru,South,Corporate,2025-04-04,customers.json,RetailMart,2026-07-21T13:08:30,77ded5b5-4c36-4201-ac60-a034a760bf39
+C0086,Diya Singh,diya.singh86@example.com,Chennai,South,Corporate,2025-05-26,customers.json,RetailMart,2026-07-21T13:08:30,9bdea131-322f-43eb-a082-3c8439e28630
+C0087,Ananya Sharma,ananya.sharma87@example.com,Hyderabad,South,Corporate,2024-03-11,customers.json,RetailMart,2026-07-21T13:08:30,ad2c9221-1fd7-46cf-9c53-dd7dfa19afb8
+C0088,Arjun Verma,arjun.verma88@example.com,Chandigarh,North,Home Office,2024-08-16,customers.json,RetailMart,2026-07-21T13:08:30,ba15344e-b67d-4a6a-bbec-d34e7993aeb0
+C0089,Yash Singh,yash.singh89@example.com,Bengaluru,South,Consumer,2025-07-14,customers.json,RetailMart,2026-07-21T13:08:30,25cc4795-967a-4b31-97d9-e886e71623eb
+C0090,Ananya Gupta,ananya.gupta90@example.com,Hyderabad,South,Corporate,2025-08-30,customers.json,RetailMart,2026-07-21T13:08:30,8e034e88-3f19-4c63-8be9-3e143d7ee042
+C0091,Ishaan Joshi,ishaan.joshi91@example.com,Pune,West,Home Office,2024-11-13,customers.json,RetailMart,2026-07-21T13:08:30,14044731-b165-4bcc-b9ea-a98f27560716
+C0092,Priya Saxena,priya.saxena92@example.com,Lucknow,North,Home Office,2025-08-10,customers.json,RetailMart,2026-07-21T13:08:30,29e30784-e582-45bc-87a7-80446ecc55fa
+C0093,Aarav Jain,aarav.jain93@example.com,Ahmedabad,West,Corporate,2025-09-06,customers.json,RetailMart,2026-07-21T13:08:30,b6463f7e-50e9-472b-bdef-4b4694d06706
+C0094,Arjun Mehta,arjun.mehta94@example.com,Bhopal,Central,Corporate,2024-10-09,customers.json,RetailMart,2026-07-21T13:08:30,c89f404d-389c-4a27-8533-37a84d9a0898
+C0095,Arjun Jain,arjun.jain95@example.com,Delhi,North,Consumer,2025-10-17,customers.json,RetailMart,2026-07-21T13:08:30,e88aa854-b517-46a8-8412-1ab9d2f84d95
+C0096,Priya Saxena,priya.saxena96@example.com,Pune,West,Consumer,2024-07-29,customers.json,RetailMart,2026-07-21T13:08:30,35a99ae1-0eb0-4b45-aad0-affc15e69aeb
+C0097,Rahul Gupta,rahul.gupta97@example.com,Lucknow,North,Home Office,2024-06-23,customers.json,RetailMart,2026-07-21T13:08:30,1ba8c2dd-7cad-4291-9196-c27572e9a738
+C0098,Nikhil Jain,nikhil.jain98@example.com,Bhopal,Central,Corporate,2025-05-13,customers.json,RetailMart,2026-07-21T13:08:30,0e5b5410-6065-47e2-bd15-335d6efbe74e
+C0099,Aditi Verma,aditi.verma99@example.com,Pune,West,Home Office,2025-04-09,customers.json,RetailMart,2026-07-21T13:08:30,0ad19e96-cf43-4a11-92e8-1e8b5e41dbee
+C0100,Nikhil Sharma,nikhil.sharma100@example.com,Chennai,South,Consumer,2024-04-12,customers.json,RetailMart,2026-07-21T13:08:30,f07af2a9-232f-4f13-ab82-431397f7a67a
+C0101,Diya Singh,diya.singh101@example.com,Hyderabad,South,Consumer,2025-08-30,customers.json,RetailMart,2026-07-21T13:08:30,cd5da2e4-9ee2-4fbc-9bfe-287e4ec0c692
+C0102,Tanvi Jain,tanvi.jain102@example.com,Lucknow,North,Home Office,2024-05-25,customers.json,RetailMart,2026-07-21T13:08:30,9862cbbf-4cff-4b91-8fcd-0df40b023345
+C0103,Zoya Sharma,zoya.sharma103@example.com,Chennai,South,Consumer,2025-08-10,customers.json,RetailMart,2026-07-21T13:08:30,e76f8d30-10f7-4ff1-880f-017ba96fe615
+C0104,Diya Jain,diya.jain104@example.com,Delhi,North,Consumer,2024-01-06,customers.json,RetailMart,2026-07-21T13:08:30,a59600dc-b943-42c0-ab70-a3b08fd3de0e
+C0105,Zoya Mehta,zoya.mehta105@example.com,Hyderabad,South,Corporate,2025-08-04,customers.json,RetailMart,2026-07-21T13:08:30,0d131bbe-e7e9-4669-ab2c-6b0c55d4d3c3
+C0106,Aditi Singh,aditi.singh106@example.com,Mumbai,West,Corporate,2025-07-28,customers.json,RetailMart,2026-07-21T13:08:30,01446074-56e5-4814-aae2-9c6c4a247756
+C0107,Riya Gupta,riya.gupta107@example.com,Jaipur,North,Home Office,2025-07-23,customers.json,RetailMart,2026-07-21T13:08:30,db20b1db-630c-422d-80e8-9fabef982902
+C0108,Arjun Patel,arjun.patel108@example.com,Bengaluru,South,Home Office,2025-04-30,customers.json,RetailMart,2026-07-21T13:08:30,545b8912-698e-4e75-9929-a6f704feda23
+C0109,Diya Gupta,diya.gupta109@example.com,Chennai,South,Consumer,2024-12-10,customers.json,RetailMart,2026-07-21T13:08:30,98ddad02-239c-4704-b17d-10a85c941690
+C0110,Saanvi Sharma,saanvi.sharma110@example.com,Mumbai,West,Consumer,2025-05-29,customers.json,RetailMart,2026-07-21T13:08:30,af632e95-b9d9-49c6-a586-42952a0a99cc
+C0111,Rahul Kapoor,rahul.kapoor111@example.com,Lucknow,North,Home Office,2024-07-21,customers.json,RetailMart,2026-07-21T13:08:30,ea53f42e-28ce-466b-8fdb-cd984da447a5
+C0112,Meera Singh,meera.singh112@example.com,Lucknow,North,Consumer,2025-07-23,customers.json,RetailMart,2026-07-21T13:08:30,8affaa22-74a6-478c-9e25-07302f98ad89
+C0113,Arjun Kapoor,arjun.kapoor113@example.com,Lucknow,North,Consumer,2025-02-09,customers.json,RetailMart,2026-07-21T13:08:30,0a9d8dfb-9ba1-47f8-a040-4ab18c22493e
+C0114,Meera Gupta,meera.gupta114@example.com,Kolkata,East,Corporate,2024-12-01,customers.json,RetailMart,2026-07-21T13:08:30,f7f673d4-459c-4e1f-a0df-6954ea9b213d
+C0115,Priya Gupta,priya.gupta115@example.com,Hyderabad,South,Consumer,2025-01-04,customers.json,RetailMart,2026-07-21T13:08:30,52f729c7-a636-4fe1-9564-e736004a21a2
+C0116,Kavya Kapoor,kavya.kapoor116@example.com,Jaipur,North,Corporate,2025-02-19,customers.json,RetailMart,2026-07-21T13:08:30,cde426b2-8902-4c88-a3ba-7f419338ea23
+C0117,Ananya Singh,ananya.singh117@example.com,Pune,West,Corporate,2024-01-28,customers.json,RetailMart,2026-07-21T13:08:30,33e36483-1b16-489a-a2f0-233a5252ca78
+C0118,Yash Kapoor,yash.kapoor118@example.com,Bhopal,Central,Home Office,2024-04-12,customers.json,RetailMart,2026-07-21T13:08:30,6a46dfd7-6fcc-48c7-b9be-f892a9b18d7e
+C0119,Rahul Sharma,rahul.sharma119@example.com,Ahmedabad,West,Consumer,2024-06-28,customers.json,RetailMart,2026-07-21T13:08:30,de15c4aa-8ba8-4aad-806f-d29ae35b881c
+C0120,Ishaan Saxena,ishaan.saxena120@example.com,Pune,West,Corporate,2024-03-24,customers.json,RetailMart,2026-07-21T13:08:30,9be76a56-343f-4027-8c15-cc0b34a81cc0
+C0121,Arjun Saxena,arjun.saxena121@example.com,Jaipur,North,Corporate,2024-11-16,customers.json,RetailMart,2026-07-21T13:08:30,deeb4643-ad0d-494c-8ee2-67bacd448489
+C0122,Rahul Kapoor,rahul.kapoor122@example.com,Hyderabad,South,Home Office,2025-05-02,customers.json,RetailMart,2026-07-21T13:08:30,ce2ad590-969a-4414-a4b3-1af3dee249df
+C0123,Arjun Kapoor,arjun.kapoor123@example.com,Ahmedabad,West,Home Office,2025-04-22,customers.json,RetailMart,2026-07-21T13:08:30,5f50c4fa-18f5-4285-885d-b25597e29de5
+C0124,Nikhil Sharma,nikhil.sharma124@example.com,Bengaluru,South,Home Office,2024-12-09,customers.json,RetailMart,2026-07-21T13:08:30,ba81e3d7-c52b-40b9-84eb-fd55687485df
+C0125,Aarav Jain,aarav.jain125@example.com,Chennai,South,Home Office,2025-09-16,customers.json,RetailMart,2026-07-21T13:08:30,6b60636c-dece-4f72-afd7-663574bc8608
+C0126,Kavya Patel,kavya.patel126@example.com,Bhopal,Central,Corporate,2025-02-16,customers.json,RetailMart,2026-07-21T13:08:30,dbaa2d8e-c7fa-4a3a-b21b-4c9b3d0e6b34
+C0127,Rahul Saxena,rahul.saxena127@example.com,Delhi,North,Corporate,2024-02-27,customers.json,RetailMart,2026-07-21T13:08:30,0074ec25-76a8-4199-8489-8cc513955be2
+C0128,Arjun Singh,arjun.singh128@example.com,Bhopal,Central,Home Office,2025-07-12,customers.json,RetailMart,2026-07-21T13:08:30,b841f55c-9c0f-4eeb-97f8-3aeaa5894a53
+C0129,Saanvi Patel,saanvi.patel129@example.com,Pune,West,Corporate,2025-02-23,customers.json,RetailMart,2026-07-21T13:08:30,a0645d79-bccb-4445-8aa9-45d42994f116
+C0130,Priya Jain,priya.jain130@example.com,Lucknow,North,Consumer,2025-04-08,customers.json,RetailMart,2026-07-21T13:08:30,fd814f25-ba5f-4ae6-a39a-6919dda397d2
+C0131,Saanvi Kapoor,saanvi.kapoor131@example.com,Bengaluru,South,Home Office,2025-02-16,customers.json,RetailMart,2026-07-21T13:08:30,73aee61c-b8e7-4e4e-8128-2b9e267e0bf1
+C0132,Ishaan Saxena,ishaan.saxena132@example.com,Lucknow,North,Home Office,2025-02-08,customers.json,RetailMart,2026-07-21T13:08:30,98691f2c-e0a0-4cdd-b60e-996e82ad9282
+C0133,Rohan Jain,rohan.jain133@example.com,Pune,West,Consumer,2024-03-07,customers.json,RetailMart,2026-07-21T13:08:30,1233fd5a-4392-4e14-9a97-6f08a9f64ac8
+C0134,Priya Gupta,priya.gupta134@example.com,Pune,West,Corporate,2025-02-12,customers.json,RetailMart,2026-07-21T13:08:30,9ad42772-6d28-4d65-92ce-466fd6e68c51
+C0135,Rahul Joshi,rahul.joshi135@example.com,Chandigarh,North,Corporate,2025-08-03,customers.json,RetailMart,2026-07-21T13:08:30,1eaca8e7-1f4c-49ee-9274-4cb2f00b24a5
+C0136,Kavya Jain,kavya.jain136@example.com,Kolkata,East,Corporate,2024-08-09,customers.json,RetailMart,2026-07-21T13:08:30,cf75d8c2-663b-46af-98a2-5794cd70a017
+C0137,Ishaan Verma,ishaan.verma137@example.com,Lucknow,North,Corporate,2025-03-16,customers.json,RetailMart,2026-07-21T13:08:30,c9266fd6-3b57-4462-88ae-2e5114585d89
+C0138,Rahul Verma,rahul.verma138@example.com,Ahmedabad,West,Consumer,2024-01-23,customers.json,RetailMart,2026-07-21T13:08:30,41b1dd20-6dae-4081-aa26-ebb096d052d7
+C0139,Priya Gupta,priya.gupta139@example.com,Bhopal,Central,Consumer,2024-09-10,customers.json,RetailMart,2026-07-21T13:08:30,a7ce1d5f-e284-4f0a-b738-dc8428eda22c
+C0140,Aarav Sharma,aarav.sharma140@example.com,Mumbai,West,Consumer,2024-11-14,customers.json,RetailMart,2026-07-21T13:08:30,0703987d-065b-4369-8fd8-ce9593aff66b
+C0141,Ananya Joshi,ananya.joshi141@example.com,Kolkata,East,Corporate,2025-12-18,customers.json,RetailMart,2026-07-21T13:08:30,d8a86c8b-7729-4fde-af4a-4f9017f5e00e
+C0142,Kavya Kapoor,kavya.kapoor142@example.com,Bhopal,Central,Corporate,2024-06-05,customers.json,RetailMart,2026-07-21T13:08:30,bcd44d04-4dcc-496e-ace0-73616a37301d
+C0143,Meera Mehta,meera.mehta143@example.com,Chennai,South,Home Office,2024-07-20,customers.json,RetailMart,2026-07-21T13:08:30,4dced3d1-05c2-41de-a4b2-856d48509c4c
+C0144,Aarav Verma,aarav.verma144@example.com,Lucknow,North,Corporate,2024-10-25,customers.json,RetailMart,2026-07-21T13:08:30,906fd25f-6c00-403c-a544-6762d34d4435
+C0145,Ishaan Jain,ishaan.jain145@example.com,Bengaluru,South,Corporate,2025-12-25,customers.json,RetailMart,2026-07-21T13:08:30,4677ba01-b49e-4628-8ecc-74c5d0f5f05c
+C0146,Zoya Gupta,zoya.gupta146@example.com,Jaipur,North,Consumer,2025-09-14,customers.json,RetailMart,2026-07-21T13:08:30,f3aa29cf-4320-4742-9bcf-0ca93c471883
+C0147,Diya Joshi,diya.joshi147@example.com,Kolkata,East,Home Office,2024-01-26,customers.json,RetailMart,2026-07-21T13:08:30,8c4cfcb3-fef1-400a-a97d-ed7ecb446fa1
+C0148,Zoya Saxena,zoya.saxena148@example.com,Ahmedabad,West,Corporate,2024-06-19,customers.json,RetailMart,2026-07-21T13:08:30,fe00fe62-0b45-4b39-86fd-793393c7f3a4
+C0149,Yash Kapoor,yash.kapoor149@example.com,Kolkata,East,Home Office,2025-08-22,customers.json,RetailMart,2026-07-21T13:08:30,db8e742e-d041-4fb4-99dd-708c5c242c6c
+C0150,Ishaan Joshi,ishaan.joshi150@example.com,Kolkata,East,Corporate,2024-02-12,customers.json,RetailMart,2026-07-21T13:08:30,e74ae117-6209-40ce-a183-e4bd16c4b134
+C0151,Meera Singh,meera.singh151@example.com,Pune,West,Home Office,2025-09-16,customers.json,RetailMart,2026-07-21T13:08:30,170e7358-eaca-4ef2-91f5-8630adbf0d7d
+C0152,Meera Singh,meera.singh152@example.com,Kolkata,East,Corporate,2024-07-24,customers.json,RetailMart,2026-07-21T13:08:30,549ef94a-c2f8-4dbd-9af7-9170c860b54a
+C0153,Priya Gupta,priya.gupta153@example.com,Delhi,North,Corporate,2025-10-31,customers.json,RetailMart,2026-07-21T13:08:30,a217d7b4-f456-4886-8078-a80c46b33cd1
+C0154,Rahul Jain,rahul.jain154@example.com,Hyderabad,South,Consumer,2024-08-02,customers.json,RetailMart,2026-07-21T13:08:30,52d9eede-820c-4a83-88e4-9087bf798445
+C0155,Diya Gupta,diya.gupta155@example.com,Mumbai,West,Corporate,2024-11-13,customers.json,RetailMart,2026-07-21T13:08:30,f56c527a-b833-4819-96bc-cfe26f8ea46d
+C0156,Diya Gupta,diya.gupta156@example.com,Lucknow,North,Consumer,2025-04-28,customers.json,RetailMart,2026-07-21T13:08:30,1ae21193-8afc-4308-93aa-8c2fe8d1b040
+C0157,Saanvi Patel,saanvi.patel157@example.com,Chennai,South,Home Office,2024-04-02,customers.json,RetailMart,2026-07-21T13:08:30,362f4846-a233-4ddb-8956-8212052f630a
+C0158,Saanvi Sharma,saanvi.sharma158@example.com,Kolkata,East,Consumer,2025-02-10,customers.json,RetailMart,2026-07-21T13:08:30,5df8e854-2908-4c8f-b9ba-7035edf9580b
+C0159,Rohan Saxena,rohan.saxena159@example.com,Chennai,South,Home Office,2025-01-03,customers.json,RetailMart,2026-07-21T13:08:30,c8f54fbe-a567-4152-b4a8-6afb95299bd3
+C0160,Rohan Joshi,rohan.joshi160@example.com,Jaipur,North,Consumer,2025-07-26,customers.json,RetailMart,2026-07-21T13:08:30,3adb4184-93f1-4034-bda4-4f8f967b9a5d
+C0161,Priya Kapoor,priya.kapoor161@example.com,Hyderabad,South,Corporate,2025-12-28,customers.json,RetailMart,2026-07-21T13:08:30,f9a9468c-ef2b-4bc4-86b7-c1bc800352eb
+C0162,Zoya Saxena,zoya.saxena162@example.com,Ahmedabad,West,Consumer,2025-04-29,customers.json,RetailMart,2026-07-21T13:08:30,68ec81ff-0f2c-45d5-8982-dce00d5a104a
+C0163,Meera Singh,meera.singh163@example.com,Kolkata,East,Corporate,2024-10-25,customers.json,RetailMart,2026-07-21T13:08:30,e5d793ce-9239-41ad-a016-8ade2d924c34
+C0164,Aarav Kapoor,aarav.kapoor164@example.com,Kolkata,East,Corporate,2024-10-23,customers.json,RetailMart,2026-07-21T13:08:30,087a17d3-f170-4dd9-82b0-9fbb6f773201
+C0165,Rohan Mehta,rohan.mehta165@example.com,Bhopal,Central,Corporate,2024-11-01,customers.json,RetailMart,2026-07-21T13:08:30,c432fd62-12d5-48e4-a4ba-61333b1b2245
+C0166,Zoya Sharma,zoya.sharma166@example.com,Mumbai,West,Corporate,2025-08-17,customers.json,RetailMart,2026-07-21T13:08:30,4eb88079-dc03-49a5-a4ec-277471bcee43
+C0167,Aarav Verma,aarav.verma167@example.com,Chandigarh,North,Home Office,2024-08-22,customers.json,RetailMart,2026-07-21T13:08:30,266d7541-897c-4b99-8500-2944b974640e
+C0168,Diya Joshi,diya.joshi168@example.com,Chennai,South,Consumer,2024-05-01,customers.json,RetailMart,2026-07-21T13:08:30,543f2b80-2ce1-4633-80e5-d42e5a32746c
+C0169,Nikhil Kapoor,nikhil.kapoor169@example.com,Jaipur,North,Corporate,2024-09-01,customers.json,RetailMart,2026-07-21T13:08:30,710394d9-0fed-42ea-a022-71be9adfa1c5
+C0170,Tanvi Patel,tanvi.patel170@example.com,Bengaluru,South,Corporate,2024-01-17,customers.json,RetailMart,2026-07-21T13:08:30,e2301014-eedf-48e8-b1fe-36e6f4636c0c
+C0171,Nikhil Kapoor,nikhil.kapoor171@example.com,Chennai,South,Corporate,2024-03-18,customers.json,RetailMart,2026-07-21T13:08:30,f1251c05-b35f-49bf-9163-6811198abc5f
+C0172,Varun Sharma,varun.sharma172@example.com,Delhi,North,Home Office,2024-03-06,customers.json,RetailMart,2026-07-21T13:08:30,4e7f6e8f-df30-44aa-b884-2da6a7ba37e8
+C0173,Aditi Patel,aditi.patel173@example.com,Ahmedabad,West,Consumer,2025-07-17,customers.json,RetailMart,2026-07-21T13:08:30,15459096-a84f-4da3-9acd-7662cbc1b374
+C0174,Ananya Sharma,ananya.sharma174@example.com,Bhopal,Central,Consumer,2025-06-11,customers.json,RetailMart,2026-07-21T13:08:30,584dd604-fad2-4d1c-898b-a361bd09ef0c
+C0175,Kavya Sharma,kavya.sharma175@example.com,Bengaluru,South,Home Office,2025-05-23,customers.json,RetailMart,2026-07-21T13:08:30,15e54085-fb62-4aff-8e03-7f00eb6df707
+C0176,Meera Mehta,meera.mehta176@example.com,Mumbai,West,Corporate,2024-12-03,customers.json,RetailMart,2026-07-21T13:08:30,2e2f373a-753e-45e9-93d1-a461a8a6f55e
+C0177,Arjun Saxena,arjun.saxena177@example.com,Bhopal,Central,Consumer,2025-06-07,customers.json,RetailMart,2026-07-21T13:08:30,403638fc-fbc8-4467-90d5-a13263ed6f46
+C0178,Nikhil Patel,nikhil.patel178@example.com,Kolkata,East,Consumer,2024-04-27,customers.json,RetailMart,2026-07-21T13:08:30,f8c1b6e3-b52c-4daa-bae1-c54dcf01dcca
+C0179,Arjun Mehta,arjun.mehta179@example.com,Chandigarh,North,Corporate,2025-10-19,customers.json,RetailMart,2026-07-21T13:08:30,3e8f9997-2235-4a44-abeb-0f1f173e9d1b
+C0180,Aarav Singh,aarav.singh180@example.com,Delhi,North,Home Office,2024-12-31,customers.json,RetailMart,2026-07-21T13:08:30,a8e4f784-6e96-46c8-ae8a-b55c6243f7ba
+C0181,Rohan Kapoor,rohan.kapoor181@example.com,Bhopal,Central,Home Office,2025-11-15,customers.json,RetailMart,2026-07-21T13:08:30,ad2eac08-f683-4d2a-a6e4-a76d164cd42f
+C0182,Ananya Saxena,ananya.saxena182@example.com,Bengaluru,South,Home Office,2024-04-21,customers.json,RetailMart,2026-07-21T13:08:30,5ce6681a-fcd6-4b0a-b197-b1688372fb00
+C0183,Meera Verma,meera.verma183@example.com,Bhopal,Central,Home Office,2024-12-29,customers.json,RetailMart,2026-07-21T13:08:30,567a830a-a520-446b-aaf3-2a02918997df
+C0184,Arjun Saxena,arjun.saxena184@example.com,Pune,West,Consumer,2025-05-23,customers.json,RetailMart,2026-07-21T13:08:30,091a3c00-ec69-4843-91a5-b94af59eb95c
+C0185,Zoya Kapoor,zoya.kapoor185@example.com,Hyderabad,South,Home Office,2024-12-27,customers.json,RetailMart,2026-07-21T13:08:30,1865d59c-572a-4da1-ba99-2c43418f283e
+C0186,Ananya Jain,ananya.jain186@example.com,Hyderabad,South,Home Office,2024-11-21,customers.json,RetailMart,2026-07-21T13:08:30,508957f9-eba8-469d-acfc-91feec0cfa92
+C0187,Aarav Kapoor,aarav.kapoor187@example.com,Hyderabad,South,Corporate,2024-05-01,customers.json,RetailMart,2026-07-21T13:08:30,145fec33-8591-42a3-862d-6320a4dffe35
+C0188,Saanvi Patel,saanvi.patel188@example.com,Delhi,North,Home Office,2024-10-05,customers.json,RetailMart,2026-07-21T13:08:30,e5ad331e-eb1b-4af0-8257-7750fd02a845
+C0189,Diya Kapoor,diya.kapoor189@example.com,Kolkata,East,Consumer,2024-06-23,customers.json,RetailMart,2026-07-21T13:08:30,bf03535b-f3d0-4461-9603-2192ae065431
+C0190,Yash Singh,yash.singh190@example.com,Lucknow,North,Home Office,2024-08-08,customers.json,RetailMart,2026-07-21T13:08:30,aa40da22-dfea-40cf-8386-c5f2bc174bd5
+C0191,Varun Joshi,varun.joshi191@example.com,Ahmedabad,West,Corporate,2025-05-14,customers.json,RetailMart,2026-07-21T13:08:30,ed1fddf4-27c0-4108-aadd-285843000e3b
+C0192,Nikhil Patel,nikhil.patel192@example.com,Lucknow,North,Consumer,2025-04-05,customers.json,RetailMart,2026-07-21T13:08:30,356e0b0f-b857-4fb9-90df-731c16e4e8e6
+C0193,Nikhil Joshi,nikhil.joshi193@example.com,Delhi,North,Consumer,2025-03-19,customers.json,RetailMart,2026-07-21T13:08:30,72a9fc5a-c9c1-4987-9fa6-7dca7e7bb918
+C0194,Rohan Patel,rohan.patel194@example.com,Kolkata,East,Consumer,2024-09-21,customers.json,RetailMart,2026-07-21T13:08:30,5716b67f-d217-4748-8d64-301461c5a9e8
+C0195,Rahul Mehta,rahul.mehta195@example.com,Kolkata,East,Corporate,2025-12-01,customers.json,RetailMart,2026-07-21T13:08:30,e0c0a0e9-b4d5-4505-8a4c-fdc42f63291f
+C0196,Riya Singh,riya.singh196@example.com,Bengaluru,South,Corporate,2024-03-04,customers.json,RetailMart,2026-07-21T13:08:30,2a9bd63b-94ff-40a0-9ee3-d7c56dab9421
+C0197,Nikhil Jain,nikhil.jain197@example.com,Pune,West,Consumer,2024-09-07,customers.json,RetailMart,2026-07-21T13:08:30,27067850-58e6-412b-b4a8-924b84e72e53
+C0198,Kavya Verma,kavya.verma198@example.com,Ahmedabad,West,Consumer,2024-03-27,customers.json,RetailMart,2026-07-21T13:08:30,46f3aac6-6e98-4288-a5b2-7437f3ac222a
+C0199,Saanvi Joshi,saanvi.joshi199@example.com,Lucknow,North,Home Office,2024-09-04,customers.json,RetailMart,2026-07-21T13:08:30,f174e0e5-53af-4715-9a1c-a63cb3808e7b
+C0200,Varun Joshi,varun.joshi200@example.com,Bengaluru,South,Corporate,2025-12-03,customers.json,RetailMart,2026-07-21T13:08:30,aae84c47-7828-4376-9741-758362342032
+C0201,Ananya Singh,ananya.singh201@example.com,Jaipur,North,Consumer,2024-09-24,customers.json,RetailMart,2026-07-21T13:08:30,fe72edc9-050b-4a7f-9ec0-4ac4df105840
+C0202,Meera Singh,meera.singh202@example.com,Chennai,South,Home Office,2025-10-25,customers.json,RetailMart,2026-07-21T13:08:30,aa0d8a80-c68c-4237-b9da-8e829bc7ed27
+C0203,Riya Joshi,riya.joshi203@example.com,Chandigarh,North,Home Office,2024-12-27,customers.json,RetailMart,2026-07-21T13:08:30,ac14ca86-78cc-4c7d-ab06-638b060806c9
+C0204,Riya Kapoor,riya.kapoor204@example.com,Ahmedabad,West,Home Office,2025-05-25,customers.json,RetailMart,2026-07-21T13:08:30,6d35d44b-1ec7-449d-aded-1e4820129fef
+C0205,Rahul Patel,rahul.patel205@example.com,Ahmedabad,West,Home Office,2024-11-29,customers.json,RetailMart,2026-07-21T13:08:30,e50e007a-25fb-4df9-9f60-164763f202ea
+C0206,Nikhil Singh,nikhil.singh206@example.com,Kolkata,East,Corporate,2024-07-13,customers.json,RetailMart,2026-07-21T13:08:30,25953563-4a51-40cf-8aad-11926ec725fd
+C0207,Arjun Gupta,arjun.gupta207@example.com,Bengaluru,South,Corporate,2025-07-11,customers.json,RetailMart,2026-07-21T13:08:30,63862621-e638-4695-9dc3-aeef0c62a12b
+C0208,Zoya Mehta,zoya.mehta208@example.com,Delhi,North,Consumer,2025-12-08,customers.json,RetailMart,2026-07-21T13:08:30,a1b267e7-4ff7-4103-84f2-e5bd33473c53
+C0209,Varun Singh,varun.singh209@example.com,Bengaluru,South,Home Office,2024-07-11,customers.json,RetailMart,2026-07-21T13:08:30,518e52ed-9922-4fb7-aa0d-0b73b2e96333
+C0210,Yash Saxena,yash.saxena210@example.com,Chandigarh,North,Corporate,2025-07-22,customers.json,RetailMart,2026-07-21T13:08:30,dd92e917-5685-4825-a95f-2fba8949bf81
+C0211,Kavya Singh,kavya.singh211@example.com,Delhi,North,Consumer,2024-07-09,customers.json,RetailMart,2026-07-21T13:08:30,10e03af8-c063-4bb6-bdf8-fecbc91e55cd
+C0212,Ishaan Singh,ishaan.singh212@example.com,Hyderabad,South,Consumer,2025-06-07,customers.json,RetailMart,2026-07-21T13:08:30,bfee91a0-95e6-4950-a5c5-1759d12d8050
+C0213,Zoya Mehta,zoya.mehta213@example.com,Lucknow,North,Corporate,2025-07-29,customers.json,RetailMart,2026-07-21T13:08:30,d76ae0b6-f499-4962-b3a3-2ccab240b537
+C0214,Aditi Jain,aditi.jain214@example.com,Jaipur,North,Corporate,2024-11-24,customers.json,RetailMart,2026-07-21T13:08:30,32319880-c4bf-4ff3-be1d-382e93f03db1
+C0215,Diya Joshi,diya.joshi215@example.com,Lucknow,North,Consumer,2025-06-21,customers.json,RetailMart,2026-07-21T13:08:30,46e4482d-193d-40b5-a4b1-0a934677276a
+C0216,Priya Joshi,priya.joshi216@example.com,Jaipur,North,Corporate,2024-07-17,customers.json,RetailMart,2026-07-21T13:08:30,133a6576-0d95-4527-8c1a-4a3c4e56dfd4
+C0217,Rahul Mehta,rahul.mehta217@example.com,Kolkata,East,Consumer,2024-02-27,customers.json,RetailMart,2026-07-21T13:08:30,56c3c114-aeaa-487b-ab61-fcf64dfff770
+C0218,Varun Verma,varun.verma218@example.com,Pune,West,Consumer,2024-03-11,customers.json,RetailMart,2026-07-21T13:08:30,51050390-aeb5-4201-b234-1934f76d6099
+C0219,Varun Verma,varun.verma219@example.com,Chennai,South,Home Office,2024-11-22,customers.json,RetailMart,2026-07-21T13:08:30,36aeb031-46cb-4c46-8846-84b3746cb2ef
+C0220,Aditi Mehta,aditi.mehta220@example.com,Bhopal,Central,Consumer,2025-10-20,customers.json,RetailMart,2026-07-21T13:08:30,24ba6984-8670-4b5f-b89a-af99f3695a22
+C0221,Priya Verma,priya.verma221@example.com,Chandigarh,North,Consumer,2024-04-03,customers.json,RetailMart,2026-07-21T13:08:30,fa2d8fe2-83fc-4ddc-b11b-015ddf6d27cb
+C0222,Zoya Kapoor,zoya.kapoor222@example.com,Delhi,North,Home Office,2024-11-28,customers.json,RetailMart,2026-07-21T13:08:30,3824b276-1961-4485-bab0-a67885d14d0b
+C0223,Meera Jain,meera.jain223@example.com,Chandigarh,North,Corporate,2025-05-28,customers.json,RetailMart,2026-07-21T13:08:30,4906db70-eeeb-447f-be01-2a26161f1081
+C0224,Tanvi Singh,tanvi.singh224@example.com,Kolkata,East,Home Office,2024-05-27,customers.json,RetailMart,2026-07-21T13:08:30,afdca67d-ec6e-407a-a8ae-b193edc23fb2
+C0225,Priya Saxena,priya.saxena225@example.com,Chennai,South,Home Office,2025-06-10,customers.json,RetailMart,2026-07-21T13:08:30,60a6a542-cdc2-4cd5-85b3-a32ccdaa6856
+C0226,Arjun Gupta,arjun.gupta226@example.com,Jaipur,North,Home Office,2024-08-11,customers.json,RetailMart,2026-07-21T13:08:30,c4be8307-b537-46a8-9243-b914382e3428
+C0227,Nikhil Verma,nikhil.verma227@example.com,Bengaluru,South,Consumer,2025-08-13,customers.json,RetailMart,2026-07-21T13:08:30,82672562-c6b2-4bb7-aa63-fc4d20fb5b47
+C0228,Ishaan Jain,ishaan.jain228@example.com,Bengaluru,South,Consumer,2025-02-26,customers.json,RetailMart,2026-07-21T13:08:30,8dcafa17-b7a3-42bf-b0e6-4d6c8ac8e48c
+C0229,Aarav Kapoor,aarav.kapoor229@example.com,Mumbai,West,Corporate,2025-02-03,customers.json,RetailMart,2026-07-21T13:08:30,95d0c020-52ac-4212-82dc-08f3c7f6a4b4
+C0230,Varun Singh,varun.singh230@example.com,Lucknow,North,Consumer,2024-05-09,customers.json,RetailMart,2026-07-21T13:08:30,af3bef60-857c-4e5a-ab00-e2a4895285e6
+C0231,Priya Singh,priya.singh231@example.com,Bengaluru,South,Home Office,2024-12-04,customers.json,RetailMart,2026-07-21T13:08:30,f085338b-332e-4875-961a-8211b55f5422
+C0232,Ananya Gupta,ananya.gupta232@example.com,Kolkata,East,Corporate,2025-09-17,customers.json,RetailMart,2026-07-21T13:08:30,6bd9b8f4-5d23-4d78-8a8d-ce2a2f58adb0
+C0233,Kavya Kapoor,kavya.kapoor233@example.com,Bhopal,Central,Consumer,2024-01-15,customers.json,RetailMart,2026-07-21T13:08:30,464e746f-b105-4e9f-8b90-6ecc9ba45981
+C0234,Meera Mehta,meera.mehta234@example.com,Ahmedabad,West,Corporate,2025-07-07,customers.json,RetailMart,2026-07-21T13:08:30,0f4f964f-e637-47fd-8eca-60d08ca1b8a3
+C0235,Ananya Sharma,ananya.sharma235@example.com,Mumbai,West,Consumer,2024-12-25,customers.json,RetailMart,2026-07-21T13:08:30,ffe77b82-29a2-4c4d-b5a6-0a25b2539fc2
+C0236,Priya Joshi,priya.joshi236@example.com,Pune,West,Consumer,2025-06-09,customers.json,RetailMart,2026-07-21T13:08:30,c55d0b00-0a52-439c-9f56-91cdda79ef7f
+C0237,Priya Kapoor,priya.kapoor237@example.com,Kolkata,East,Corporate,2025-04-29,customers.json,RetailMart,2026-07-21T13:08:30,97be0664-c23c-47fb-8bd4-90187ed1da47
+C0238,Zoya Joshi,zoya.joshi238@example.com,Ahmedabad,West,Corporate,2024-11-11,customers.json,RetailMart,2026-07-21T13:08:30,2d14fa64-d6e3-4a68-9a57-126312764d60
+C0239,Aditi Kapoor,aditi.kapoor239@example.com,Delhi,North,Home Office,2024-08-13,customers.json,RetailMart,2026-07-21T13:08:30,365944ab-be39-4f56-bca5-37570dadf38c
+C0240,Nikhil Sharma,nikhil.sharma240@example.com,Hyderabad,South,Consumer,2025-04-02,customers.json,RetailMart,2026-07-21T13:08:30,43bbf38e-5011-40f1-b887-b0848c2d8b60
+C0241,Aarav Singh,aarav.singh241@example.com,Bengaluru,South,Home Office,2024-04-12,customers.json,RetailMart,2026-07-21T13:08:30,d303a2cb-c422-47d7-8901-7a569876452b
+C0242,Ishaan Joshi,ishaan.joshi242@example.com,Jaipur,North,Home Office,2025-03-02,customers.json,RetailMart,2026-07-21T13:08:30,25372ab2-597c-4180-85c1-f9b497c73c04
+C0243,Tanvi Singh,tanvi.singh243@example.com,Bhopal,Central,Consumer,2024-03-10,customers.json,RetailMart,2026-07-21T13:08:30,f517351f-bd6f-4c23-9e7e-0984ea8049ab
+C0244,Saanvi Joshi,saanvi.joshi244@example.com,Chandigarh,North,Consumer,2025-04-19,customers.json,RetailMart,2026-07-21T13:08:30,4623203d-4c06-4cd6-8752-a83110a6acbb
+C0245,Riya Kapoor,riya.kapoor245@example.com,Kolkata,East,Corporate,2025-04-03,customers.json,RetailMart,2026-07-21T13:08:30,f6e54171-928e-42ec-aac7-7372b77f4e3f
+C0246,Arjun Mehta,arjun.mehta246@example.com,Hyderabad,South,Corporate,2024-03-02,customers.json,RetailMart,2026-07-21T13:08:30,03ca36c6-316f-419f-a1e8-e2a5eb508200
+C0247,Varun Singh,varun.singh247@example.com,Chennai,South,Home Office,2025-07-06,customers.json,RetailMart,2026-07-21T13:08:30,51d5a805-fbec-4c11-a527-3321e99c614e
+C0248,Zoya Sharma,zoya.sharma248@example.com,Chennai,South,Corporate,2024-10-30,customers.json,RetailMart,2026-07-21T13:08:30,87e0f18d-9d84-4ea5-b0a4-f2c4688f35be
+C0249,Rahul Singh,rahul.singh249@example.com,Delhi,North,Corporate,2025-07-28,customers.json,RetailMart,2026-07-21T13:08:30,73cf5593-a2cd-41bd-a130-9e8a512042f3
+C0250,Rohan Jain,rohan.jain250@example.com,Delhi,North,Consumer,2024-01-31,customers.json,RetailMart,2026-07-21T13:08:30,b1072c02-c28b-4ae4-a7e9-cd90827e526b
+C0251,Zoya Joshi,zoya.joshi251@example.com,Bhopal,Central,Corporate,2024-05-11,customers.json,RetailMart,2026-07-21T13:08:30,ae8bfa0a-d5c3-4704-8ae9-4e9ad28e9036
+C0252,Kavya Jain,kavya.jain252@example.com,Jaipur,North,Corporate,2024-12-26,customers.json,RetailMart,2026-07-21T13:08:30,d7b6ee42-65e8-4b01-9486-da35574a39f4
+C0253,Varun Joshi,varun.joshi253@example.com,Chandigarh,North,Consumer,2024-05-17,customers.json,RetailMart,2026-07-21T13:08:30,5f59b507-cae9-4777-b72f-a463553d2fd5
+C0254,Nikhil Jain,nikhil.jain254@example.com,Bengaluru,South,Consumer,2024-08-28,customers.json,RetailMart,2026-07-21T13:08:30,c66ceb4b-b8ca-441d-965f-246acfe6d7d6
+C0255,Tanvi Joshi,tanvi.joshi255@example.com,Pune,West,Consumer,2025-04-27,customers.json,RetailMart,2026-07-21T13:08:30,b459409e-0e7f-499f-b2b3-9241303cc502
+C0256,Meera Mehta,meera.mehta256@example.com,Jaipur,North,Corporate,2024-04-15,customers.json,RetailMart,2026-07-21T13:08:30,fc00e066-12cc-475e-97f4-0221124160b9
+C0257,Aarav Jain,aarav.jain257@example.com,Ahmedabad,West,Corporate,2025-05-09,customers.json,RetailMart,2026-07-21T13:08:30,28efa30a-b811-48f9-80cd-ac173b6549f6
+C0258,Meera Verma,meera.verma258@example.com,Delhi,North,Corporate,2024-03-16,customers.json,RetailMart,2026-07-21T13:08:30,254fd244-0864-4060-bd38-5d7765e68411
+C0259,Diya Joshi,diya.joshi259@example.com,Delhi,North,Home Office,2024-05-07,customers.json,RetailMart,2026-07-21T13:08:30,ab1826fb-6f3c-4df5-a0c5-a5adcbb397ad
+C0260,Yash Singh,yash.singh260@example.com,Pune,West,Corporate,2025-03-04,customers.json,RetailMart,2026-07-21T13:08:30,9b506f10-655a-4e5f-9482-4ef3d7a18be8
+C0261,Varun Gupta,varun.gupta261@example.com,Kolkata,East,Corporate,2025-08-02,customers.json,RetailMart,2026-07-21T13:08:30,46239e29-aa8a-4e41-9874-dc9a38d860cc
+C0262,Diya Kapoor,diya.kapoor262@example.com,Ahmedabad,West,Consumer,2024-05-04,customers.json,RetailMart,2026-07-21T13:08:30,a4e43303-6e79-4cc7-b401-8fe03c7b5dec
+C0263,Yash Mehta,yash.mehta263@example.com,Chandigarh,North,Consumer,2024-08-06,customers.json,RetailMart,2026-07-21T13:08:30,12d1848a-8162-4c33-a195-1b6d7cd57587
+C0264,Saanvi Patel,saanvi.patel264@example.com,Pune,West,Home Office,2025-11-06,customers.json,RetailMart,2026-07-21T13:08:30,ef85185e-8a75-4f3b-901d-6ced5167584f
+C0265,Aarav Singh,aarav.singh265@example.com,Pune,West,Home Office,2025-12-23,customers.json,RetailMart,2026-07-21T13:08:30,be7871c9-ec8e-443e-94fa-b5a1bc62419c
+C0266,Varun Mehta,varun.mehta266@example.com,Pune,West,Corporate,2025-02-28,customers.json,RetailMart,2026-07-21T13:08:30,e07542ae-057f-4a1d-a670-50c752278f61
+C0267,Varun Patel,varun.patel267@example.com,Ahmedabad,West,Corporate,2024-11-22,customers.json,RetailMart,2026-07-21T13:08:30,cd2f5dde-373b-4c74-904a-3ebde7a60fc3
+C0268,Zoya Kapoor,zoya.kapoor268@example.com,Ahmedabad,West,Corporate,2024-09-10,customers.json,RetailMart,2026-07-21T13:08:30,25018bd7-7b9e-4c1a-ae42-dc6165ef4b39
+C0269,Kavya Gupta,kavya.gupta269@example.com,Hyderabad,South,Home Office,2025-03-23,customers.json,RetailMart,2026-07-21T13:08:30,96947e0f-5529-475d-99f0-f71aa3531cc0
+C0270,Meera Kapoor,meera.kapoor270@example.com,Chennai,South,Consumer,2025-03-07,customers.json,RetailMart,2026-07-21T13:08:30,fc85a327-7df8-417c-911e-b1338774f065
+C0271,Varun Kapoor,varun.kapoor271@example.com,Hyderabad,South,Corporate,2024-08-03,customers.json,RetailMart,2026-07-21T13:08:30,14e05482-d02a-4361-ae9d-62ea4005049b
+C0272,Diya Joshi,diya.joshi272@example.com,Bhopal,Central,Consumer,2024-01-17,customers.json,RetailMart,2026-07-21T13:08:30,418111da-c1da-4916-bf17-9ecb3ae58818
+C0273,Yash Saxena,yash.saxena273@example.com,Mumbai,West,Corporate,2024-04-20,customers.json,RetailMart,2026-07-21T13:08:30,392ba202-c6b4-4a78-b333-46a300705911
+C0274,Tanvi Verma,tanvi.verma274@example.com,Delhi,North,Home Office,2025-11-30,customers.json,RetailMart,2026-07-21T13:08:30,4461c73d-2418-4b50-9c9c-c84c515d2913
+C0275,Aarav Mehta,aarav.mehta275@example.com,Kolkata,East,Corporate,2024-11-01,customers.json,RetailMart,2026-07-21T13:08:30,dd956467-0c81-426d-b414-3737f7ffe805
+C0276,Diya Verma,diya.verma276@example.com,Bhopal,Central,Corporate,2024-12-18,customers.json,RetailMart,2026-07-21T13:08:30,c23105b1-4052-4bf0-9c04-55023425ca55
+C0277,Rahul Saxena,rahul.saxena277@example.com,Pune,West,Home Office,2024-12-06,customers.json,RetailMart,2026-07-21T13:08:30,0397c680-0623-4f5f-8457-d9939d2cc03c
+C0278,Ananya Patel,ananya.patel278@example.com,Chennai,South,Home Office,2025-07-25,customers.json,RetailMart,2026-07-21T13:08:30,770bdfc8-f14b-4f09-b512-8bd510a782a2
+C0279,Rohan Patel,rohan.patel279@example.com,Ahmedabad,West,Home Office,2024-02-17,customers.json,RetailMart,2026-07-21T13:08:30,52d47d46-85e9-48c2-af01-356286e2b3be
+C0280,Varun Jain,varun.jain280@example.com,Lucknow,North,Consumer,2024-03-01,customers.json,RetailMart,2026-07-21T13:08:30,5859587a-2d7b-4b38-875c-a9345d1daaef
+C0281,Ananya Gupta,ananya.gupta281@example.com,Chandigarh,North,Home Office,2024-07-20,customers.json,RetailMart,2026-07-21T13:08:30,2f170246-ffa4-456c-97e1-9498044348b6
+C0282,Priya Gupta,priya.gupta282@example.com,Bhopal,Central,Home Office,2024-12-21,customers.json,RetailMart,2026-07-21T13:08:30,3013541e-417e-4c64-9772-2b286515021c
+C0283,Saanvi Verma,saanvi.verma283@example.com,Delhi,North,Home Office,2025-05-04,customers.json,RetailMart,2026-07-21T13:08:30,55133ab6-abf1-4889-8d81-95c0232400be
+C0284,Arjun Joshi,arjun.joshi284@example.com,Lucknow,North,Consumer,2024-12-24,customers.json,RetailMart,2026-07-21T13:08:30,414b20d3-1b05-429e-a0b8-a8dfdb9974dd
+C0285,Priya Sharma,priya.sharma285@example.com,Lucknow,North,Consumer,2024-11-18,customers.json,RetailMart,2026-07-21T13:08:30,58278913-20ad-4830-905b-b8e14359d276
+C0286,Aditi Singh,aditi.singh286@example.com,Hyderabad,South,Corporate,2025-11-15,customers.json,RetailMart,2026-07-21T13:08:30,e92da83d-ded0-4272-89f4-e3f8d5afe44f
+C0287,Saanvi Mehta,saanvi.mehta287@example.com,Hyderabad,South,Consumer,2024-04-27,customers.json,RetailMart,2026-07-21T13:08:30,98153e9e-d867-450f-af87-6bccf0077048
+C0288,Saanvi Saxena,saanvi.saxena288@example.com,Ahmedabad,West,Home Office,2025-02-21,customers.json,RetailMart,2026-07-21T13:08:30,cf4e904e-6aac-49b1-a83c-64ec717bf267
+C0289,Ishaan Mehta,ishaan.mehta289@example.com,Mumbai,West,Consumer,2025-01-30,customers.json,RetailMart,2026-07-21T13:08:30,bc3075d6-2ec3-4b18-b19f-72eab189120c
+C0290,Rohan Saxena,rohan.saxena290@example.com,Chandigarh,North,Home Office,2024-12-11,customers.json,RetailMart,2026-07-21T13:08:30,d8e79e23-9ca6-4f51-926b-9a685d6188d1
+C0291,Varun Saxena,varun.saxena291@example.com,Bengaluru,South,Consumer,2025-08-12,customers.json,RetailMart,2026-07-21T13:08:30,43b1dab6-db9f-4e0c-858f-e363aeb6690a
+C0292,Tanvi Singh,tanvi.singh292@example.com,Bengaluru,South,Corporate,2024-07-13,customers.json,RetailMart,2026-07-21T13:08:30,862150e2-94b6-448b-ad08-6acd29c9b396
+C0293,Aarav Joshi,aarav.joshi293@example.com,Pune,West,Corporate,2025-11-27,customers.json,RetailMart,2026-07-21T13:08:30,486c415c-e7ef-49b2-b764-479afe89c775
+C0294,Zoya Mehta,zoya.mehta294@example.com,Bhopal,Central,Consumer,2024-08-30,customers.json,RetailMart,2026-07-21T13:08:30,89721da2-bf6d-4e17-99db-332ff618bc62
+C0295,Riya Saxena,riya.saxena295@example.com,Kolkata,East,Corporate,2025-02-01,customers.json,RetailMart,2026-07-21T13:08:30,f5bd27ac-098a-4856-835a-3757d15ebee7
+C0296,Saanvi Singh,saanvi.singh296@example.com,Bhopal,Central,Corporate,2025-01-15,customers.json,RetailMart,2026-07-21T13:08:30,37f845b1-c893-46de-a523-72159f0a8f5a
+C0297,Kavya Kapoor,kavya.kapoor297@example.com,Pune,West,Corporate,2025-09-12,customers.json,RetailMart,2026-07-21T13:08:30,f0063c0a-d46e-4818-a991-da87fe7eb6bb
+C0298,Meera Kapoor,meera.kapoor298@example.com,Delhi,North,Home Office,2024-11-16,customers.json,RetailMart,2026-07-21T13:08:30,f356db8e-228b-4603-9aa1-18c8c179a6b9
+C0299,Priya Singh,priya.singh299@example.com,Hyderabad,South,Consumer,2024-07-26,customers.json,RetailMart,2026-07-21T13:08:30,61ae5ac9-cf43-4e0c-ba4d-6b103598716c
+C0300,Rohan Singh,rohan.singh300@example.com,Bhopal,Central,Consumer,2024-01-16,customers.json,RetailMart,2026-07-21T13:08:30,9e3148d8-417a-4b07-add3-f4392bf75926
+C0301,Aditi Saxena,aditi.saxena301@example.com,Chandigarh,North,Home Office,2024-09-22,customers.json,RetailMart,2026-07-21T13:08:30,5391a85c-e83b-4cf9-86ce-b925ea745dd1
+C0302,Priya Gupta,priya.gupta302@example.com,Kolkata,East,Home Office,2025-08-26,customers.json,RetailMart,2026-07-21T13:08:30,79ede139-2642-40bd-84f7-9781fab7f97c
+C0303,Meera Gupta,meera.gupta303@example.com,Hyderabad,South,Home Office,2024-01-08,customers.json,RetailMart,2026-07-21T13:08:30,810395f2-9e62-4777-8f33-ee514ccb91dd
+C0304,Diya Verma,diya.verma304@example.com,Pune,West,Home Office,2025-10-16,customers.json,RetailMart,2026-07-21T13:08:30,d514b9dd-eeb3-4d61-9bfa-bf87f8e4eac5
+C0305,Aditi Singh,aditi.singh305@example.com,Bhopal,Central,Corporate,2025-01-31,customers.json,RetailMart,2026-07-21T13:08:30,1df9d72a-2996-4084-b7eb-0989d98cd028
+C0306,Riya Mehta,riya.mehta306@example.com,Jaipur,North,Consumer,2024-04-12,customers.json,RetailMart,2026-07-21T13:08:30,72a47b31-2f0a-439c-ad03-3e9d0cf43f4b
+C0307,Rahul Kapoor,rahul.kapoor307@example.com,Pune,West,Consumer,2024-08-08,customers.json,RetailMart,2026-07-21T13:08:30,d462cb72-84e6-4563-b712-19a099fa11e6
+C0308,Diya Jain,diya.jain308@example.com,Bengaluru,South,Corporate,2025-02-08,customers.json,RetailMart,2026-07-21T13:08:30,9e90a907-e1c7-4644-9aba-8b69bf68d0ac
+C0309,Yash Singh,yash.singh309@example.com,Ahmedabad,West,Consumer,2024-08-18,customers.json,RetailMart,2026-07-21T13:08:30,d08fe758-a068-4e63-84ca-48ad50ae3916
+C0310,Varun Singh,varun.singh310@example.com,Pune,West,Home Office,2024-03-20,customers.json,RetailMart,2026-07-21T13:08:30,97ac1c91-4b1f-408e-8422-d0176d92ea89
+C0311,Arjun Joshi,arjun.joshi311@example.com,Hyderabad,South,Consumer,2025-05-01,customers.json,RetailMart,2026-07-21T13:08:30,3279c30c-cbaa-4c71-9377-7128b72c889a
+C0312,Meera Kapoor,meera.kapoor312@example.com,Mumbai,West,Home Office,2025-05-05,customers.json,RetailMart,2026-07-21T13:08:30,b543a581-ec71-4e36-a7fa-8d8c7784f944
+C0313,Ananya Kapoor,ananya.kapoor313@example.com,Hyderabad,South,Consumer,2024-03-27,customers.json,RetailMart,2026-07-21T13:08:30,f5e399a3-a96d-4bb0-906e-23f0c8745f43
+C0314,Zoya Verma,zoya.verma314@example.com,Pune,West,Corporate,2024-07-24,customers.json,RetailMart,2026-07-21T13:08:30,36ba64c8-2372-4749-b34d-bb63242ef39e
+C0315,Nikhil Saxena,nikhil.saxena315@example.com,Hyderabad,South,Corporate,2024-06-27,customers.json,RetailMart,2026-07-21T13:08:30,d487dae7-9bac-4a5b-bd51-19f58af6490f
+C0316,Riya Verma,riya.verma316@example.com,Bhopal,Central,Home Office,2025-04-26,customers.json,RetailMart,2026-07-21T13:08:30,79a25dcc-7ad1-4317-bd9e-03e5a60ecef0
+C0317,Varun Sharma,varun.sharma317@example.com,Bengaluru,South,Home Office,2025-06-17,customers.json,RetailMart,2026-07-21T13:08:30,f4e592df-475b-46df-a8bf-a211d58cf92d
+C0318,Rahul Saxena,rahul.saxena318@example.com,Ahmedabad,West,Consumer,2025-06-14,customers.json,RetailMart,2026-07-21T13:08:30,356b9deb-b5f3-4977-ae80-0bf9fc8da036
+C0319,Ananya Joshi,ananya.joshi319@example.com,Bhopal,Central,Home Office,2025-11-16,customers.json,RetailMart,2026-07-21T13:08:30,156d5745-aa68-440b-97d5-609e1d82b997
+C0320,Saanvi Verma,saanvi.verma320@example.com,Pune,West,Consumer,2025-07-15,customers.json,RetailMart,2026-07-21T13:08:30,e31ee81e-f88f-40ca-87ea-f53798a77bd0
+C0321,Aditi Singh,aditi.singh321@example.com,Jaipur,North,Corporate,2024-08-22,customers.json,RetailMart,2026-07-21T13:08:30,8d93eef7-863e-4954-85ed-5193f1011843
+C0322,Arjun Gupta,arjun.gupta322@example.com,Delhi,North,Home Office,2024-03-19,customers.json,RetailMart,2026-07-21T13:08:30,be4223a1-8f7c-4cf2-8815-d392e5270a57
+C0323,Rohan Joshi,rohan.joshi323@example.com,Mumbai,West,Corporate,2025-03-24,customers.json,RetailMart,2026-07-21T13:08:30,c823eade-012e-4704-a276-a6f817858c32
+C0324,Zoya Kapoor,zoya.kapoor324@example.com,Bhopal,Central,Home Office,2025-10-30,customers.json,RetailMart,2026-07-21T13:08:30,cc22dd32-89d9-4b54-a060-e2dfe26c0ede
+C0325,Diya Kapoor,diya.kapoor325@example.com,Lucknow,North,Home Office,2025-12-12,customers.json,RetailMart,2026-07-21T13:08:30,a17f4a43-d033-4000-bc43-61e738c5628d
+C0326,Varun Saxena,varun.saxena326@example.com,Delhi,North,Corporate,2024-06-17,customers.json,RetailMart,2026-07-21T13:08:30,6b13c13d-2ee1-4746-8462-2b569ca67315
+C0327,Aditi Patel,aditi.patel327@example.com,Pune,West,Consumer,2024-06-21,customers.json,RetailMart,2026-07-21T13:08:30,04c4c52a-ce6f-4efc-bbe9-d92ee6e41755
+C0328,Tanvi Gupta,tanvi.gupta328@example.com,Kolkata,East,Corporate,2024-01-28,customers.json,RetailMart,2026-07-21T13:08:30,bcfbc7a6-bd36-4690-8a24-3ea866558c18
+C0329,Riya Jain,riya.jain329@example.com,Delhi,North,Home Office,2024-04-13,customers.json,RetailMart,2026-07-21T13:08:30,b4d2eaff-e590-4da2-b111-5399e35a5de0
+C0330,Aditi Kapoor,aditi.kapoor330@example.com,Hyderabad,South,Corporate,2025-02-09,customers.json,RetailMart,2026-07-21T13:08:30,b98942a7-cb95-47fa-90fe-367613ae9fc2
+C0331,Arjun Joshi,arjun.joshi331@example.com,Bengaluru,South,Consumer,2025-02-03,customers.json,RetailMart,2026-07-21T13:08:30,381f3155-81f9-465d-8558-078043886015
+C0332,Kavya Saxena,kavya.saxena332@example.com,Bhopal,Central,Consumer,2024-09-27,customers.json,RetailMart,2026-07-21T13:08:30,f675af85-afe1-40da-bd6f-90c04ee8a90d
+C0333,Rahul Gupta,rahul.gupta333@example.com,Jaipur,North,Consumer,2024-08-14,customers.json,RetailMart,2026-07-21T13:08:30,c5834eb3-1676-4269-987a-39d74026a658
+C0334,Kavya Verma,kavya.verma334@example.com,Chandigarh,North,Home Office,2025-08-28,customers.json,RetailMart,2026-07-21T13:08:30,ad7e4cdd-a41b-4a5c-81ba-95ce16a597de
+C0335,Kavya Gupta,kavya.gupta335@example.com,Bengaluru,South,Corporate,2024-12-01,customers.json,RetailMart,2026-07-21T13:08:30,a9fde870-0e97-451d-b3d4-6aa0f43659fa
+C0336,Aarav Singh,aarav.singh336@example.com,Mumbai,West,Consumer,2025-08-13,customers.json,RetailMart,2026-07-21T13:08:30,e6140823-5dab-496e-a883-2c1b92fd1f7f
+C0337,Zoya Singh,zoya.singh337@example.com,Mumbai,West,Consumer,2025-12-04,customers.json,RetailMart,2026-07-21T13:08:30,1fe04490-9ec3-4940-8f83-1b8241c73ce5
+C0338,Aarav Mehta,aarav.mehta338@example.com,Delhi,North,Consumer,2024-08-19,customers.json,RetailMart,2026-07-21T13:08:30,47d2ee00-e495-4967-a6ee-55b2ca92ead1
+C0339,Meera Saxena,meera.saxena339@example.com,Hyderabad,South,Corporate,2024-05-27,customers.json,RetailMart,2026-07-21T13:08:30,f636d819-cc04-408a-aad6-a546d26cb611
+C0340,Ishaan Singh,ishaan.singh340@example.com,Jaipur,North,Consumer,2025-11-26,customers.json,RetailMart,2026-07-21T13:08:30,7a9f6ab4-0a3d-492e-bd7a-1e1fd080824a
+C0341,Saanvi Jain,saanvi.jain341@example.com,Mumbai,West,Consumer,2025-04-08,customers.json,RetailMart,2026-07-21T13:08:30,9a6a1d99-a8ea-4f95-a82a-60b33f3f3ef7
+C0342,Ananya Joshi,ananya.joshi342@example.com,Lucknow,North,Corporate,2024-07-31,customers.json,RetailMart,2026-07-21T13:08:30,72b5b129-02a5-40d7-8ee9-0b6e37df43ec
+C0343,Yash Saxena,yash.saxena343@example.com,Hyderabad,South,Consumer,2025-03-29,customers.json,RetailMart,2026-07-21T13:08:30,1846e839-7131-4dce-bae5-f80943014f1a
+C0344,Yash Gupta,yash.gupta344@example.com,Kolkata,East,Home Office,2025-01-10,customers.json,RetailMart,2026-07-21T13:08:30,a0246ffc-9e92-4ef9-9c31-4113b665f95d
+C0345,Yash Singh,yash.singh345@example.com,Jaipur,North,Corporate,2025-10-23,customers.json,RetailMart,2026-07-21T13:08:30,d93e95d7-b348-4f4c-b1b9-5c93cbc16e29
+C0346,Aarav Sharma,aarav.sharma346@example.com,Bhopal,Central,Corporate,2024-07-05,customers.json,RetailMart,2026-07-21T13:08:30,a85b16cd-e2a6-4f70-ab63-84684733a3eb
+C0347,Saanvi Verma,saanvi.verma347@example.com,Chennai,South,Corporate,2025-12-24,customers.json,RetailMart,2026-07-21T13:08:30,dac32d08-5c88-4829-8529-50b646113c6b
+C0348,Tanvi Verma,tanvi.verma348@example.com,Lucknow,North,Consumer,2025-11-14,customers.json,RetailMart,2026-07-21T13:08:30,8eb7af81-d24f-473a-921c-be8bc53acb62
+C0349,Diya Verma,diya.verma349@example.com,Hyderabad,South,Consumer,2024-05-11,customers.json,RetailMart,2026-07-21T13:08:30,f2ca1aca-9891-48ce-aff1-f606e53d7501
+C0350,Zoya Patel,zoya.patel350@example.com,Pune,West,Corporate,2024-04-30,customers.json,RetailMart,2026-07-21T13:08:30,991a4d1d-48c4-434d-bb6d-41d1437a0dea
+C0351,Yash Singh,yash.singh351@example.com,Chandigarh,North,Corporate,2025-01-24,customers.json,RetailMart,2026-07-21T13:08:30,029edd67-f004-4445-8267-4ec726f222ab
+C0352,Saanvi Verma,saanvi.verma352@example.com,Ahmedabad,West,Home Office,2024-02-02,customers.json,RetailMart,2026-07-21T13:08:30,8cb2d85e-5506-4550-99b0-6c8e81ff3cd7
+C0353,Zoya Gupta,zoya.gupta353@example.com,Delhi,North,Corporate,2024-08-06,customers.json,RetailMart,2026-07-21T13:08:30,76ef0335-94f2-4644-8847-6bdbe4732510
+C0354,Meera Kapoor,meera.kapoor354@example.com,Kolkata,East,Corporate,2024-11-13,customers.json,RetailMart,2026-07-21T13:08:30,14ab375f-0933-4e5d-902d-6e330ba4a84c
+C0355,Rohan Kapoor,rohan.kapoor355@example.com,Kolkata,East,Home Office,2025-12-08,customers.json,RetailMart,2026-07-21T13:08:30,34b11c4e-345e-41f4-8a37-e2ed8e7b81bd
+C0356,Rahul Kapoor,rahul.kapoor356@example.com,Delhi,North,Corporate,2025-12-25,customers.json,RetailMart,2026-07-21T13:08:30,84e4de43-2b5f-4219-a38a-275900b03b42
+C0357,Nikhil Patel,nikhil.patel357@example.com,Bhopal,Central,Consumer,2024-04-20,customers.json,RetailMart,2026-07-21T13:08:30,0521b843-ca90-45f3-b6e7-a75c13d016ef
+C0358,Varun Verma,varun.verma358@example.com,Bhopal,Central,Consumer,2025-10-12,customers.json,RetailMart,2026-07-21T13:08:30,d1f26473-606e-4213-88a0-673277313687
+C0359,Ananya Kapoor,ananya.kapoor359@example.com,Delhi,North,Consumer,2024-03-07,customers.json,RetailMart,2026-07-21T13:08:30,31838f2a-6f64-4030-ad78-8d2b0a2750c3
+C0360,Riya Mehta,riya.mehta360@example.com,Lucknow,North,Home Office,2025-06-30,customers.json,RetailMart,2026-07-21T13:08:30,9b2e7ea9-b277-4cbb-90f5-17d891fdb9e2
+C0361,Zoya Jain,zoya.jain361@example.com,Jaipur,North,Corporate,2025-09-09,customers.json,RetailMart,2026-07-21T13:08:30,11efe417-20d9-4b47-be7f-b672f47eecc2
+C0362,Arjun Kapoor,arjun.kapoor362@example.com,Bhopal,Central,Corporate,2025-10-12,customers.json,RetailMart,2026-07-21T13:08:30,818a4325-4ba2-4875-8888-a15c7a902526
+C0363,Saanvi Sharma,saanvi.sharma363@example.com,Bhopal,Central,Corporate,2024-06-12,customers.json,RetailMart,2026-07-21T13:08:30,8ffaca21-3d75-4381-979a-9588f1b9fa3c
+C0364,Priya Patel,priya.patel364@example.com,Chandigarh,North,Consumer,2025-10-14,customers.json,RetailMart,2026-07-21T13:08:30,56bdacbb-a9e8-4a09-8bcf-20c409f05d55
+C0365,Yash Gupta,yash.gupta365@example.com,Chandigarh,North,Consumer,2024-03-25,customers.json,RetailMart,2026-07-21T13:08:30,9a570ba9-73db-4917-a53e-8fb115d631cb
+C0366,Varun Gupta,varun.gupta366@example.com,Bhopal,Central,Consumer,2025-01-13,customers.json,RetailMart,2026-07-21T13:08:30,06e2f8fd-b09f-4901-9a9b-94b9f96a09f2
+C0367,Zoya Patel,zoya.patel367@example.com,Hyderabad,South,Consumer,2024-12-08,customers.json,RetailMart,2026-07-21T13:08:30,2bf32a9d-591c-4839-a044-b78af197d93c
+C0368,Meera Kapoor,meera.kapoor368@example.com,Pune,West,Home Office,2024-08-18,customers.json,RetailMart,2026-07-21T13:08:30,3a9afdd7-b222-493b-8ae9-a010c89d1bd3
+C0369,Zoya Sharma,zoya.sharma369@example.com,Chandigarh,North,Home Office,2024-01-17,customers.json,RetailMart,2026-07-21T13:08:30,cad2e730-008c-405f-adf4-e52c89cfcc0f
+C0370,Nikhil Sharma,nikhil.sharma370@example.com,Bhopal,Central,Consumer,2025-07-17,customers.json,RetailMart,2026-07-21T13:08:30,7baaef5c-c1dd-49c8-8a48-830245b0e845
+C0371,Priya Patel,priya.patel371@example.com,Pune,West,Corporate,2024-09-01,customers.json,RetailMart,2026-07-21T13:08:30,3e2cbd80-22c7-4f7b-a812-ac2012d772cc
+C0372,Ishaan Mehta,ishaan.mehta372@example.com,Jaipur,North,Home Office,2025-04-28,customers.json,RetailMart,2026-07-21T13:08:30,9191e06b-fede-46cf-896b-20653f9644e3
+C0373,Rohan Verma,rohan.verma373@example.com,Bhopal,Central,Consumer,2024-10-26,customers.json,RetailMart,2026-07-21T13:08:30,704fc329-ac5b-464f-9a13-3d85a4b7d1f7
+C0374,Aarav Verma,aarav.verma374@example.com,Lucknow,North,Home Office,2024-09-29,customers.json,RetailMart,2026-07-21T13:08:30,34aa1a30-5e70-4c0c-b8b9-0cb76f39af57
+C0375,Kavya Kapoor,kavya.kapoor375@example.com,Ahmedabad,West,Corporate,2025-10-08,customers.json,RetailMart,2026-07-21T13:08:30,0871e6e7-e9e8-4387-845e-47662228920e
+C0376,Rahul Mehta,rahul.mehta376@example.com,Kolkata,East,Corporate,2024-03-09,customers.json,RetailMart,2026-07-21T13:08:30,7d2d3537-d02d-42c2-b698-8274f3d84af6
+C0377,Rahul Saxena,rahul.saxena377@example.com,Pune,West,Home Office,2025-06-21,customers.json,RetailMart,2026-07-21T13:08:30,844a5fc7-4cd9-421b-a8d7-7573e2b4d6f9
+C0378,Aditi Mehta,aditi.mehta378@example.com,Delhi,North,Consumer,2025-06-29,customers.json,RetailMart,2026-07-21T13:08:30,6cc5a810-2750-49c3-bdc5-22c5069fe7a7
+C0379,Aditi Verma,aditi.verma379@example.com,Chandigarh,North,Corporate,2024-10-04,customers.json,RetailMart,2026-07-21T13:08:30,a0662234-22f9-4897-8c35-7205a0ef1cea
+C0380,Saanvi Joshi,saanvi.joshi380@example.com,Kolkata,East,Home Office,2024-07-10,customers.json,RetailMart,2026-07-21T13:08:30,93869cb4-509a-4a4e-9b58-a26895e0d8bd
+C0381,Saanvi Singh,saanvi.singh381@example.com,Kolkata,East,Consumer,2024-01-04,customers.json,RetailMart,2026-07-21T13:08:30,5d0b2bd6-15e1-4984-8fc3-8717c6d817f1
+C0382,Arjun Patel,arjun.patel382@example.com,Ahmedabad,West,Corporate,2025-11-14,customers.json,RetailMart,2026-07-21T13:08:30,01224c4d-f24c-483c-b2b5-ef13ee9cef81
+C0383,Priya Saxena,priya.saxena383@example.com,Delhi,North,Corporate,2025-11-22,customers.json,RetailMart,2026-07-21T13:08:30,73819e2e-7c68-4784-b110-5ddc6f8ddfcd
+C0384,Priya Sharma,priya.sharma384@example.com,Ahmedabad,West,Consumer,2024-06-24,customers.json,RetailMart,2026-07-21T13:08:30,b432b726-df34-4409-babe-0e8036b2c722
+C0385,Aditi Sharma,aditi.sharma385@example.com,Chennai,South,Consumer,2024-01-24,customers.json,RetailMart,2026-07-21T13:08:30,7b27a72d-739e-4243-9741-de1aa49e9f21
+C0386,Kavya Mehta,kavya.mehta386@example.com,Pune,West,Corporate,2024-03-30,customers.json,RetailMart,2026-07-21T13:08:30,75401891-20c2-4d29-b0a5-6701ec6868a9
+C0387,Rahul Verma,rahul.verma387@example.com,Pune,West,Consumer,2024-02-19,customers.json,RetailMart,2026-07-21T13:08:30,471aac53-e71c-4c86-9b72-ec76ad25a4bf
+C0388,Saanvi Mehta,saanvi.mehta388@example.com,Kolkata,East,Consumer,2025-08-29,customers.json,RetailMart,2026-07-21T13:08:30,f0339b94-118c-46eb-a9ca-8874ebc112ba
+C0389,Zoya Gupta,zoya.gupta389@example.com,Chennai,South,Home Office,2025-10-13,customers.json,RetailMart,2026-07-21T13:08:30,f8c26afa-eb55-42d9-81b0-07169b8e7682
+C0390,Riya Verma,riya.verma390@example.com,Ahmedabad,West,Corporate,2024-04-21,customers.json,RetailMart,2026-07-21T13:08:30,ad6a7d2d-8207-484d-8b1e-278796404a79
+C0391,Aditi Kapoor,aditi.kapoor391@example.com,Lucknow,North,Consumer,2025-06-29,customers.json,RetailMart,2026-07-21T13:08:30,fe34dae6-f53b-4308-b6b8-37dc6e44d670
+C0392,Ananya Patel,ananya.patel392@example.com,Kolkata,East,Home Office,2024-05-10,customers.json,RetailMart,2026-07-21T13:08:30,a7c71dad-4bd3-41b8-a739-c7e8032fdee2
+C0393,Rohan Kapoor,rohan.kapoor393@example.com,Chennai,South,Corporate,2024-09-25,customers.json,RetailMart,2026-07-21T13:08:30,8ec084d9-7d5f-47bb-9002-7480f78468dc
+C0394,Rohan Sharma,rohan.sharma394@example.com,Delhi,North,Corporate,2025-03-13,customers.json,RetailMart,2026-07-21T13:08:30,bd6a14fc-5adf-4207-9849-f818efbc5fcf
+C0395,Tanvi Patel,tanvi.patel395@example.com,Mumbai,West,Consumer,2025-06-09,customers.json,RetailMart,2026-07-21T13:08:30,e9537c12-446c-4ced-85ec-93a7d4997958
+C0396,Arjun Gupta,arjun.gupta396@example.com,Chennai,South,Corporate,2025-09-30,customers.json,RetailMart,2026-07-21T13:08:30,b830bb53-8e4f-4836-81f9-4ae34b4c9662
+C0397,Rohan Jain,rohan.jain397@example.com,Chandigarh,North,Consumer,2024-02-02,customers.json,RetailMart,2026-07-21T13:08:30,e0832ada-d609-465f-9b45-578c909cbb8e
+C0398,Priya Patel,priya.patel398@example.com,Chennai,South,Consumer,2024-05-23,customers.json,RetailMart,2026-07-21T13:08:30,3379800a-a19d-4ca8-b768-73140741865b
+C0399,Ishaan Verma,ishaan.verma399@example.com,Hyderabad,South,Home Office,2024-07-23,customers.json,RetailMart,2026-07-21T13:08:30,7c0a8f07-b9b8-498e-a55d-080b997ab1c1
+C0400,Arjun Jain,arjun.jain400@example.com,Bhopal,Central,Home Office,2024-08-14,customers.json,RetailMart,2026-07-21T13:08:30,1941c41b-27dc-42d9-b474-31fae051620a
+C0401,Riya Patel,riya.patel401@example.com,Bengaluru,South,Home Office,2025-12-29,customers.json,RetailMart,2026-07-21T13:08:30,bdea8c40-c4fd-4c2f-859c-e563d85791a0
+C0402,Diya Gupta,diya.gupta402@example.com,Bhopal,Central,Consumer,2025-07-21,customers.json,RetailMart,2026-07-21T13:08:30,ac6325fb-215d-493a-82eb-fa770c18a97e
+C0403,Nikhil Gupta,nikhil.gupta403@example.com,Mumbai,West,Consumer,2024-08-21,customers.json,RetailMart,2026-07-21T13:08:30,e8971ea6-d800-429e-b2fc-681ef3b612bb
+C0404,Diya Verma,diya.verma404@example.com,Chandigarh,North,Consumer,2025-12-10,customers.json,RetailMart,2026-07-21T13:08:30,196f8373-6fcc-4dbb-955e-68ab69cb5255
+C0405,Varun Joshi,varun.joshi405@example.com,Bhopal,Central,Home Office,2024-12-30,customers.json,RetailMart,2026-07-21T13:08:30,823cc177-ba9f-4e77-849b-e161be979594
+C0406,Tanvi Saxena,tanvi.saxena406@example.com,Chandigarh,North,Home Office,2024-12-31,customers.json,RetailMart,2026-07-21T13:08:30,8255ebf1-b26b-4dfc-b623-c5d250ebc67f
+C0407,Rahul Patel,rahul.patel407@example.com,Bhopal,Central,Consumer,2024-11-12,customers.json,RetailMart,2026-07-21T13:08:30,c24bbd97-8771-4787-8630-4fea81426c19
+C0408,Ananya Joshi,ananya.joshi408@example.com,Kolkata,East,Corporate,2024-04-15,customers.json,RetailMart,2026-07-21T13:08:30,142766bd-5138-4190-8d51-09fd7dc0e071
+C0409,Priya Singh,priya.singh409@example.com,Bhopal,Central,Home Office,2025-11-13,customers.json,RetailMart,2026-07-21T13:08:30,7e1b6493-2677-43e3-b64b-8907a2108b39
+C0410,Riya Jain,riya.jain410@example.com,Jaipur,North,Consumer,2024-01-11,customers.json,RetailMart,2026-07-21T13:08:30,5797b537-77a2-4b17-b157-7b316a8ea420
+C0411,Tanvi Joshi,tanvi.joshi411@example.com,Pune,West,Consumer,2024-05-07,customers.json,RetailMart,2026-07-21T13:08:30,c0e34137-9edf-4ef1-b19e-9b28cc2bf27a
+C0412,Riya Singh,riya.singh412@example.com,Jaipur,North,Consumer,2024-06-16,customers.json,RetailMart,2026-07-21T13:08:30,509eeeb0-976d-469d-bfdd-1f76f9aa6fe6
+C0413,Ananya Saxena,ananya.saxena413@example.com,Bhopal,Central,Home Office,2024-07-22,customers.json,RetailMart,2026-07-21T13:08:30,d4424af6-a264-4b9c-9fa2-80565f05d5f1
+C0414,Rohan Joshi,rohan.joshi414@example.com,Ahmedabad,West,Home Office,2024-04-06,customers.json,RetailMart,2026-07-21T13:08:30,ee84e47a-e6bc-4f24-9ae6-feb0f93915ee
+C0415,Aditi Joshi,aditi.joshi415@example.com,Ahmedabad,West,Home Office,2024-01-14,customers.json,RetailMart,2026-07-21T13:08:30,724baf74-4faa-4304-bbcf-1582aa275394
+C0416,Kavya Patel,kavya.patel416@example.com,Bhopal,Central,Home Office,2025-05-09,customers.json,RetailMart,2026-07-21T13:08:30,37121a3a-4822-46b3-9fc9-e5d0cf59a919
+C0417,Yash Mehta,yash.mehta417@example.com,Kolkata,East,Consumer,2025-12-08,customers.json,RetailMart,2026-07-21T13:08:30,1cba01fd-351e-419d-be22-eea137ce2d54
+C0418,Arjun Patel,arjun.patel418@example.com,Kolkata,East,Home Office,2024-03-29,customers.json,RetailMart,2026-07-21T13:08:30,84c21796-1655-4061-8a8e-be7f7c7d6057
+C0419,Yash Mehta,yash.mehta419@example.com,Delhi,North,Consumer,2024-08-04,customers.json,RetailMart,2026-07-21T13:08:30,6923bd4f-0903-4782-9d4e-3d7ec141cbdc
+C0420,Tanvi Joshi,tanvi.joshi420@example.com,Bengaluru,South,Home Office,2025-01-04,customers.json,RetailMart,2026-07-21T13:08:30,758f4fcf-8ede-4b27-beff-5c40174b06e4
+C0421,Ishaan Patel,ishaan.patel421@example.com,Ahmedabad,West,Corporate,2025-11-08,customers.json,RetailMart,2026-07-21T13:08:30,7adfc38a-379e-48c0-bd7a-e3ac6efea99f
+C0422,Rohan Kapoor,rohan.kapoor422@example.com,Pune,West,Corporate,2025-05-21,customers.json,RetailMart,2026-07-21T13:08:30,f7404db1-80e9-4095-941c-c3b72d3be2ac
+C0423,Aditi Patel,aditi.patel423@example.com,Bhopal,Central,Consumer,2025-07-13,customers.json,RetailMart,2026-07-21T13:08:30,a8781ad6-029a-4f67-aaeb-7b917ae5a59c
+C0424,Arjun Jain,arjun.jain424@example.com,Hyderabad,South,Home Office,2025-02-28,customers.json,RetailMart,2026-07-21T13:08:30,f1dac06d-2516-4d80-924f-97b922b522a5
+C0425,Priya Singh,priya.singh425@example.com,Chennai,South,Home Office,2024-10-31,customers.json,RetailMart,2026-07-21T13:08:30,1fdd4a6a-18b6-4532-a670-f9460f87ed98
+C0426,Diya Patel,diya.patel426@example.com,Bhopal,Central,Consumer,2024-05-25,customers.json,RetailMart,2026-07-21T13:08:30,68c6b780-d647-4836-a95a-5a19a39f94a0
+C0427,Diya Patel,diya.patel427@example.com,Chandigarh,North,Corporate,2025-09-22,customers.json,RetailMart,2026-07-21T13:08:30,ec78b2a5-6f9d-46c9-b486-05438cccfee7
+C0428,Rohan Mehta,rohan.mehta428@example.com,Bhopal,Central,Home Office,2025-08-10,customers.json,RetailMart,2026-07-21T13:08:30,7c27fa65-d400-46b1-91b3-11f18043aa91
+C0429,Ananya Singh,ananya.singh429@example.com,Lucknow,North,Home Office,2024-01-19,customers.json,RetailMart,2026-07-21T13:08:30,fdf0387d-80d7-4958-aa71-59eee1621230
+C0430,Rahul Mehta,rahul.mehta430@example.com,Chennai,South,Home Office,2025-06-06,customers.json,RetailMart,2026-07-21T13:08:30,02006bf0-6330-4560-9cb2-d8604419cf91
+C0431,Yash Verma,yash.verma431@example.com,Lucknow,North,Home Office,2024-03-02,customers.json,RetailMart,2026-07-21T13:08:30,01d11279-20ea-4017-b5e0-dc3dcb5a69b0
+C0432,Saanvi Jain,saanvi.jain432@example.com,Bhopal,Central,Corporate,2025-06-23,customers.json,RetailMart,2026-07-21T13:08:30,98bdd501-364f-4994-b963-e39ab8e8ba6a
+C0433,Riya Singh,riya.singh433@example.com,Jaipur,North,Consumer,2025-08-25,customers.json,RetailMart,2026-07-21T13:08:30,bccaddcc-1d3e-4b70-9744-a723642169b9
+C0434,Rahul Joshi,rahul.joshi434@example.com,Bengaluru,South,Consumer,2024-04-05,customers.json,RetailMart,2026-07-21T13:08:30,93cff46b-28dc-4df6-b529-9c4d7ad98e34
+C0435,Diya Mehta,diya.mehta435@example.com,Bengaluru,South,Consumer,2024-11-12,customers.json,RetailMart,2026-07-21T13:08:30,deedfe4d-27fd-4478-9b3c-d6481be5b1d2
+C0436,Arjun Jain,arjun.jain436@example.com,Pune,West,Home Office,2024-03-31,customers.json,RetailMart,2026-07-21T13:08:30,c9f6fb8a-12ca-41ce-9d3c-24af23038de4
+C0437,Yash Sharma,yash.sharma437@example.com,Lucknow,North,Home Office,2025-02-18,customers.json,RetailMart,2026-07-21T13:08:30,49f678ad-266f-4ef0-bb3a-ecbffae86a72
+C0438,Diya Saxena,diya.saxena438@example.com,Hyderabad,South,Corporate,2025-11-08,customers.json,RetailMart,2026-07-21T13:08:30,fe8627d2-aadd-4405-9245-1083a1c7f79f
+C0439,Ishaan Mehta,ishaan.mehta439@example.com,Mumbai,West,Home Office,2024-02-29,customers.json,RetailMart,2026-07-21T13:08:30,d650a280-62e1-40c1-a3f7-5b6a19bc9856
+C0440,Ishaan Joshi,ishaan.joshi440@example.com,Chandigarh,North,Consumer,2024-10-17,customers.json,RetailMart,2026-07-21T13:08:30,af10ee07-47f6-4102-a9b7-ed015d10ad0c
+C0441,Riya Gupta,riya.gupta441@example.com,Chennai,South,Corporate,2025-12-11,customers.json,RetailMart,2026-07-21T13:08:30,f029f544-dc4f-4978-8ba1-14283c98bbb4
+C0442,Priya Joshi,priya.joshi442@example.com,Chandigarh,North,Consumer,2024-08-07,customers.json,RetailMart,2026-07-21T13:08:30,95bf7b4a-af9f-463e-babb-a9cd6466e8dd
+C0443,Meera Singh,meera.singh443@example.com,Ahmedabad,West,Corporate,2024-04-06,customers.json,RetailMart,2026-07-21T13:08:30,1327c2bc-2d6c-443a-bed5-a09fbbf58f6e
+C0444,Riya Saxena,riya.saxena444@example.com,Bengaluru,South,Corporate,2024-12-22,customers.json,RetailMart,2026-07-21T13:08:30,c51f5e4d-d30c-4b87-aa0f-b1874ec36f9e
+C0445,Priya Kapoor,priya.kapoor445@example.com,Kolkata,East,Home Office,2025-01-06,customers.json,RetailMart,2026-07-21T13:08:30,635aa766-eaad-41d6-acd0-155271474135
+C0446,Saanvi Mehta,saanvi.mehta446@example.com,Ahmedabad,West,Consumer,2025-04-28,customers.json,RetailMart,2026-07-21T13:08:30,f29f2ade-2c57-485e-8493-e93cb1445324
+C0447,Diya Singh,diya.singh447@example.com,Chandigarh,North,Consumer,2024-08-17,customers.json,RetailMart,2026-07-21T13:08:30,3442dcc0-6587-4677-bf59-61fa795e7f58
+C0448,Varun Patel,varun.patel448@example.com,Bhopal,Central,Home Office,2025-11-28,customers.json,RetailMart,2026-07-21T13:08:30,14983efe-5bad-4ddd-9af1-69b3bd02587d
+C0449,Yash Verma,yash.verma449@example.com,Delhi,North,Corporate,2025-01-15,customers.json,RetailMart,2026-07-21T13:08:30,d3f7522b-5230-4ed4-8113-f5214807ac16
+C0450,Ishaan Singh,ishaan.singh450@example.com,Delhi,North,Corporate,2024-07-28,customers.json,RetailMart,2026-07-21T13:08:30,40670ad1-b802-4215-8390-2c3a62aa2850
+C0451,Diya Kapoor,diya.kapoor451@example.com,Ahmedabad,West,Consumer,2025-12-02,customers.json,RetailMart,2026-07-21T13:08:30,1d243bf8-c622-4f39-b47b-fd8978b04569
+C0452,Tanvi Patel,tanvi.patel452@example.com,Bengaluru,South,Consumer,2025-11-06,customers.json,RetailMart,2026-07-21T13:08:30,009c7f23-47cb-4a9f-8011-2a79896926c8
+C0453,Aditi Kapoor,aditi.kapoor453@example.com,Chennai,South,Home Office,2024-12-30,customers.json,RetailMart,2026-07-21T13:08:30,7d85a35d-90df-4d20-8d4f-ad10b6229525
+C0454,Meera Kapoor,meera.kapoor454@example.com,Hyderabad,South,Consumer,2024-01-19,customers.json,RetailMart,2026-07-21T13:08:30,130e1e30-c9bb-4b95-ac6a-99f2221bbae3
+C0455,Meera Sharma,meera.sharma455@example.com,Hyderabad,South,Corporate,2025-03-11,customers.json,RetailMart,2026-07-21T13:08:30,f67cd4c5-70cc-4367-8c6d-9668abd14f4d
+C0456,Rahul Mehta,rahul.mehta456@example.com,Delhi,North,Consumer,2025-02-09,customers.json,RetailMart,2026-07-21T13:08:30,798aaa50-6c6a-4bd3-9b19-41f3d9dd8cbd
+C0457,Priya Joshi,priya.joshi457@example.com,Jaipur,North,Home Office,2024-04-18,customers.json,RetailMart,2026-07-21T13:08:30,5ab49af9-9e46-4cb4-889b-99e4f907c7fa
+C0458,Varun Joshi,varun.joshi458@example.com,Mumbai,West,Home Office,2025-04-07,customers.json,RetailMart,2026-07-21T13:08:30,3f63964a-0aff-4058-8edc-7306c4d6d57c
+C0459,Ananya Sharma,ananya.sharma459@example.com,Jaipur,North,Corporate,2025-09-05,customers.json,RetailMart,2026-07-21T13:08:30,524f4e50-5f8c-487c-986a-09629ca7b926
+C0460,Diya Jain,diya.jain460@example.com,Bengaluru,South,Home Office,2024-03-18,customers.json,RetailMart,2026-07-21T13:08:30,6cf140da-5f7b-466e-9e15-f9877982e55f
+C0461,Yash Kapoor,yash.kapoor461@example.com,Chandigarh,North,Consumer,2025-06-12,customers.json,RetailMart,2026-07-21T13:08:30,741ba14b-0321-4243-aa17-800c8ac32b97
+C0462,Meera Singh,meera.singh462@example.com,Pune,West,Consumer,2024-04-12,customers.json,RetailMart,2026-07-21T13:08:30,8305851b-5788-4ca9-941c-a7622167d6bb
+C0463,Meera Kapoor,meera.kapoor463@example.com,Jaipur,North,Home Office,2025-06-30,customers.json,RetailMart,2026-07-21T13:08:30,04441e2e-5a0c-4a7c-9bf9-0200911afb81
+C0464,Tanvi Verma,tanvi.verma464@example.com,Chandigarh,North,Consumer,2024-11-01,customers.json,RetailMart,2026-07-21T13:08:30,0d69c61f-6f4e-4cb2-9328-d381d23f6fcd
+C0465,Zoya Sharma,zoya.sharma465@example.com,Kolkata,East,Home Office,2024-01-05,customers.json,RetailMart,2026-07-21T13:08:30,aae89a3e-6538-4f5b-9489-37435ba5886b
+C0466,Meera Mehta,meera.mehta466@example.com,Ahmedabad,West,Corporate,2025-12-06,customers.json,RetailMart,2026-07-21T13:08:30,5e66491e-0d65-4d5f-a16c-49752dcdec59
+C0467,Aarav Saxena,aarav.saxena467@example.com,Chennai,South,Corporate,2024-05-01,customers.json,RetailMart,2026-07-21T13:08:30,72cbce93-82cb-42d9-9b26-2db046991220
+C0468,Saanvi Mehta,saanvi.mehta468@example.com,Bengaluru,South,Home Office,2025-03-11,customers.json,RetailMart,2026-07-21T13:08:30,d0c013d7-c8d4-4555-9517-a66c68c0b7a6
+C0469,Ananya Jain,ananya.jain469@example.com,Bhopal,Central,Corporate,2024-05-12,customers.json,RetailMart,2026-07-21T13:08:30,53e92f94-5f01-43a5-aa6a-6c3621aef5c4
+C0470,Yash Jain,yash.jain470@example.com,Delhi,North,Home Office,2025-11-12,customers.json,RetailMart,2026-07-21T13:08:30,7136d580-25b6-4e23-9088-5e5c872cb831
+C0471,Zoya Sharma,zoya.sharma471@example.com,Ahmedabad,West,Corporate,2025-06-22,customers.json,RetailMart,2026-07-21T13:08:30,bca11952-7e0d-421e-912e-cecca242c153
+C0472,Aditi Kapoor,aditi.kapoor472@example.com,Kolkata,East,Corporate,2025-08-10,customers.json,RetailMart,2026-07-21T13:08:30,a5ceb971-22dc-4e4e-a353-7e1ad44d6c6e
+C0473,Aarav Patel,aarav.patel473@example.com,Pune,West,Consumer,2024-11-11,customers.json,RetailMart,2026-07-21T13:08:30,36ebd136-e266-4991-a1f3-aa59d1b3ede9
+C0474,Meera Verma,meera.verma474@example.com,Hyderabad,South,Home Office,2024-12-07,customers.json,RetailMart,2026-07-21T13:08:30,bce5934a-54f9-4536-8325-3d06feaad1a0
+C0475,Rahul Mehta,rahul.mehta475@example.com,Lucknow,North,Consumer,2025-04-08,customers.json,RetailMart,2026-07-21T13:08:30,5c640820-b4a9-4638-b12a-a1c0becefd53
+C0476,Zoya Patel,zoya.patel476@example.com,Hyderabad,South,Home Office,2025-07-26,customers.json,RetailMart,2026-07-21T13:08:30,23095473-47c5-494a-a357-c64b2e48eb60
+C0477,Tanvi Joshi,tanvi.joshi477@example.com,Mumbai,West,Home Office,2025-09-10,customers.json,RetailMart,2026-07-21T13:08:30,1a23ff7b-ddc1-4f3f-ab90-90808b449099
+C0478,Diya Verma,diya.verma478@example.com,Mumbai,West,Home Office,2024-01-14,customers.json,RetailMart,2026-07-21T13:08:30,b7543412-2442-4c7d-b534-e0d155680ae3
+C0479,Aditi Singh,aditi.singh479@example.com,Kolkata,East,Consumer,2025-04-29,customers.json,RetailMart,2026-07-21T13:08:30,f9900e55-e6a7-41c4-8e16-f53b262f6e48
+C0480,Kavya Sharma,kavya.sharma480@example.com,Jaipur,North,Corporate,2024-03-20,customers.json,RetailMart,2026-07-21T13:08:30,64d027aa-6b41-4d30-bc9e-e8a49ba0901a
+C0481,Yash Kapoor,yash.kapoor481@example.com,Pune,West,Home Office,2024-07-29,customers.json,RetailMart,2026-07-21T13:08:30,72f64841-3039-4dc3-ba68-908a985d9238
+C0482,Nikhil Sharma,nikhil.sharma482@example.com,Kolkata,East,Home Office,2025-08-28,customers.json,RetailMart,2026-07-21T13:08:30,28704ab7-9e3d-49a3-8557-b1a0e6b49d57
+C0483,Priya Patel,priya.patel483@example.com,Bengaluru,South,Consumer,2024-07-01,customers.json,RetailMart,2026-07-21T13:08:30,012859a3-bbbf-450c-82a2-aa34584733d7
+C0484,Rahul Singh,rahul.singh484@example.com,Bhopal,Central,Consumer,2025-08-04,customers.json,RetailMart,2026-07-21T13:08:30,19a3efe9-e23c-4798-a96e-0164e82e61a5
+C0485,Saanvi Kapoor,saanvi.kapoor485@example.com,Hyderabad,South,Home Office,2024-12-03,customers.json,RetailMart,2026-07-21T13:08:30,05e5a25e-5b03-4a80-bea8-5482d3f22ef7
+C0486,Rohan Patel,rohan.patel486@example.com,Kolkata,East,Consumer,2024-06-18,customers.json,RetailMart,2026-07-21T13:08:30,13ff72e8-7646-44b0-b23c-cf360857a764
+C0487,Varun Patel,varun.patel487@example.com,Kolkata,East,Home Office,2024-08-31,customers.json,RetailMart,2026-07-21T13:08:30,8775eb26-d6ed-48e1-b14f-c3cf9e7c6973
+C0488,Ananya Kapoor,ananya.kapoor488@example.com,Pune,West,Consumer,2025-01-22,customers.json,RetailMart,2026-07-21T13:08:30,b5ca84a4-80c5-47d5-932d-5849094f5d40
+C0489,Ishaan Jain,ishaan.jain489@example.com,Chennai,South,Corporate,2025-07-12,customers.json,RetailMart,2026-07-21T13:08:30,0007285f-fca7-482a-8f66-fa6e6bfaaae9
+C0490,Arjun Verma,arjun.verma490@example.com,Hyderabad,South,Corporate,2025-03-18,customers.json,RetailMart,2026-07-21T13:08:30,e31b71e6-8f55-4160-947d-c2c0fa25828d
+C0491,Priya Singh,priya.singh491@example.com,Bhopal,Central,Corporate,2025-11-12,customers.json,RetailMart,2026-07-21T13:08:30,4d5167d8-117c-474b-88f4-b8d2d4317399
+C0492,Saanvi Mehta,saanvi.mehta492@example.com,Chandigarh,North,Home Office,2025-09-25,customers.json,RetailMart,2026-07-21T13:08:30,75d4245f-95bf-4069-9b69-05aa708fff98
+C0493,Riya Joshi,riya.joshi493@example.com,Kolkata,East,Consumer,2025-07-03,customers.json,RetailMart,2026-07-21T13:08:30,558a85ea-463b-4144-acd6-e7f1bcec5937
+C0494,Riya Saxena,riya.saxena494@example.com,Lucknow,North,Corporate,2025-03-16,customers.json,RetailMart,2026-07-21T13:08:30,6d2d086d-aa81-4fa5-ab1a-c4a947648b95
+C0495,Aditi Verma,aditi.verma495@example.com,Pune,West,Home Office,2024-07-30,customers.json,RetailMart,2026-07-21T13:08:30,d1a69364-534f-418a-b71a-22b4d8584a62
+C0496,Rohan Patel,rohan.patel496@example.com,Bhopal,Central,Home Office,2024-10-28,customers.json,RetailMart,2026-07-21T13:08:30,a3ef8391-18ee-4260-a7ac-8882cc1187b7
+C0497,Ishaan Sharma,ishaan.sharma497@example.com,Lucknow,North,Consumer,2024-03-27,customers.json,RetailMart,2026-07-21T13:08:30,81394209-9bda-4333-9da1-e4da43263abc
+C0498,Tanvi Sharma,tanvi.sharma498@example.com,Chandigarh,North,Consumer,2024-09-30,customers.json,RetailMart,2026-07-21T13:08:30,a72c351e-4cb4-444b-b447-20e9ce785196
+C0499,Meera Patel,meera.patel499@example.com,Delhi,North,Corporate,2025-11-07,customers.json,RetailMart,2026-07-21T13:08:30,5a73c545-5580-4768-89a6-ff8f9a2fa2ef
+C0500,Aditi Saxena,aditi.saxena500@example.com,Chennai,South,Consumer,2024-11-06,customers.json,RetailMart,2026-07-21T13:08:30,79c59d8b-891f-40d6-8081-7ee093946ac3
+C0021,Ananya Saxena,ananya.saxena21@example.com,Bhopal,Central,Home Office,2024-12-31,customers.json,RetailMart,2026-07-21T13:08:30,1f616e7f-bdd7-4a51-9abf-6257ee1a8fce
+C0022,Zoya Gupta,zoya.gupta22@example.com,Mumbai,West,Consumer,2024-09-27,customers.json,RetailMart,2026-07-21T13:08:30,ea55cf6e-ad08-4b57-ae39-ca22eeef5f70
+C0023,Rohan Singh,rohan.singh23@example.com,Kolkata,East,Home Office,2024-05-13,customers.json,RetailMart,2026-07-21T13:08:30,d60cb929-e23f-4add-bd69-7c9b068a2375
+C0024,Zoya Gupta,zoya.gupta24@example.com,Lucknow,North,Home Office,2025-11-07,customers.json,RetailMart,2026-07-21T13:08:30,84c8afa8-032a-49eb-a1e7-5c73b8691620
+C0025,Aditi Gupta,aditi.gupta25@example.com,Hyderabad,South,Consumer,2025-07-24,customers.json,RetailMart,2026-07-21T13:08:30,4f824607-292d-42e2-91bf-44bb9d229443
